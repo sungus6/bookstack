@@ -10,7 +10,7 @@ Usage:
     python3 upload.py --dry-run                # preview without changes
     python3 upload.py --force                  # skip content diff check
 
-Config: ~/bookstack/config.py (Linux) or C:\bookstack\config.py (Windows)
+Config: ~/bookstack/config.py (Linux) or C:\bookstack\\config.py (Windows)
 """
 
 import argparse

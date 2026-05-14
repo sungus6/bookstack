@@ -8,7 +8,7 @@ Usage:
     python3 export.py --books network-TSs      # export specific books
     python3 export.py --dry-run                # preview without writing files
 
-Config: ~/bookstack/config.py (Linux) or C:\bookstack\config.py (Windows)
+Config: ~/bookstack/config.py (Linux) or C:\bookstack\\config.py (Windows)
 """
 
 import argparse
