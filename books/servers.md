@@ -5,13 +5,18 @@
 
 ## Contents
 
-- Docker (Rivendell)
-- NAS (Moria, Belegost, Erebor)
-- Specialized Machines (Home Assistant, palantir, minasmorgul, isengard)
+- Docker — Rivendell
+- NAS — Moria
+- NAS — Belegost
+- NAS — Erebor
+- Specialized Machines — Home Assistant
+- Specialized Machines — palantir
+- Specialized Machines — minasmorgul
+- Specialized Machines — isengard
 
 ---
 
-### Docker (Rivendell)
+### Docker — Rivendell
 
 Rivendell is the primary server in Arda. It runs all Docker-based workloads including the AI stack, BookStack wiki, monitoring, and external access.
 
@@ -60,11 +65,11 @@ Rivendell is backed up nightly to Moria via automated script.
 
 ---
 
-### NAS (Moria, Belegost, Erebor)
-
-#### Moria — Primary NAS
+### NAS — Moria
 
 Moria (Synology DS1511+) provides storage for the entire Arda network.
+
+#### Specs
 
 | Field | Value |
 |-------|-------|
@@ -75,12 +80,13 @@ Moria (Synology DS1511+) provides storage for the entire Arda network.
 | **VLAN** | 10 (trusted) |
 | **Access** | SSH (aule@moria.lan) or DSM web UI (https://moria.lan:5001) |
 
-**Services:**
+#### Services
+
 - **UniFi Controller** — runs as a Docker container on Moria (not Rivendell). URL: https://unifi.lan:8443
 - **NFS shares** — mounted by Rivendell for Docker volume data, media, backups
 - **Backup target** — nightly backups from Rivendell and other machines land here
 
-**Storage Layout:**
+#### Storage Layout
 
 | Path | Purpose |
 |------|---------|
@@ -88,19 +94,31 @@ Moria (Synology DS1511+) provides storage for the entire Arda network.
 | `/volume1/media/` | Shared media (music, photos, video) |
 | `/volume1/docker/` | Docker volume data (exported via NFS) |
 
-#### Belegost — Secondary Storage
+---
 
-Older Synology NAS. Secondary storage / cold backups.
+### NAS — Belegost
 
-#### Erebor — Media Archive
+| Field | Value |
+|-------|-------|
+| **Model** | Older Synology |
+| **Role** | Secondary storage / cold backups |
 
-Older Synology NAS. Media archive / secondary backup.
+Older NAS unit still in service for secondary storage and cold backup retention.
 
 ---
 
-### Specialized Machines
+### NAS — Erebor
 
-#### Home Assistant
+| Field | Value |
+|-------|-------|
+| **Model** | Older Synology |
+| **Role** | Media archive / secondary backup |
+
+Older NAS unit used for media archive storage and as a secondary backup location.
+
+---
+
+### Specialized Machines — Home Assistant
 
 Home Assistant runs on dedicated hardware and is the central hub for all smart home devices.
 
@@ -113,7 +131,9 @@ Home Assistant runs on dedicated hardware and is the central hub for all smart h
 
 Full smart home documentation (device inventory, automations, operations) is in the **[Smart Home](/books/smart-home)** book.
 
-#### palantir — Management Machine
+---
+
+### Specialized Machines — palantir
 
 palantir is the management workstation for administering Arda.
 
@@ -127,7 +147,9 @@ palantir is the management workstation for administering Arda.
 
 palantir has direct access to MikroTik (192.168.99.1) and Zyxel (192.168.99.2) management interfaces. For network admin procedures, see the **[Network](/books/network)** book.
 
-#### minasmorgul — Windows Workstation
+---
+
+### Specialized Machines — minasmorgul
 
 minasmorgul is Manwë's personal Windows machine.
 
@@ -139,7 +161,9 @@ minasmorgul is Manwë's personal Windows machine.
 | **User** | Dan Sung |
 | **Access** | RDP via Tailscale, credentials in KeePass |
 
-#### isengard — Recovery Machine
+---
+
+### Specialized Machines — isengard
 
 isengard is a dedicated recovery machine, kept offline except during disaster recovery operations.
 
