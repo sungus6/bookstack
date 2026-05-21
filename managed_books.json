@@ -1,5 +1,6 @@
 {
     "managed_books": [
+        "accounts-passwords",
         "ai",
         "allison-sung",
         "arda-overview",
@@ -27,6 +28,6 @@
         "vehicles",
         "welcome-to-arda"
     ],
-    "updated_at": "2026-05-14",
+    "updated_at": "2026-05-21",
     "note": "Auto-updated by export.py. Books with markdown content only. Upload only processes these."
 }
