@@ -1,4 +1,5 @@
 # Servers & Storage
+> Exported from BookStack on 2026-05-21
 > Slug: servers-storage
 
 ---
@@ -38,13 +39,14 @@ Rivendell is the primary server in Arda. It runs all Docker-based workloads incl
 | bookstack_db | mariadb:10.11 | — | BookStack database |
 | ollama | ollama/ollama | 11434 | Local LLM inference |
 | litellm | ghcr.io/berriai/litellm | 4000 | LLM proxy/router |
-| openclaw | (custom) | 7000 | Deprecated — replaced by Hermes (formerly Aulë) |
 | prometheus | prom/prometheus | 9090 | Metrics collection |
 | grafana | grafana/grafana | 3001 → 3000 | Dashboards |
 | cloudflared | cloudflare/cloudflared | — | Cloudflare tunnel |
 | portainer | portainer/portainer-ce | 9443 | Container management UI |
 
-#### Stack Locations
+> **Note:** The Hermes AI agent container is documented in the [Docker & Services](/books/docker-services) book, where its full architecture and operations are covered.
+
+#### Directory Layout
 
 ```
 /mnt/work/
@@ -56,28 +58,6 @@ Rivendell is the primary server in Arda. It runs all Docker-based workloads incl
     └── docker-compose.yml      (bookstack, bookstack_db)
 ```
 
-#### Common Operations
-
-```bash
-# Check all running containers
-docker ps
-
-# Check GPU status
-nvidia-smi
-
-# Check Ollama loaded models
-curl http://localhost:11434/api/tags
-
-# Check logs for a container
-docker logs CONTAINER_NAME --tail 50
-
-# Restart a single container
-docker restart CONTAINER_NAME
-
-# Restart entire stack
-cd /mnt/work/ai-stack && docker compose down && docker compose up -d
-```
-
 #### Docker Compose Gotchas
 
 - All stacks live under `/mnt/work/` with their own `docker-compose.yml` files.
@@ -87,7 +67,7 @@ cd /mnt/work/ai-stack && docker compose down && docker compose up -d
 
 ### Moria — NAS & Storage
 
-Moria is the Synology NAS providing file storage, backups, and some Docker services.
+Moria (Synology DS1511+) provides storage for the entire Arda network.
 
 #### Specs
 
@@ -95,154 +75,87 @@ Moria is the Synology NAS providing file storage, backups, and some Docker servi
 |-------|-------|
 | **Model** | Synology DS1511+ |
 | **OS** | DSM 6.2.4 |
-| **IP** | 192.168.10.6 (NIC1), 192.168.10.7 (NIC2) |
+| **IP** | 192.168.10.6 |
 | **DNS** | moria.lan |
-| **Web UI** | http://moria.lan:5000 |
 | **VLAN** | 10 (trusted) |
-| **SSH** | `ssh aule@moria.lan` |
+| **Access** | SSH (aule@moria.lan) or DSM web UI (https://moria.lan:5001) |
 
-#### Shared Folders
+#### Services
 
-| Folder | Purpose |
-|--------|---------|
-| `/volume1/backups/` | Network and server backups |
-| `/volume1/homes/` | User home directories |
-| `/volume1/docker/UniFi/` | UniFi controller data (runs on Moria) |
+- **UniFi Controller** — runs as a Docker container on Moria, not Rivendell
+- **NFS shares** — mounted by Rivendell for Docker volume data, media, backups
+- **Backup target** — nightly backups from Rivendell and other machines land here
 
-#### Services on Moria
+#### Storage Layout
 
-- **UniFi Controller** — runs as a Docker container on Moria (legacy, being migrated to Rivendell)
-- **File storage** — primary NAS role
-- **rsync target** — backups from palantir land here
-
-#### rsync to Moria
-
-```bash
-# The --rsync-path flag is required for Synology compatibility
-rsync -av -e "ssh -i ~/.ssh/id_moria" \
-  SOURCE_FILE \
-  aule@192.168.10.6:DEST_PATH \
-  --rsync-path=/usr/bin/rsync
-```
+| Path | Purpose | Capacity |
+|------|---------|----------|
+| `/volume1/backups/` | Nightly backups from all machines | Allocated from pool |
+| `/volume1/media/` | Shared media (music, photos, video) | Allocated from pool |
+| `/volume1/docker/` | Docker volume data (exported via NFS) | Allocated from pool |
 
 ---
 
 ### Home Assistant
 
-The smart home hub. See the Smart Home book for detailed operations and user guides.
-
-#### Specs
+Home Assistant runs on dedicated hardware and is the central hub for all smart home devices.
 
 | Field | Value |
 |-------|-------|
-| **OS** | Home Assistant OS |
+| **Host** | Dedicated hardware |
 | **IP** | 192.168.10.10 |
-| **DNS** | homeassistant.lan |
-| **Web UI** | http://homeassistant.lan:8123 |
-| **VLAN** | 10 (trusted) |
+| **Port** | 8123 |
+| **Access** | Internal: http://192.168.10.10:8123, External: via Cloudflare tunnel |
 
-#### Quick Operations
+#### Integration
 
-| Action | How |
-|--------|-----|
-| **Restart HA (not host)** | Settings → System → Restart → Restart Home Assistant |
-| **Restart host** | Settings → System → Restart → Reboot Host |
-| **Check logs** | Settings → System → Logs |
-| **Add integration** | Settings → Devices & Services → Add Integration |
-| **Backups** | Settings → System → Backups → Create Backup |
+Full smart home documentation (device inventory, automations, operations) is in the [Smart Home](/books/smart-home) book.
 
 ---
 
 ### Palantir — Management Machine
 
-Palantir is the dedicated management machine. Always on, always on VLAN99. It is the anchor for network recovery and backup operations.
-
-#### Specs
+Palantir is the management workstation for administering Arda.
 
 | Field | Value |
 |-------|-------|
-| **OS** | Debian / XFCE |
-| **IP** | 192.168.99.21 |
-| **DNS** | palantir.lan |
-| **VLAN** | 99 (management only) |
-| **Physical port** | Zyxel port 24 |
-
-#### Role
-
-- SSH jump host to MikroTik, Zyxel, and other VLAN99 devices
-- Backup scripts run here (MikroTik config, palantir home dir)
-- Backup anchor — local copies of all backups live here
-- Zyxel management UI access via browser
-
-#### SSH from VLAN10
-
-```bash
-# palantir is the only VLAN99 machine accessible from VLAN10
-ssh aule@192.168.99.21
-```
+| **OS** | Windows 11 Pro |
+| **Role** | Management / admin workstation |
+| **Access** | SSH keys, KeePass credential vault; RDP via Tailscale |
 
 ---
 
 ### Minasmorgul — Windows Workstation
 
-Minasmorgul is the primary Windows workstation for daily management.
-
-#### Specs
+Minasmorgul is Manwë's personal Windows machine.
 
 | Field | Value |
 |-------|-------|
-| **OS** | Windows |
-| **IP** | 192.168.10.16 |
-| **DNS** | minasmorgul.lan |
-| **VLAN** | 10 (trusted) |
-
-#### Role
-
-- Daily operations and management
-- BookStack documentation workflows (via PowerShell scripts)
-- SSH tunnel through palantir to reach VLAN99 devices
+| **OS** | Windows 11 Pro |
+| **User** | Dan Sung |
+| **Access** | RDP via Tailscale, credentials in KeePass |
 
 ---
 
 ### Isengard — Recovery Machine
 
-Isengard is a recovery assistant machine that connects to the MikroTik emergency bridge port (ether5-EMERGENCY) during network recovery.
+Isengard is a dedicated recovery machine, kept offline except during disaster recovery operations.
 
-#### Emergency Bridge Access
-
-```bash
-# Connect Isengard to ether5-EMERGENCY on MikroTik
-sudo ip addr add 192.168.88.50/24 dev enp1s0
-sudo ip route add default via 192.168.88.1
-
-# Now you can reach MikroTik at 192.168.88.1 for recovery
-```
+| Field | Value |
+|-------|-------|
+| **OS** | Ubuntu (headless) |
+| **Role** | Disaster recovery — stored offline |
+| **Access** | Physical boot only |
 
 ---
 
 ### Legacy NAS (Belegost, Erebor)
 
-These machines exist but are not actively used in the current Arda setup. Notes preserved for reference.
+Older NAS units that are still in service for specific purposes.
 
-#### Belegost (Buffalo LinkStation NAS)
+| Name | Model | Role |
+|------|-------|------|
+| **Belegost** | (older Synology) | Secondary storage / cold backups |
+| **Erebor** | (older Synology) | Media archive / secondary backup |
 
-| Field | Value |
-|-------|-------|
-| **Model** | LS421DE Series |
-| **ID** | LS421DE327A |
-| **IP** | 192.168.88.5 (Static) |
-| **Admin page** | http://192.168.88.212/root.html |
-| **Manual** | http://buffalo.jp/support_s/guide2/manual/ls/400/99/en/pc_index.html |
-| **Role** | Redundant backup, Synology Photos, individual laptop backups |
-
-#### Erebor (D-Link ShareCenter DNS-320)
-
-| Field | Value |
-|-------|-------|
-| **IP** | 192.168.88.68 |
-| **Purchased** | 8/15/2023 (used) |
-| **Admin** | See KeePass (passwords on old sticker: w7ht!Sha1, wy3329h!Sha1) |
-| **Setup** | https://support.dlink.com/resource/products/dns-320/REVA/ |
-| **Software** | DNS-320_SETUPWIZARD_1.00.ZIP |
-| **SMTP** | smtp-mail.outlook.com:25 |
-| **Status** | Not actively part of current Arda operations |
+---

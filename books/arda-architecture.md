@@ -1,4 +1,5 @@
 # Arda Architecture
+> Exported from BookStack on 2026-05-21
 > Slug: arda-architecture
 
 ---
@@ -323,3 +324,5 @@ Aulë can draft and update documentation. The workflow is:
 #### Managed Books
 
 Only books listed in `managed_books.json` are processed by the upload script. If a new book needs to be managed, add its slug to that file.
+
+---

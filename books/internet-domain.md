@@ -1,4 +1,5 @@
 # Internet & Domain
+> Exported from BookStack on 2026-05-21
 > Slug: internet-domain
 
 ---
@@ -9,8 +10,6 @@
 - Domain (sung.us)
 - Cloudflare
 - Router Configuration (MikroTik)
-
-**This book is for Dan and technical family members. It contains provider account details, domain registration, and network configuration reference.**
 
 ---
 
@@ -216,3 +215,5 @@ neuromancer correctly uses the IoT network with VLAN20 because VLAN20 is Tagged 
 **From VLAN10 (normal machines):** SSH tunnel through palantir only. MikroTik admin ports are blocked from VLAN10.
 
 **Emergency access:** Connect a machine to ether5 on the MikroTik. It gets an IP on the 192.168.88.0/24 emergency bridge network.
+
+---
