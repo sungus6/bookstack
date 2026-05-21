@@ -1,12 +1,12 @@
 {
     "managed_books": [
         "accounts-passwords",
+        "ai",
         "allison-sung",
         "arda-architecture",
         "dan-sung",
-        "docker-services",
         "ik-jae-sung-OJL",
-        "internet-domain",
+        "internet",
         "jacob-sung",
         "jane-sung-Ebg",
         "jung-hyun-song-hTE",
@@ -18,11 +18,12 @@
         "noah-sung",
         "security-backup",
         "servers",
+        "services",
         "smart-home",
         "sun-nam-shin-dcp",
         "templates",
         "vehicles",
-        "welcome-to-arda"
+        "what-is-arda"
     ],
     "updated_at": "2026-05-21",
     "note": "Auto-updated by export.py. Books with markdown content only. Upload only processes these."

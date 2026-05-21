@@ -40,19 +40,15 @@ Rivendell is the primary server in Arda. It runs all Docker-based workloads incl
 
 #### Container Overview
 
-All containers and their operations are documented in the **[Docker & Services](/books/docker-services)** book.
+All containers and their operations are documented in the **[Services](/books/services)** book (BookStack, Cloudflare Tunnel, Monitoring) and the **[AI](/books/ai)** book (AI stack).
 
-| Container | Image | Port | Purpose |
-|-----------|-------|------|---------|
-| bookstack | solidnerd/bookstack | 6875 → 8080 | Wiki/documentation |
-| bookstack_db | mariadb:10.11 | — | BookStack database |
-| ollama | ollama/ollama | 11434 | Local LLM inference |
-| litellm | ghcr.io/berriai/litellm | 4000 | LLM proxy/router |
-| hermes | (custom) | — | AI assistant gateway |
-| prometheus | prom/prometheus | 9090 | Metrics collection |
-| grafana | grafana/grafana | 3001 → 3000 | Dashboards |
-| cloudflared | cloudflare/cloudflared | — | Cloudflare tunnel |
-| portainer | portainer/portainer-ce | 9443 | Container management UI |
+| Container | Purpose | Docs |
+|-----------|---------|------|
+| bookstack, bookstack_db | Wiki | [Services](/books/services) |
+| ollama, litellm, hermes | AI assistant stack | [AI](/books/ai) |
+| prometheus, grafana | Monitoring | [Services](/books/services) |
+| cloudflared | External access | [Services](/books/services) |
+| portainer | Container management UI | [Services](/books/services) |
 
 #### Compose Gotchas
 

@@ -1,5 +1,6 @@
-# Internet & Domain
-> Slug: internet-domain
+# Internet
+> Exported from BookStack on 2026-05-21
+> Slug: internet
 
 ---
 
@@ -9,8 +10,6 @@
 - Domain (sung.us)
 - Cloudflare
 - Router Configuration (MikroTik)
-
-**This book is for Dan and technical family members. It contains provider account details, domain registration, and network configuration reference.**
 
 ---
 
@@ -135,3 +134,5 @@ Credentials in Sung KeePass DB.
 ### Router Configuration (MikroTik)
 
 Network routing, firewall, VLANs, and hardware configuration are covered in the dedicated **[Network](/books/network)** book.
+
+---

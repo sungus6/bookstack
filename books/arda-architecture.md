@@ -205,7 +205,7 @@ Credentials for each service are in the Sung KeePass DB.
 
 #### Aulë on Telegram & Discord
 
-Aulë is accessible via Telegram (@NavatarBot) and Discord (#aule channel). These platforms handle their own external connectivity — no Cloudflare tunnel is involved. As long as Rivendell is up and the Hermes container is running, Aulë is reachable from anywhere.
+Aulë is accessible via Telegram (@NavatarBot) and Discord (#aule channel). See the **[AI](/books/ai)** book for full architecture, capabilities, and troubleshooting.
 
 ---
 
@@ -271,7 +271,7 @@ git add -A && git commit -m "..."
 git push
 ```
 
-This workflow is run from Rivendell (SSH access) or from the Hermes container.
+This workflow is run from Rivendell (SSH access) or by Aulë directly.
 
 #### Aulë's Role
 

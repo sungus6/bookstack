@@ -17,6 +17,193 @@
 - Family Member - Digital Life & Accounts
 - Family Member - Personal & Preferences
 - Family Member - Financial Accounts
+- Name Variations
+- Phone Numbers
+- Email Addresses
+- Physical Addresses
+- Social Media & Online Presence
+- Social Security Number
+- Driver's License / State ID
+- Passport
+- Other ID Documents
+- Contact 1
+- Contact 2
+- Contact 3
+- Critical Medical Info
+- Healthcare Providers
+- Health Insurance
+- Advanced Directives
+- In Case of Emergency, Find These
+- Important Access Information
+- Always Notify
+- Notify if Serious/Hospitalized
+- Financial Notifications Needed
+- If Hospitalized
+- If Missing/Can't Reach
+- If Deceased
+- Medical Insurance
+- Dental Insurance
+- Vision Insurance
+- Medical System/Network
+- Current Doctors
+- Pharmacy
+- Active Diagnoses
+- Prescription Medications
+- Over-the-Counter Medications
+- Vitamins & Supplements
+- Medication Allergies & Reactions
+- Past Diagnoses (Resolved)
+- Surgeries & Procedures
+- Hospitalizations
+- Injuries & Accidents
+- Immunizations
+- Screenings & Tests
+- Estate Executor / Personal Representative
+- Power of Attorney (Financial)
+- Healthcare Power of Attorney / Healthcare Proxy
+- Guardianship (for minor children)
+- Last Will & Testament
+- Living Trust
+- Living Will / Advance Healthcare Directive
+- POLST (Physician Orders for Life-Sustaining Treatment)
+- Life Insurance Policies
+- Retirement Accounts
+- Bank Accounts (POD/TOD)
+- Investment Accounts (TOD)
+- Real Estate
+- Vehicles
+- Estate Attorney
+- Other Attorneys
+- Funeral & Memorial Preferences
+- Body Donation
+- Digital Legacy
+- Personal Wishes
+- Original Documents
+- Digital Copies
+- Who Has Copies
+- Employer Information
+- Work Location
+- Compensation
+- Contact Information
+- Manager & Team
+- HR & Administration
+- Health Benefits
+- Retirement Benefits
+- Insurance
+- Stock & Equity
+- Time Off
+- Other Benefits
+- Company-Provided Equipment
+- Credentials & Access
+- Performance Reviews
+- Training & Certifications
+- Professional Development Goals
+- Previous Employers
+- Detailed Work History Template
+- Resume/CV
+- Professional Licenses & Certifications
+- Professional Memberships
+- Skills & Expertise
+- Exit Checklist
+- COBRA Information
+- 401(k) Rollover
+- [Institution Name] - Most Recent
+- [Repeat Template for Each School]
+- Active Certifications
+- Expired/Past Certifications
+- Courses & Training
+- Online Learning
+- Awards & Honors
+- Publications & Research
+- Presentations
+- Primary Password Manager
+- Password Manager Vaults/Categories
+- Primary Email Accounts
+- Email Account Details
+- Active Social Media
+- Social Media Preferences Upon Death/Incapacity
+- Cloud Storage Accounts
+- Shared Folders/Access
+- Important Files Location Map
+- Streaming Services
+- Gaming Accounts
+- Online Shopping
+- Payment Services
+- Active Subscriptions
+- Membership Organizations
+- Professional Tools
+- Devices
+- Smart Home & IoT
+- Domain Names Owned
+- Websites/Blogs
+- Cryptocurrency Wallets
+- NFTs & Digital Collectibles
+- Messaging Apps
+- Video Conferencing
+- Digital Executor
+- Account Instructions Upon Death
+- Important Data to Preserve
+- 2FA Methods Used
+- Authenticator Apps
+- Physical Description
+- Sizes (for gifts/shopping)
+- Colors
+- Foods & Dining
+- Entertainment
+- Activities & Hobbies
+- Travel
+- Daily Routine
+- Communication
+- Social Preferences
+- Fashion Preferences
+- Accessories
+- Fragrances
+- Personal Care Products
+- Devices
+- Apps & Services
+- Current Wish List
+- Gift-Giving Preferences
+- Important Occasions
+- Charities & Causes
+- Volunteerism
+- Current Pets
+- Collections
+- Special Interests (Deep Dives)
+- When I'm Stressed, I...
+- When I'm Sick, I Need...
+- Comfort Food:**
+- Comfort Activities:**
+- Fun Facts About Me
+- Pet Peeves
+- Hidden Talents
+- Bucket List
+- Step 1: Create Book Structure
+- Step 2: Set Permissions
+- Step 3: Start with the Critical Ones
+- Step 4: Link Between Pages
+- Checking Accounts
+- Savings Accounts
+- Bank Account Details Template
+- Retirement Accounts
+- Brokerage & Investment Accounts
+- 529 Education Savings
+- HSA (Health Savings Account)
+- Active Credit Cards
+- Store Cards & Retail Credit
+- Mortgage
+- Auto Loans
+- Student Loans
+- Personal Loans
+- Home Equity Line of Credit (HELOC)
+- Employment Income
+- Self-Employment Income
+- Passive Income
+- Social Security / Pension
+- Bill Payments (Monthly)
+- Subscriptions
+- Financial Advisor
+- Accountant / Tax Preparer
+- Insurance Agent
 - Clan Member
 **Computers**
 - Computer Template
@@ -77,9 +264,89 @@
 - **Date of Birth:** 
 - **Place of Birth:** 
 - **Current Age:** 
-- **Citizenship:** 
+- **Citizenship:**
+
+---
+
+### Family Member - Emergency Information
+
+# [Name] - Emergency Information
+
+⚠️ **CRITICAL INFORMATION - KEEP CURRENT** ⚠️
+
+## Primary Emergency Contacts (In Order)
+
+---
+
+### Family Member - Medical & Health
+
+# [Name] - Medical & Health
+
+## Health Insurance Coverage
+
+---
+
+### Family Member - Legal & Estate Planning
+
+# [Name] - Legal & Estate Planning
+
+⚠️ **CONFIDENTIAL - ESTATE PLANNING INFORMATION** ⚠️
+
+## Legal Representatives
+
+---
+
+### Family Member - Employment & Career
+
+# [Name] - Employment & Career
+
+## Current Employment
+
+---
+
+### Family Member - Education History
+
+# [Name] - Education History
+
+## Education Summary
+- **Highest Degree Earned:** 
+- **Field of Study:** 
+- **Graduation Year:** 
+
+## Schools Attended
+
+---
+
+### Family Member - Digital Life & Accounts
+
+# [Name] - Digital Life & Accounts
+
+⚠️ **IMPORTANT:** Never store actual passwords here. Use a password manager and reference entries by name.
+
+## Password Manager
+
+---
+
+### Family Member - Personal & Preferences
+
+# [Name] - Personal & Preferences
+
+## Personal Details
+
+---
+
+### Family Member - Financial Accounts
+
+# [Name] - Financial Accounts
+
+⚠️ **CONFIDENTIAL - SECURE ACCESS ONLY** ⚠️
+
+## Banking
+
+---
 
 ### Name Variations
+
 | Name | Type | Used For | Notes |
 |------|------|----------|-------|
 |  | Legal Name | Official documents |  |
@@ -89,19 +356,27 @@
 
 ## Contact Information
 
+---
+
 ### Phone Numbers
+
 | Number | Type | Primary Use | Notes |
 |--------|------|-------------|-------|
 |  | Mobile | Primary contact |  |
 |  | Home |  |  |
 |  | Work |  |  |
 
+---
+
 ### Email Addresses
+
 | Email | Type | Used For | Notes |
 |-------|------|----------|-------|
 |  | Personal | Main email |  |
 |  | Work |  |  |
 |  | Shopping/Spam |  |  |
+
+---
 
 ### Physical Addresses
 
@@ -120,7 +395,10 @@
 |---------|-------------|-------|-------|
 |  |  | [Start] - [End] |  |
 
+---
+
 ### Social Media & Online Presence
+
 | Platform | Username/Handle | URL | Privacy Setting |
 |----------|----------------|-----|-----------------|
 | LinkedIn |  |  | Public/Private |
@@ -130,13 +408,19 @@
 
 ## Official Identification
 
+---
+
 ### Social Security Number
+
 - **SSN:** [SECURE - Reference to password manager]
 - **Physical Card Location:** 
 - **Digital Copy Location:** 
-- **When Last Verified:** 
+- **When Last Verified:**
+
+---
 
 ### Driver's License / State ID
+
 - **License Number:** 
 - **State:** 
 - **Type/Class:** 
@@ -147,7 +431,10 @@
 - **Physical Location:** 
 - **Renewal Reminder Set:** Yes/No
 
+---
+
 ### Passport
+
 - **Passport Number:** 
 - **Type:** [Regular / Official / Diplomatic]
 - **Issuing Country:** 
@@ -159,7 +446,10 @@
 - **Renewal Reminder Set:** Yes/No
 - **Passport Card:** Yes/No - [Number if yes]
 
+---
+
 ### Other ID Documents
+
 - **Birth Certificate:** 
   - Location: 
   - Type: [Original / Certified Copy]
@@ -177,15 +467,8 @@
 
 ---
 
-### Family Member - Emergency Information
-
-# [Name] - Emergency Information
-
-⚠️ **CRITICAL INFORMATION - KEEP CURRENT** ⚠️
-
-## Primary Emergency Contacts (In Order)
-
 ### Contact 1
+
 - **Name:** 
 - **Relationship:** 
 - **Primary Phone:** 
@@ -194,15 +477,21 @@
 - **Address:** 
 - **When to Contact:** [Always first / After hours / Specific situations]
 
+---
+
 ### Contact 2
+
 - **Name:** 
 - **Relationship:** 
 - **Primary Phone:** 
 - **Alternate Phone:** 
 - **Email:** 
-- **Address:** 
+- **Address:**
+
+---
 
 ### Contact 3
+
 - **Name:** 
 - **Relationship:** 
 - **Primary Phone:** 
@@ -210,7 +499,10 @@
 
 ## Medical Emergency Quick Reference
 
+---
+
 ### Critical Medical Info
+
 - **Blood Type:** 
 - **Known Allergies:** 
   - 
@@ -223,7 +515,10 @@
   - 
 - **Medical Device:** [Pacemaker, insulin pump, etc.]
 
+---
+
 ### Healthcare Providers
+
 - **Primary Care Physician:** 
   - Name: 
   - Phone: 
@@ -231,16 +526,22 @@
 - **Preferred Hospital:** 
   - Name: 
   - Address: 
-  - Emergency Room Phone: 
+  - Emergency Room Phone:
+
+---
 
 ### Health Insurance
+
 - **Insurance Company:** 
 - **Policy/Member ID:** 
 - **Group Number:** 
 - **Claims Phone:** 
-- **Card Location:** 
+- **Card Location:**
+
+---
 
 ### Advanced Directives
+
 - **Healthcare Proxy/POA:** [Name & Phone]
 - **Living Will Location:** 
 - **DNR Status:** Yes/No
@@ -249,7 +550,10 @@
 
 ## Location of Critical Items
 
+---
+
 ### In Case of Emergency, Find These
+
 - **Medications:** [Location in home]
 - **Medical Records:** [Location/Online portal]
 - **Insurance Cards:** [Location]
@@ -258,7 +562,10 @@
 - **Phone/Tablet:** [Location, passcode if emergency]
 - **Wallet/Purse:** [Typical location]
 
+---
+
 ### Important Access Information
+
 - **Home Security System:** 
   - Code: [If needed for emergency access]
   - How to Disable: 
@@ -273,21 +580,30 @@
 
 ## Who to Notify
 
+---
+
 ### Always Notify
+
 | Name | Relationship | Phone | Timing |
 |------|--------------|-------|--------|
 |  | Spouse | | Immediately |
 |  | Adult Child | | Immediately |
 |  | Parent | | Within hours |
 
+---
+
 ### Notify if Serious/Hospitalized
+
 | Name/Organization | Contact Info | Why |
 |------------------|--------------|-----|
 | Employer |  | Extended absence |
 | Church/Community |  | Prayer/support |
 | Neighbor |  | House watching |
 
+---
+
 ### Financial Notifications Needed
+
 - **Employer HR:** [To stop direct deposit / benefits]
 - **Banks:** [If prolonged issue]
 - **Automatic Payments:** [What might need to be paused]
@@ -312,37 +628,40 @@
 
 ## Emergency Scenario Instructions
 
+---
+
 ### If Hospitalized
+
 1. Contact [Name] at [Phone]
 2. Bring medication list (this page)
 3. Bring insurance card from [Location]
 4. Notify: [List specific people]
 5. Access medical records at: [Portal/Location]
 
+---
+
 ### If Missing/Can't Reach
+
 1. Check typical locations: [List]
 2. Contact: [List in priority order]
 3. Check phone location if possible: [How]
 4. Last known schedule: [Reference calendar/routine]
 
+---
+
 ### If Deceased
+
 1. Immediate contacts: [List]
 2. Funeral home preference: [Name & Phone]
 3. Wishes: [Brief reference, full details in Legal & Estate page]
 4. Documents needed: [Location of will, estate docs]
 
----
 **REVIEW THIS PAGE EVERY 3 MONTHS**
 
 ---
 
-### Family Member - Medical & Health
-
-# [Name] - Medical & Health
-
-## Health Insurance Coverage
-
 ### Medical Insurance
+
 - **Insurance Company:** 
 - **Plan Type:** [PPO / HMO / EPO / Other]
 - **Policy/Member ID:** 
@@ -356,14 +675,20 @@
 - **Customer Service:** 
 - **Online Portal:** [URL & login reference]
 
+---
+
 ### Dental Insurance
+
 - **Insurance Company:** 
 - **Policy/Member ID:** 
 - **Group Number:** 
 - **Annual Maximum:** 
-- **Card Location:** 
+- **Card Location:**
+
+---
 
 ### Vision Insurance
+
 - **Insurance Company:** 
 - **Policy/Member ID:** 
 - **Annual Allowance:** 
@@ -371,10 +696,15 @@
 
 ## Healthcare Providers
 
+---
+
 ### Medical System/Network
+
 | System Name | Member ID | Portal URL | Login Reference | Notes |
 |-------------|-----------|------------|-----------------|-------|
 |  |  |  | [Password Manager] |  |
+
+---
 
 ### Current Doctors
 
@@ -409,9 +739,12 @@
 - **Practice:** 
 - **Phone:** 
 - **Last Exam:** 
-- **Prescription:** 
+- **Prescription:**
+
+---
 
 ### Pharmacy
+
 - **Primary Pharmacy:** 
 - **Location:** 
 - **Phone:** 
@@ -421,58 +754,88 @@
 
 ## Current Medical Conditions
 
+---
+
 ### Active Diagnoses
+
 | Condition | Diagnosed Date | Diagnosing Doctor | Current Status | Treatment Plan |
 |-----------|----------------|-------------------|----------------|----------------|
 |  |  |  | Active / Managed / In Remission |  |
 
 ## Current Medications
 
+---
+
 ### Prescription Medications
+
 | Medication | Generic Name | Dosage | Frequency | Prescribing Doctor | Purpose | Started | Pharmacy | Refills | Next Refill |
 |------------|--------------|--------|-----------|-------------------|---------|---------|----------|---------|-------------|
 |  |  |  |  |  |  |  |  |  |  |
 
+---
+
 ### Over-the-Counter Medications
+
 | Medication | Dosage | Frequency | Purpose |
 |------------|--------|-----------|---------|
 |  |  |  |  |
 
+---
+
 ### Vitamins & Supplements
+
 | Supplement | Dosage | Frequency | Purpose |
 |------------|--------|-----------|---------|
 |  |  |  |  |
 
+---
+
 ### Medication Allergies & Reactions
+
 | Medication | Reaction | Severity | Date Discovered |
 |------------|----------|----------|-----------------|
 |  |  | Mild / Moderate / Severe |  |
 
 ## Medical History
 
+---
+
 ### Past Diagnoses (Resolved)
+
 | Condition | Diagnosed | Resolved | Treatment | Notes |
 |-----------|-----------|----------|-----------|-------|
 |  |  |  |  |  |
 
+---
+
 ### Surgeries & Procedures
+
 | Date | Procedure | Surgeon/Facility | Reason | Outcome | Complications |
 |------|-----------|------------------|--------|---------|---------------|
 |  |  |  |  |  |  |
 
+---
+
 ### Hospitalizations
+
 | Date | Facility | Reason | Length of Stay | Outcome |
 |------|----------|--------|----------------|---------|
 |  |  |  |  |  |
 
+---
+
 ### Injuries & Accidents
+
 | Date | Type | Treatment | Long-term Effects |
 |------|------|-----------|-------------------|
 |  |  |  |  |
 
 ## Preventive Care & Screening
 
+---
+
 ### Immunizations
+
 | Vaccine | Date Given | Booster Due | Location Given |
 |---------|------------|-------------|----------------|
 | COVID-19 |  |  |  |
@@ -480,7 +843,10 @@
 | Tetanus |  | Every 10 years |  |
 | Shingles |  |  |  |
 
+---
+
 ### Screenings & Tests
+
 | Test | Last Done | Result | Next Due | Notes |
 |------|-----------|--------|----------|-------|
 | Annual Physical |  |  |  |  |
@@ -546,29 +912,23 @@
 - **Crisis Resources:** 
   - Suicide Prevention Hotline: 988
   - Crisis Text Line: Text HOME to 741741
-  - Local Crisis Center: 
+  - Local Crisis Center:
 
 ---
-
----
-
-### Family Member - Legal & Estate Planning
-
-# [Name] - Legal & Estate Planning
-
-⚠️ **CONFIDENTIAL - ESTATE PLANNING INFORMATION** ⚠️
-
-## Legal Representatives
 
 ### Estate Executor / Personal Representative
+
 - **Name:** 
 - **Relationship:** 
 - **Phone:** 
 - **Email:** 
 - **Address:** 
-- **Alternate Executor:** 
+- **Alternate Executor:**
+
+---
 
 ### Power of Attorney (Financial)
+
 - **Name:** 
 - **Relationship:** 
 - **Phone:** 
@@ -576,24 +936,33 @@
 - **Effective:** [Immediate / Upon incapacity]
 - **Date Signed:** 
 - **Expiration:** 
-- **Limitations:** 
+- **Limitations:**
+
+---
 
 ### Healthcare Power of Attorney / Healthcare Proxy
+
 - **Name:** 
 - **Relationship:** 
 - **Phone:** 
 - **Document Location:** 
 - **Date Signed:** 
-- **Alternate:** 
+- **Alternate:**
+
+---
 
 ### Guardianship (for minor children)
+
 - **Guardian:** 
 - **Alternate Guardian:** 
 - **Document Location:** 
 
 ## Legal Documents
 
+---
+
 ### Last Will & Testament
+
 - **Date Created:** 
 - **Last Updated:** 
 - **Attorney:** 
@@ -607,9 +976,12 @@
   - 
   - 
 - **Witnesses:** 
-- **Next Review Date:** 
+- **Next Review Date:**
+
+---
 
 ### Living Trust
+
 - **Type:** [Revocable / Irrevocable]
 - **Date Created:** 
 - **Last Amended:** 
@@ -620,9 +992,12 @@
   - 
   - 
 - **Document Location:** 
-- **Attorney:** 
+- **Attorney:**
+
+---
 
 ### Living Will / Advance Healthcare Directive
+
 - **Date Created:** 
 - **Last Updated:** 
 - **Document Location:** 
@@ -631,9 +1006,12 @@
   - Life Support Preferences: 
   - Organ Donation: Yes / No
   - Pain Management: 
-  - Artificial Nutrition: 
+  - Artificial Nutrition:
+
+---
 
 ### POLST (Physician Orders for Life-Sustaining Treatment)
+
 - **Completed:** Yes/No
 - **Date:** 
 - **Location:** 
@@ -643,42 +1021,63 @@
 
 ⚠️ **NOTE:** Beneficiary designations override will provisions - review regularly!
 
+---
+
 ### Life Insurance Policies
+
 | Policy Number | Company | Primary Beneficiary | Contingent Beneficiary | Last Reviewed |
 |--------------|---------|--------------------|-----------------------|---------------|
 |  |  |  |  |  |
 
+---
+
 ### Retirement Accounts
+
 | Account Type | Institution | Primary Beneficiary | Contingent | % Split | Last Reviewed |
 |--------------|-------------|--------------------|-----------| --------|---------------|
 | 401(k) |  |  |  |  |  |
 | IRA |  |  |  |  |  |
 
+---
+
 ### Bank Accounts (POD/TOD)
+
 | Account | Bank | Payable on Death To | Last Reviewed |
 |---------|------|-------------------|---------------|
 |  |  |  |  |
 
+---
+
 ### Investment Accounts (TOD)
+
 | Account | Institution | Transfer on Death To | Last Reviewed |
 |---------|-------------|---------------------|---------------|
 |  |  |  |  |
 
 ## Property & Asset Transfer
 
+---
+
 ### Real Estate
+
 | Property Address | Title Held As | Transfer Method | Notes |
 |-----------------|---------------|-----------------|-------|
 |  | [Joint tenancy / Sole / Trust] | [Will / Trust / Deed] |  |
 
+---
+
 ### Vehicles
+
 | Vehicle | Title Holder | Transfer Instructions | Title Location |
 |---------|--------------|----------------------|----------------|
 |  |  |  |  |
 
 ## Attorney Information
 
+---
+
 ### Estate Attorney
+
 - **Name:** 
 - **Firm:** 
 - **Phone:** 
@@ -686,9 +1085,12 @@
 - **Address:** 
 - **Hourly Rate:** 
 - **Last Consultation:** 
-- **Documents Prepared:** 
+- **Documents Prepared:**
+
+---
 
 ### Other Attorneys
+
 | Type | Name | Firm | Phone | Used For |
 |------|------|------|-------|----------|
 | Real Estate |  |  |  |  |
@@ -696,7 +1098,10 @@
 
 ## End-of-Life Wishes
 
+---
+
 ### Funeral & Memorial Preferences
+
 - **Preference:** [Burial / Cremation / Donation]
 - **Funeral Home:** 
   - Name: 
@@ -719,9 +1124,12 @@
   - Where to Publish: 
 - **Charitable Donations in Lieu of Flowers:** 
   - Organization: 
-  - How to Donate: 
+  - How to Donate:
+
+---
 
 ### Body Donation
+
 - **Organ Donation:** Yes/No
   - Registered: Yes/No [Where]
   - Specific Organs: All / Specific
@@ -730,7 +1138,10 @@
   - Arrangements Made: Yes/No
 - **Tissue Donation:** Yes/No
 
+---
+
 ### Digital Legacy
+
 - **Social Media Accounts:** 
   - Facebook Memorialization/Deletion Preference: 
   - Legacy Contact: 
@@ -739,7 +1150,10 @@
 - **Photo/Video Storage:** [Where, who should have access]
 - **Digital Asset Access:** [Password manager, instructions]
 
+---
+
 ### Personal Wishes
+
 - **Who Should Be Notified:** 
   - 
   - 
@@ -768,21 +1182,30 @@
 
 ## Important Document Locations
 
+---
+
 ### Original Documents
+
 - **Location 1 (Primary):** [Safe, safe deposit box, attorney office]
   - Which documents: 
   - Access: Who has key/combination
 - **Location 2 (Backup):** 
   - Which documents: 
-  - Access: 
+  - Access:
+
+---
 
 ### Digital Copies
+
 - **Cloud Storage:** 
 - **Password Manager:** 
 - **Encrypted USB:** 
-- **With Attorney:** 
+- **With Attorney:**
+
+---
 
 ### Who Has Copies
+
 | Person | Relationship | Documents They Have | Last Updated |
 |--------|--------------|-------------------|--------------|
 |  | Spouse | All |  |
@@ -799,20 +1222,14 @@
   - Tax law changes
   - Retirement
 
----
 **HIGHLY CONFIDENTIAL**  
 
 **⚠️ Review after major life events! ⚠️**
 
 ---
 
-### Family Member - Employment & Career
-
-# [Name] - Employment & Career
-
-## Current Employment
-
 ### Employer Information
+
 - **Company Name:** 
 - **Industry:** 
 - **Job Title:** 
@@ -820,31 +1237,43 @@
 - **Employee ID:** 
 - **Start Date:** 
 - **Employment Type:** [Full-time / Part-time / Contract / Freelance]
-- **Remote/Hybrid/On-site:** 
+- **Remote/Hybrid/On-site:**
+
+---
 
 ### Work Location
+
 - **Office Address:** 
 - **Desk/Office Number:** 
 - **Parking:** 
-- **Building Access:** 
+- **Building Access:**
+
+---
 
 ### Compensation
+
 - **Base Salary:** 
 - **Pay Frequency:** [Weekly / Bi-weekly / Monthly]
 - **Pay Date:** 
 - **Last Raise:** [Date & Amount]
 - **Next Review:** 
 - **Bonus Structure:** 
-- **Commission:** 
+- **Commission:**
+
+---
 
 ### Contact Information
+
 - **Work Phone:** 
 - **Work Email:** 
 - **Direct Line:** 
 - **Extension:** 
 - **Company Directory:** [URL]
 
+---
+
 ### Manager & Team
+
 - **Direct Manager:** 
   - Name: 
   - Title: 
@@ -852,9 +1281,12 @@
   - Phone: 
 - **Skip-Level Manager:** 
 - **Team Members:** 
-- **Dotted Line Reporting:** 
+- **Dotted Line Reporting:**
+
+---
 
 ### HR & Administration
+
 - **HR Contact:** 
   - Name: 
   - Phone: 
@@ -865,7 +1297,10 @@
 
 ## Benefits & Perks
 
+---
+
 ### Health Benefits
+
 - **Health Insurance:** [Link to policy page]
   - Start Date: 
   - Plan Type: 
@@ -875,9 +1310,12 @@
 - **Vision Insurance:** [Link]
 - **FSA/HSA:** 
   - Annual Election: 
-  - Current Balance: 
+  - Current Balance:
+
+---
 
 ### Retirement Benefits
+
 - **401(k) Plan:** 
   - Provider: [Link to account page]
   - Employee Contribution: [% or $]
@@ -886,9 +1324,12 @@
   - Current Balance: 
 - **Pension:** [If applicable]
   - Vested: Yes/No
-  - Formula: 
+  - Formula:
+
+---
 
 ### Insurance
+
 - **Life Insurance:** 
   - Coverage Amount: 
   - Beneficiary: 
@@ -896,9 +1337,12 @@
 - **Disability Insurance:** 
   - Short-term: 
   - Long-term: 
-  - Waiting Period: 
+  - Waiting Period:
+
+---
 
 ### Stock & Equity
+
 - **Stock Options:** 
   - Granted: [Date & Amount]
   - Vesting Schedule: 
@@ -910,9 +1354,12 @@
 - **ESPP:** 
   - Enrolled: Yes/No
   - Contribution: [%]
-  - Purchase Periods: 
+  - Purchase Periods:
+
+---
 
 ### Time Off
+
 - **PTO Balance:** 
   - Vacation Days: 
   - Sick Days: 
@@ -921,7 +1368,10 @@
 - **Rollover Policy:** 
 - **PTO Tracking:** [System/URL]
 
+---
+
 ### Other Benefits
+
 | Benefit | Details | Value | How to Use |
 |---------|---------|-------|------------|
 | Tuition Reimbursement |  |  |  |
@@ -932,7 +1382,10 @@
 
 ## Work Equipment & Assets
 
+---
+
 ### Company-Provided Equipment
+
 | Item | Serial Number | Issued Date | Condition | Return Upon Separation |
 |------|---------------|-------------|-----------|----------------------|
 | Laptop |  |  |  | Yes |
@@ -940,7 +1393,10 @@
 | Monitor |  |  |  | Yes |
 | Access Card |  |  |  | Yes |
 
+---
+
 ### Credentials & Access
+
 - **Network Login:** [Reference to password manager]
 - **VPN Access:** 
 - **System Access:** 
@@ -952,17 +1408,26 @@
 
 ## Performance & Development
 
+---
+
 ### Performance Reviews
+
 | Date | Rating | Raise | Promotion | Key Feedback | Goals Set |
 |------|--------|-------|-----------|--------------|-----------|
 |  |  |  |  |  |  |
 
+---
+
 ### Training & Certifications
+
 | Training/Cert | Date Completed | Provider | Expiration | Paid By |
 |--------------|----------------|----------|------------|---------|
 |  |  |  |  | Company/Self |
 
+---
+
 ### Professional Development Goals
+
 - **Short-term (1 year):** 
   - 
 - **Long-term (3-5 years):** 
@@ -970,13 +1435,19 @@
 
 ## Work History
 
+---
+
 ### Previous Employers
+
 | Company | Title | Dates | Reason for Leaving | Reference Contact |
 |---------|-------|-------|-------------------|------------------|
 | [Most Recent] |  | [Start] - [End] |  |  |
 |  |  |  |  |  |
 
+---
+
 ### Detailed Work History Template
+
 For each previous employer, optionally create linked pages with:
 - Company overview
 - Job responsibilities
@@ -989,23 +1460,35 @@ For each previous employer, optionally create linked pages with:
 
 ## Professional Information
 
+---
+
 ### Resume/CV
+
 - **Current Resume Location:** 
 - **Last Updated:** 
 - **LinkedIn Profile:** [URL]
 - **Professional Website:** [URL if applicable]
 
+---
+
 ### Professional Licenses & Certifications
+
 | Credential | Issuing Body | Number | Issue Date | Expiration | Renewal Requirements |
 |------------|--------------|--------|------------|------------|---------------------|
 |  |  |  |  |  |  |
 
+---
+
 ### Professional Memberships
+
 | Organization | Member Number | Join Date | Renewal Date | Annual Cost | Benefits |
 |-------------|---------------|-----------|--------------|-------------|----------|
 |  |  |  |  |  |  |
 
+---
+
 ### Skills & Expertise
+
 **Technical Skills:** 
 - 
 - 
@@ -1020,7 +1503,10 @@ For each previous employer, optionally create linked pages with:
 
 ## Separation Information (If Leaving)
 
+---
+
 ### Exit Checklist
+
 - [ ] Notice given - Date: ___________
 - [ ] Exit interview scheduled
 - [ ] Final paycheck - Amount: _______ Date: _______
@@ -1035,14 +1521,20 @@ For each previous employer, optionally create linked pages with:
 - [ ] References requested
 - [ ] W-2 forwarding address updated
 
+---
+
 ### COBRA Information
+
 - **Eligible:** Yes/No
 - **Cost:** 
 - **Coverage Period:** [18/36 months]
 - **Enrollment Deadline:** 
-- **Administrator:** 
+- **Administrator:**
+
+---
 
 ### 401(k) Rollover
+
 - **Options:** 
   - Leave in current plan
   - Roll to new employer plan
@@ -1051,21 +1543,9 @@ For each previous employer, optionally create linked pages with:
 - **Action Taken:** 
 - **Date:** 
 
----
 **Last Updated:** [Date] by [Name]
 
 ---
-
-### Family Member - Education History
-
-# [Name] - Education History
-
-## Education Summary
-- **Highest Degree Earned:** 
-- **Field of Study:** 
-- **Graduation Year:** 
-
-## Schools Attended
 
 ### [Institution Name] - Most Recent
 
@@ -1137,28 +1617,38 @@ For each previous employer, optionally create linked pages with:
 
 ### [Repeat Template for Each School]
 
----
-
 ## Professional Certifications
 
+---
+
 ### Active Certifications
+
 | Certification | Issuing Organization | Number | Date Earned | Expiration | Renewal Requirements | Cost |
 |--------------|---------------------|--------|-------------|------------|---------------------|------|
 |  |  |  |  |  |  |  |
 
+---
+
 ### Expired/Past Certifications
+
 | Certification | Date Earned | Expired | Notes |
 |--------------|-------------|---------|-------|
 |  |  |  |  |
 
 ## Continuing Education
 
+---
+
 ### Courses & Training
+
 | Course | Provider | Date Completed | Hours/Credits | Certificate | Cost | Paid By |
 |--------|----------|----------------|---------------|-------------|------|---------|
 |  |  |  |  |  |  | Self/Employer |
 
+---
+
 ### Online Learning
+
 | Platform | Courses Completed | Certificates Earned | Profile URL |
 |----------|------------------|-------------------|-------------|
 | Coursera |  |  |  |
@@ -1167,17 +1657,26 @@ For each previous employer, optionally create linked pages with:
 
 ## Academic Achievements
 
+---
+
 ### Awards & Honors
+
 | Award | Issuing Body | Date | Significance |
 |-------|--------------|------|--------------|
 |  |  |  |  |
 
+---
+
 ### Publications & Research
+
 | Title | Type | Date | Co-authors | Link/DOI |
 |-------|------|------|-----------|----------|
 |  | Journal Article / Conference Paper / Thesis |  |  |  |
 
+---
+
 ### Presentations
+
 | Title | Venue | Date | Topic |
 |-------|-------|------|-------|
 |  |  |  |  |
@@ -1202,20 +1701,12 @@ Summary:
 |------------|----------------|------|----------------|----------------|
 |  |  |  |  |  |
 
----
 **Last Updated:** [Date] by [Name]
 
 ---
 
-### Family Member - Digital Life & Accounts
-
-# [Name] - Digital Life & Accounts
-
-⚠️ **IMPORTANT:** Never store actual passwords here. Use a password manager and reference entries by name.
-
-## Password Manager
-
 ### Primary Password Manager
+
 - **Service:** [1Password / LastPass / Bitwarden / etc.]
 - **Master Password Location:** [Secure location reference]
 - **Emergency Access:** 
@@ -1224,9 +1715,12 @@ Summary:
 - **Recovery Codes Location:** 
 - **Subscription:** 
   - Renewal Date: 
-  - Cost: 
+  - Cost:
+
+---
 
 ### Password Manager Vaults/Categories
+
 | Vault/Category | Number of Items | Purpose |
 |---------------|----------------|---------|
 | Personal |  | Daily accounts |
@@ -1236,14 +1730,20 @@ Summary:
 
 ## Email Accounts
 
+---
+
 ### Primary Email Accounts
+
 | Email Address | Provider | Purpose | Password Manager Entry | 2FA Method | Recovery Email | Recovery Phone |
 |--------------|----------|---------|----------------------|------------|----------------|----------------|
 | [Main] | Gmail/Outlook | Primary personal |  |  |  |  |
 | [Work] |  | Work |  |  |  |  |
 | [Shopping] |  | Shopping/spam |  |  |  |  |
 
+---
+
 ### Email Account Details
+
 For each major email account:
 - **Storage Used:** ___ GB / ___ GB
 - **Forwarding Rules:** 
@@ -1254,7 +1754,10 @@ For each major email account:
 
 ## Social Media Accounts
 
+---
+
 ### Active Social Media
+
 | Platform | Username/Handle | Password Manager Entry | 2FA | Privacy Setting | Legacy Contact/Plan |
 |----------|----------------|----------------------|-----|-----------------|-------------------|
 | Facebook |  |  |  | Public/Friends/Private | Memorialized/Deleted |
@@ -1263,7 +1766,10 @@ For each major email account:
 | Twitter/X |  |  |  |  |  |
 | TikTok |  |  |  |  |  |
 
+---
+
 ### Social Media Preferences Upon Death/Incapacity
+
 | Platform | Preference | Who Should Have Access | Special Instructions |
 |----------|------------|----------------------|---------------------|
 | Facebook | Memorialize / Delete |  |  |
@@ -1272,7 +1778,10 @@ For each major email account:
 
 ## Cloud Storage & File Sharing
 
+---
+
 ### Cloud Storage Accounts
+
 | Service | Storage Used | Storage Total | Purpose | Password Manager Entry | Important Files/Folders |
 |---------|-------------|---------------|---------|----------------------|------------------------|
 | Google Drive |  |  | Personal docs |  |  |
@@ -1280,12 +1789,18 @@ For each major email account:
 | iCloud |  |  | Photos |  |  |
 | OneDrive |  |  |  |  |  |
 
+---
+
 ### Shared Folders/Access
+
 | Service | Folder/Link | Shared With | Purpose | Permissions |
 |---------|------------|-------------|---------|-------------|
 |  |  |  |  | View/Edit |
 
+---
+
 ### Important Files Location Map
+
 | File Type | Primary Location | Backup Location | Access Instructions |
 |-----------|-----------------|----------------|-------------------|
 | Photos | iCloud | External HD |  |
@@ -1294,7 +1809,10 @@ For each major email account:
 
 ## Streaming & Entertainment
 
+---
+
 ### Streaming Services
+
 | Service | Account Type | Cost | Billing Date | Payment Method | Password Manager Entry | Profiles |
 |---------|--------------|------|--------------|----------------|----------------------|----------|
 | Netflix |  |  |  |  |  |  |
@@ -1302,7 +1820,10 @@ For each major email account:
 | Disney+ |  |  |  |  |  |  |
 | Amazon Prime |  |  |  |  |  |  |
 
+---
+
 ### Gaming Accounts
+
 | Platform | Username | Password Manager Entry | Associated Email | Subscription | Linked Payment |
 |----------|----------|----------------------|-----------------|--------------|----------------|
 | Steam |  |  |  |  |  |
@@ -1313,14 +1834,20 @@ For each major email account:
 
 **Note:** Detailed financial accounts are in the Financial Accounts page. This lists login access.
 
+---
+
 ### Online Shopping
+
 | Store | Account Email | Password Manager Entry | 2FA | Saved Payment Methods | Wish Lists |
 |-------|--------------|----------------------|-----|---------------------|------------|
 | Amazon |  |  |  |  |  |
 | Target |  |  |  |  |  |
 | Walmart |  |  |  |  |  |
 
+---
+
 ### Payment Services
+
 | Service | Account | Purpose | Linked Bank/Card | Password Manager Entry |
 |---------|---------|---------|-----------------|----------------------|
 | PayPal |  | Online purchases |  |  |
@@ -1329,21 +1856,30 @@ For each major email account:
 
 ## Subscriptions & Memberships
 
+---
+
 ### Active Subscriptions
+
 | Service | Category | Cost | Frequency | Payment Method | Renewal Date | Auto-Renew | Cancel By |
 |---------|----------|------|-----------|----------------|--------------|------------|-----------|
 |  | News/Media |  | Monthly |  |  | Yes/No | [URL/Phone] |
 |  | Software |  |  |  |  |  |  |
 |  | Utilities |  |  |  |  |  |  |
 
+---
+
 ### Membership Organizations
+
 | Organization | Member Number | Benefits | Renewal Date | Cost | Password Manager Entry |
 |-------------|---------------|----------|--------------|------|----------------------|
 |  |  |  |  |  |  |
 
 ## Professional & Work Accounts
 
+---
+
 ### Professional Tools
+
 | Service | Purpose | Account Type | Password Manager Entry | Tied to Work Email |
 |---------|---------|--------------|----------------------|------------------|
 | LinkedIn |  |  |  | Yes/No |
@@ -1352,14 +1888,20 @@ For each major email account:
 
 ## Device & Hardware
 
+---
+
 ### Devices
+
 | Device | Type | Serial Number | Login/PIN | Fingerprint/Face ID | Find My Device | Notes |
 |--------|------|---------------|-----------|-------------------|----------------|-------|
 | iPhone |  |  | [Secure ref] | Yes/No | Enabled |  |
 | Laptop |  |  |  |  |  |  |
 | Tablet |  |  |  |  |  |  |
 
+---
+
 ### Smart Home & IoT
+
 | Device | Type | App | Account | Location | Network |
 |--------|------|-----|---------|----------|---------|
 | Nest Thermostat |  |  |  |  |  |
@@ -1368,12 +1910,18 @@ For each major email account:
 
 ## Websites & Domains
 
+---
+
 ### Domain Names Owned
+
 | Domain | Registrar | Expiration | Auto-Renew | Purpose | Hosting Provider |
 |--------|-----------|------------|------------|---------|-----------------|
 |  |  |  | Yes/No |  |  |
 
+---
+
 ### Websites/Blogs
+
 | Site URL | Platform | Hosting | Purpose | Login | Last Updated |
 |----------|----------|---------|---------|-------|--------------|
 |  | WordPress/Squarespace |  |  |  |  |
@@ -1382,26 +1930,38 @@ For each major email account:
 
 ⚠️ **HIGHLY SENSITIVE**
 
+---
+
 ### Cryptocurrency Wallets
+
 | Wallet | Type | Currencies | Recovery Phrase Location | Password Manager Entry | Approximate Value |
 |--------|------|-----------|------------------------|----------------------|------------------|
 |  | Hardware / Software / Exchange |  | [ULTRA SECURE LOCATION] |  |  |
 
+---
+
 ### NFTs & Digital Collectibles
+
 | Platform | Wallet Address | Type | Value |
 |----------|---------------|------|-------|
 |  |  |  |  |
 
 ## Communication Accounts
 
+---
+
 ### Messaging Apps
+
 | App | Username/Phone | Linked Email | Backup Location | Password Manager Entry |
 |-----|---------------|--------------|----------------|----------------------|
 | WhatsApp |  |  |  |  |
 | Signal |  |  |  |  |
 | Telegram |  |  |  |  |
 
+---
+
 ### Video Conferencing
+
 | Service | Account | Meeting Links | Password Manager Entry |
 |---------|---------|---------------|----------------------|
 | Zoom |  | Personal room: |  |
@@ -1409,7 +1969,10 @@ For each major email account:
 
 ## Digital Legacy & Posthumous Access
 
+---
+
 ### Digital Executor
+
 - **Name:** 
 - **Relationship:** 
 - **Contact:** 
@@ -1421,6 +1984,8 @@ For each major email account:
   - [ ] Close or maintain specific accounts
   - [ ] Transfer digital assets per will
 
+---
+
 ### Account Instructions Upon Death
 
 | Account Type | Specific Accounts | Action | Priority | Who Handles |
@@ -1431,7 +1996,10 @@ For each major email account:
 | Subscriptions | All | Cancel | Medium | Executor |
 | Financial | Online banking | See Financial POA | High | Financial POA |
 
+---
+
 ### Important Data to Preserve
+
 - **Photo Libraries:** [Location & backup instructions]
 - **Videos:** [Location]
 - **Documents:** [Which ones are critical]
@@ -1440,12 +2008,18 @@ For each major email account:
 
 ## Two-Factor Authentication (2FA)
 
+---
+
 ### 2FA Methods Used
+
 | Account | 2FA Method | Backup Codes Location | Recovery Phone | Recovery Email |
 |---------|-----------|---------------------|----------------|----------------|
 |  | Authenticator App / SMS / Email |  |  |  |
 
+---
+
 ### Authenticator Apps
+
 - **App Used:** [Google Authenticator / Authy / etc.]
 - **Backup/Recovery:** 
 - **If Phone Lost:** [Recovery procedure]
@@ -1467,27 +2041,24 @@ For each major email account:
 |------|---------|----------|--------------|------------|
 |  |  | Suspicious activity / Breach / Password reset |  |  |
 
----
 **CONFIDENTIAL - CONTAINS SENSITIVE ACCESS INFORMATION**  
 **Last Updated:** [Date] by [Name]  
 **Next Review:** [Quarterly]
 
 ---
 
-### Family Member - Personal & Preferences
-
-# [Name] - Personal & Preferences
-
-## Personal Details
-
 ### Physical Description
+
 - **Height:** 
 - **Build:** 
 - **Hair Color:** 
 - **Eye Color:** 
-- **Distinguishing Features:** 
+- **Distinguishing Features:**
+
+---
 
 ### Sizes (for gifts/shopping)
+
 - **Shirt Size:** 
 - **Pants/Jeans:** 
   - Waist: 
@@ -1499,11 +2070,17 @@ For each major email account:
 
 ## Favorites
 
+---
+
 ### Colors
+
 - **Favorite Color:** 
-- **Colors I Dislike:** 
+- **Colors I Dislike:**
+
+---
 
 ### Foods & Dining
+
 **Favorite Foods:** 
 - 
 - 
@@ -1522,7 +2099,9 @@ For each major email account:
 - Allergies: 
 - Dislikes: 
 - Health-related: 
-- Religious/Ethical: 
+- Religious/Ethical:
+
+---
 
 ### Entertainment
 
@@ -1544,9 +2123,12 @@ For each major email account:
 
 **Favorite Podcast:** 
 - 
-- 
+-
+
+---
 
 ### Activities & Hobbies
+
 | Hobby | Skill Level | How Often | With Whom | Equipment/Supplies Needed |
 |-------|-------------|-----------|-----------|--------------------------|
 |  | Beginner/Intermediate/Expert |  |  |  |
@@ -1555,7 +2137,9 @@ For each major email account:
 - 
 
 **Sports (Watching):** 
-- Favorite Teams: 
+- Favorite Teams:
+
+---
 
 ### Travel
 
@@ -1575,20 +2159,29 @@ For each major email account:
 
 ## Preferences & Routines
 
+---
+
 ### Daily Routine
+
 - **Morning Person or Night Owl:** 
 - **Typical Wake Time:** 
 - **Typical Bedtime:** 
 - **Morning Routine:** 
-- **Evening Routine:** 
+- **Evening Routine:**
+
+---
 
 ### Communication
+
 - **Preferred Method:** [Call / Text / Email / In-person]
 - **Best Time to Reach Me:** 
 - **Do Not Disturb Times:** 
-- **Response Time Expectations:** 
+- **Response Time Expectations:**
+
+---
 
 ### Social Preferences
+
 - **Introvert / Extrovert / Ambivert:** 
 - **Social Battery:** 
 - **Ideal Weekend:** 
@@ -1596,13 +2189,19 @@ For each major email account:
 
 ## Style & Fashion
 
+---
+
 ### Fashion Preferences
+
 - **Style:** [Casual / Business / Trendy / Classic / etc.]
 - **Favorite Stores:** 
 - **Favorite Brands:** 
-- **Fashion Dislikes:** 
+- **Fashion Dislikes:**
+
+---
 
 ### Accessories
+
 - **Jewelry Style:** 
 - **Watch Preference:** 
 - **Bag/Purse Style:** 
@@ -1610,44 +2209,65 @@ For each major email account:
 
 ## Scents & Personal Care
 
+---
+
 ### Fragrances
+
 - **Favorite Perfume/Cologne:** 
 - **Scents I Love:** 
-- **Scents I Hate:** 
+- **Scents I Hate:**
+
+---
 
 ### Personal Care Products
+
 - **Skin Type:** 
 - **Favorite Brands:** 
 - **Allergies/Sensitivities:** 
 
 ## Technology Preferences
 
+---
+
 ### Devices
+
 - **Phone:** [iPhone / Android]
 - **Computer:** [Mac / PC]
 - **Tablet:** 
 - **Smart Watch:** 
 - **Preferred Ecosystem:** [Apple / Google / Microsoft]
 
+---
+
 ### Apps & Services
+
 **Can't Live Without:** 
 - 
 - 
 
 ## Gift Ideas
 
+---
+
 ### Current Wish List
+
 | Item | Priority | Approximate Cost | Where to Buy | Notes |
 |------|----------|-----------------|--------------|-------|
 |  | High/Medium/Low |  |  |  |
 
+---
+
 ### Gift-Giving Preferences
+
 - **Prefer:** [Experiences / Physical gifts / Gift cards / Donations to charity]
 - **Love to receive:** 
 - **Please don't give me:** 
-- **Favorite gift card stores:** 
+- **Favorite gift card stores:**
+
+---
 
 ### Important Occasions
+
 | Date | Occasion | How I Like to Celebrate | Gift Expectations |
 |------|----------|------------------------|-------------------|
 |  | Birthday |  | Surprise / No gifts / Specific requests |
@@ -1655,7 +2275,10 @@ For each major email account:
 
 ## Causes & Values
 
+---
+
 ### Charities & Causes
+
 **Organizations I Support:** 
 | Organization | Cause | How I Support | Donation Frequency |
 |-------------|-------|--------------|-------------------|
@@ -1663,9 +2286,12 @@ For each major email account:
 
 **Causes I Care About:** 
 - 
-- 
+-
+
+---
 
 ### Volunteerism
+
 **Current Volunteer Work:** 
 - Organization: 
 - Role: 
@@ -1677,7 +2303,10 @@ For each major email account:
 
 ## Pets
 
+---
+
 ### Current Pets
+
 | Name | Type/Breed | Age | Special Needs | Vet | Notes |
 |------|------------|-----|---------------|-----|-------|
 |  |  |  |  |  |  |
@@ -1688,48 +2317,78 @@ For each major email account:
 
 ## Collections & Special Interests
 
+---
+
 ### Collections
+
 | What I Collect | Started When | Current Size | Storage Location | Most Prized Piece |
 |---------------|--------------|--------------|-----------------|------------------|
 |  |  |  |  |  |
 
+---
+
 ### Special Interests (Deep Dives)
+
 - 
 - 
 
 ## Comfort & Self-Care
 
+---
+
 ### When I'm Stressed, I...
+
 - 
-- 
+-
+
+---
 
 ### When I'm Sick, I Need...
-- 
-- 
 
-### Comfort Food:** 
 - 
-- 
+-
 
-### Comfort Activities:** 
+---
+
+### Comfort Food:**
+
+- 
+-
+
+---
+
+### Comfort Activities:**
+
 - 
 - 
 
 ## Fun Facts & Quirks
 
+---
+
 ### Fun Facts About Me
+
 - 
-- 
+-
+
+---
 
 ### Pet Peeves
+
 - 
-- 
+-
+
+---
 
 ### Hidden Talents
+
 - 
-- 
+-
+
+---
 
 ### Bucket List
+
 - [ ] 
 - [ ] 
 - [ ] 
@@ -1765,16 +2424,17 @@ For each major email account:
 - 
 - 
 
----
 **Last Updated:** [Date] by [Name]  
 **This is who I am! 💙**
 ```
 
----
 
 ## How to Implement These Templates
 
+---
+
 ### Step 1: Create Book Structure
+
 For each family member, create a Book with these Chapters:
 
 1. Overview (Quick Reference) ← Start here
@@ -1787,6 +2447,8 @@ For each family member, create a Book with these Chapters:
 8. Education History
 9. Digital Life & Accounts
 10. Personal & Preferences
+
+---
 
 ### Step 2: Set Permissions
 
@@ -1808,6 +2470,8 @@ For each family member, create a Book with these Chapters:
 - Employment & Career
 - Education History
 
+---
+
 ### Step 3: Start with the Critical Ones
 
 **Do these first (in order):**
@@ -1826,6 +2490,8 @@ For each family member, create a Book with these Chapters:
 9. Education
 10. Personal & Preferences
 
+---
+
 ### Step 4: Link Between Pages
 
 Create cross-references:
@@ -1835,7 +2501,6 @@ Create cross-references:
 
 This keeps pages focused while connecting related info.
 
----
 
 ## Quick Start Guide
 
@@ -1847,7 +2512,6 @@ This keeps pages focused while connecting related info.
 6. **Repeat for other family members**
 7. **Review together** as a family - make it a Sunday afternoon project
 
----
 
 **These modular templates make your family wiki:**
 ✅ Easier to fill out (not overwhelming)
@@ -1858,25 +2522,24 @@ This keeps pages focused while connecting related info.
 
 ---
 
-### Family Member - Financial Accounts
-
-# [Name] - Financial Accounts
-
-⚠️ **CONFIDENTIAL - SECURE ACCESS ONLY** ⚠️
-
-## Banking
-
 ### Checking Accounts
+
 | Bank Name | Account Type | Last 4 Digits | Purpose | Average Balance | Link to Full Details |
 |-----------|--------------|---------------|---------|----------------|---------------------|
 |  | Checking | ****XXXX | Daily expenses |  | [Link to account page] |
 
+---
+
 ### Savings Accounts
+
 | Bank Name | Account Type | Last 4 Digits | Purpose | Current Balance | Interest Rate |
 |-----------|--------------|---------------|---------|----------------|---------------|
 |  | Savings | ****XXXX | Emergency fund |  |  |
 
+---
+
 ### Bank Account Details Template
+
 For each account, create a linked page with:
 - **Full Account Number:** [Password Manager Reference]
 - **Routing Number:** 
@@ -1896,43 +2559,64 @@ For each account, create a linked page with:
 
 ## Investment & Retirement Accounts
 
+---
+
 ### Retirement Accounts
+
 | Account Type | Institution | Last 4 Digits | Current Value | Beneficiary | Link |
 |--------------|-------------|---------------|---------------|-------------|------|
 | 401(k) |  | ****XXXX |  |  | [Link] |
 | Traditional IRA |  | ****XXXX |  |  | [Link] |
 | Roth IRA |  | ****XXXX |  |  | [Link] |
 
+---
+
 ### Brokerage & Investment Accounts
+
 | Institution | Account Type | Last 4 Digits | Purpose | Current Value | Advisor |
 |-------------|--------------|---------------|---------|---------------|---------|
 |  | Brokerage | ****XXXX |  |  |  |
 
+---
+
 ### 529 Education Savings
+
 | Account | Beneficiary | Institution | Current Value | Link |
 |---------|-------------|-------------|---------------|------|
 |  |  |  |  | [Link] |
 
+---
+
 ### HSA (Health Savings Account)
+
 | Institution | Account Number | Current Balance | Annual Contribution Limit | Link |
 |-------------|---------------|----------------|---------------------------|------|
 |  |  |  |  | [Link] |
 
 ## Credit Cards
 
+---
+
 ### Active Credit Cards
+
 | Card Name | Last 4 Digits | Credit Limit | Primary Use | Payment Account | Statement Date | Due Date | Link |
 |-----------|---------------|--------------|-------------|-----------------|----------------|----------|------|
 |  | ****XXXX |  | Daily purchases |  | [Day] | [Day] | [Link] |
 
+---
+
 ### Store Cards & Retail Credit
+
 | Store | Card Number (Last 4) | Credit Limit | Notes |
 |-------|---------------------|--------------|-------|
 |  | ****XXXX |  |  |
 
 ## Loans & Debt
 
+---
+
 ### Mortgage
+
 - **Lender:** 
 - **Loan Number:** 
 - **Property Address:** 
@@ -1949,22 +2633,34 @@ For each account, create a linked page with:
 - **Online Access:** [URL & login reference]
 - **Link to Full Details:** [Link]
 
+---
+
 ### Auto Loans
+
 | Vehicle | Lender | Loan Number | Balance | Monthly Payment | Due Date | Payoff Date |
 |---------|--------|-------------|---------|----------------|----------|-------------|
 |  |  |  |  |  |  |  |
 
+---
+
 ### Student Loans
+
 | Lender/Servicer | Loan Type | Balance | Interest Rate | Monthly Payment | Due Date | Forgiveness Program |
 |----------------|-----------|---------|---------------|----------------|----------|-------------------|
 |  |  |  |  |  |  |  |
 
+---
+
 ### Personal Loans
+
 | Lender | Purpose | Balance | Monthly Payment | Due Date | Payoff Date |
 |--------|---------|---------|----------------|----------|-------------|
 |  |  |  |  |  |  |
 
+---
+
 ### Home Equity Line of Credit (HELOC)
+
 - **Lender:** 
 - **Credit Limit:** 
 - **Current Balance:** 
@@ -1974,28 +2670,40 @@ For each account, create a linked page with:
 
 ## Income Sources
 
+---
+
 ### Employment Income
+
 - **Employer:** 
 - **Annual Salary:** 
 - **Pay Frequency:** [Weekly / Bi-weekly / Monthly]
 - **Pay Date:** 
 - **Direct Deposit Account:** [Link]
-- **Last Pay Stub Location:** 
+- **Last Pay Stub Location:**
+
+---
 
 ### Self-Employment Income
+
 - **Business Name:** 
 - **Type:** 
 - **Average Monthly Income:** 
 - **Business Account:** [Link]
 
+---
+
 ### Passive Income
+
 | Source | Type | Monthly Amount | Account Deposited |
 |--------|------|----------------|-------------------|
 |  | Rental income |  |  |
 |  | Dividends |  |  |
 |  | Interest |  |  |
 
+---
+
 ### Social Security / Pension
+
 - **Social Security:** 
   - Monthly Benefit: 
   - Started: 
@@ -2007,7 +2715,10 @@ For each account, create a linked page with:
 
 ## Automatic Payments & Subscriptions
 
+---
+
 ### Bill Payments (Monthly)
+
 | Service | Amount | Due Date | Payment Method | Account Charged | Auto-Pay |
 |---------|--------|----------|----------------|-----------------|----------|
 | Mortgage |  |  |  |  | Yes/No |
@@ -2015,31 +2726,43 @@ For each account, create a linked page with:
 | Insurance |  |  |  |  |  |
 | Phone |  |  |  |  |  |
 
+---
+
 ### Subscriptions
+
 | Service | Cost | Frequency | Payment Method | Renewal Date | Auto-Renew |
 |---------|------|-----------|----------------|--------------|------------|
 | Netflix |  | Monthly |  |  | Yes/No |
 
 ## Financial Advisors & Professionals
 
+---
+
 ### Financial Advisor
+
 - **Name:** 
 - **Firm:** 
 - **Phone:** 
 - **Email:** 
 - **Type:** [Fee-only / Commission / Hybrid]
 - **Accounts Managed:** 
-- **Last Meeting:** 
+- **Last Meeting:**
+
+---
 
 ### Accountant / Tax Preparer
+
 - **Name:** 
 - **Firm:** 
 - **Phone:** 
 - **Email:** 
 - **Last Tax Year Filed:** 
-- **Fee:** 
+- **Fee:**
+
+---
 
 ### Insurance Agent
+
 - **Name:** 
 - **Company:** 
 - **Phone:** 
@@ -2072,7 +2795,6 @@ For each account, create a linked page with:
 - **Loan Documents:** 
 - **Financial Plan:** 
 
----
 **HIGHLY CONFIDENTIAL**
 
 ---
