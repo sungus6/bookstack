@@ -1,4 +1,5 @@
 # Accounts & Passwords
+> Exported from BookStack on 2026-05-21
 > Slug: accounts-passwords
 
 ---
@@ -86,15 +87,8 @@ All family account and password information is maintained in a **KeePass** datab
 | Field | Value |
 |-------|-------|
 | **Database Name** | sung.kdbx |
-| **Location** | \\\\moria\\home\\Drive\\Keepass |
+| **Location** | \\\\moria\\famdoc\\Keepass |
 | **Password** | Sung@keepass |
-
-> ⚠️ The path above is only accessible when logged into Moria as **sung.us**.
-
-To access Moria as sung.us:
-1. Open \\\\moria as a network location
-2. **Username:** sung.us
-3. **Password:** Sung@moria
 
 #### KeeShare (Read-Only Access)
 
@@ -103,7 +97,7 @@ You can gain read-only access to the passwords without logging into Moria as sun
 **Setup steps:**
 1. Create a new group in your KeePass DB
 2. Set **Type:** Import
-3. Set **Path:** \\\\moria\\famdoc\\Keepass\\KeeShare\\sung.house.kdbx
+3. Set **Path:** \\\\moria\\famdoc\\Keepass\\KeeShare\\sung.keeshare.kdbx
 4. **Name:** Whatever you like
 5. **Password:** Same as sung.kdbx (Sung@keepass)
 6. In the **KeeShare section**, configure the import
@@ -113,8 +107,8 @@ You can gain read-only access to the passwords without logging into Moria as sun
 | Extract | Contents |
 |---------|----------|
 | **sung.family** | Family shared passwords |
-| **sung.grandma** | Grandma's passwords |
 | **sung.home** | Home-related accounts (finance, utilities, etc.) |
+| **sung.arda** | Hometech (network, internet, ai, seervices) passwords and secrets, tokens |
 
 > Note: KeeShare is currently set to one-way export from the master DB. When passwords change in sung.kdbx, they update automatically in your imported copy.
 
@@ -133,3 +127,5 @@ These are internal accounts used to manage the Arda network, servers, and comput
 | **kiosk** | Home Assistant kiosk | Used for the Home Assistant dashboard displays. |
 
 Passwords for all LAN accounts are stored in the Sung KeePass database. See the [Password Vault (KeePass)](#password-vault-keepass) page for access.
+
+---

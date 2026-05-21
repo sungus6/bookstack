@@ -1,4 +1,5 @@
 # Mary Sung
+> Exported from BookStack on 2026-05-21
 > Slug: mary-sung-5n2
 
 ---
@@ -203,6 +204,7 @@
 - **Birthday:** March 16
 - **Anniversary:** March 19
 
----
 
 *Updated: May 21, 2026*
+
+---

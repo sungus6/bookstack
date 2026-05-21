@@ -1,4 +1,5 @@
 # Noah Sung
+> Exported from BookStack on 2026-05-21
 > Slug: noah-sung
 
 ---
@@ -203,6 +204,7 @@
 **Important Dates:**
 - **Birthday:** February 10
 
----
 
 *Updated: May 21, 2026*
+
+---

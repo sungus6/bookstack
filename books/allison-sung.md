@@ -1,4 +1,5 @@
 # Allison Sung
+> Exported from BookStack on 2026-05-21
 > Slug: allison-sung
 
 ---
@@ -215,6 +216,7 @@
 **Important Dates:**
 - **Birthday:** March 21
 
----
 
 *Updated: May 21, 2026*
+
+---

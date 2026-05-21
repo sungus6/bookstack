@@ -1,4 +1,5 @@
 # Jacob Sung
+> Exported from BookStack on 2026-05-21
 > Slug: jacob-sung
 
 ---
@@ -198,6 +199,7 @@
 **Important Dates:**
 - **Birthday:** October 16
 
----
 
 *Updated: May 21, 2026*
+
+---

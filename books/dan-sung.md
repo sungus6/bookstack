@@ -1,4 +1,5 @@
 # Dan Sung
+> Exported from BookStack on 2026-05-21
 > Slug: dan-sung
 
 ---
@@ -243,6 +244,7 @@
 - **Birthday:** January 19
 - **Anniversary:** March 19
 
----
 
 *Updated: May 21, 2026*
+
+---
