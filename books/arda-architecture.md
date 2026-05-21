@@ -1,5 +1,4 @@
 # Arda Architecture
-> Exported from BookStack on 2026-05-21
 > Slug: arda-architecture
 
 ---
@@ -160,46 +159,35 @@ The MikroTik router and Zyxel switch are on VLAN99 (management). Access from VLA
 
 ### Network at a Glance
 
-A quick reference for the Arda network. For full detail, see the Network book in the Internet & Domain section.
+The Arda network uses three VLANs (trusted, IoT, management), a MikroTik RB750GL router, a Zyxel GS1900-24HP switch, and UniFi Wi-Fi. For full detail — topology, VLAN config, firewall rules, MikroTik and Zyxel reference, WiFi APs, SSH tunnel access, and operations — see the dedicated **[Network](/books/network)** book.
 
-#### VLANs
+#### Quick Reference
 
-| VLAN | Name | Subnet | Who's on it |
-|------|------|--------|-------------|
-| 10 | trusted | 192.168.10.0/24 | PCs, servers, NAS, APs, trusted devices |
-| 20 | iot | 192.168.20.0/24 | Smart home devices, IoT gear |
-| 99 | mgmt | 192.168.99.0/24 | Palantir, MikroTik, Zyxel |
+**VLANs:**
 
-IoT devices cannot reach trusted devices. Trusted devices cannot reach management directly. VLAN99 has full access to everything for administration.
+| VLAN | Name | Subnet |
+|------|------|--------|
+| 10 | trusted | 192.168.10.0/24 |
+| 20 | iot | 192.168.20.0/24 |
+| 99 | mgmt | 192.168.99.0/24 |
 
-#### Wi-Fi Networks
+**Wi-Fi:**
 
 | SSID | VLAN | Use |
 |------|------|-----|
 | wintermute | 10 (trusted) | Family devices, phones, laptops |
 | neuromancer | 20 (iot) | Smart home devices, IoT |
 
-Connect personal devices to **wintermute**. Connect smart plugs, cameras, and IoT devices to **neuromancer**. Passwords in Sung KeePass DB.
-
-#### IP Address Quick Reference
+**Key IPs:**
 
 | IP | Hostname | What |
 |----|----------|------|
-| 192.168.10.1 | — | MikroTik gateway (VLAN10) |
 | 192.168.10.4 | rivendell.lan | Primary Docker server |
 | 192.168.10.6 | moria.lan | Synology NAS |
-| 192.168.10.7 | — | Moria NIC2 |
 | 192.168.10.10 | homeassistant.lan | Home Assistant |
-| 192.168.10.16 | minasmorgul.lan | Windows management machine |
+| 192.168.99.21 | palantir.lan | Management machine |
 | 192.168.99.1 | — | MikroTik gateway (VLAN99) |
 | 192.168.99.2 | — | Zyxel switch management |
-| 192.168.99.21 | palantir.lan | Management machine |
-
-#### DNS
-
-MikroTik handles local DNS for all VLAN10 and VLAN99 machines. The `.lan` suffix resolves to local IPs (e.g., `moria.lan` → 192.168.10.6). IoT devices use Google DNS (8.8.8.8) directly — they do not resolve `.lan` names.
-
-Upstream DNS: 9.9.9.9 (Quad9) and 1.1.1.1 (Cloudflare).
 
 ---
 
@@ -324,5 +312,3 @@ Aulë can draft and update documentation. The workflow is:
 #### Managed Books
 
 Only books listed in `managed_books.json` are processed by the upload script. If a new book needs to be managed, add its slug to that file.
-
----

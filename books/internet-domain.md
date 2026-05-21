@@ -1,5 +1,4 @@
 # Internet & Domain
-> Exported from BookStack on 2026-05-21
 > Slug: internet-domain
 
 ---
@@ -10,6 +9,8 @@
 - Domain (sung.us)
 - Cloudflare
 - Router Configuration (MikroTik)
+
+**This book is for Dan and technical family members. It contains provider account details, domain registration, and network configuration reference.**
 
 ---
 
@@ -133,87 +134,4 @@ Credentials in Sung KeePass DB.
 
 ### Router Configuration (MikroTik)
 
-#### Hardware
-
-| Field | Value |
-|-------|-------|
-| **Model** | MikroTik RB750GL |
-| **RouterOS** | 7.x |
-| **Serial** | 467A022C49C2 |
-
-#### Interface Layout
-
-| Interface | Name | Role |
-|-----------|------|------|
-| ether1 | ether1-WAN | WAN uplink to Xfinity modem |
-| ether2 | ether2-TRUNK | Tagged trunk to Zyxel (all VLANs) |
-| ether3 | ether3-unused | Unused, not bridged |
-| ether4 | ether4-unused | Unused, not bridged |
-| ether5 | ether5-EMERGENCY | Emergency bridge access |
-
-#### VLAN Interfaces
-
-All VLAN interfaces run on ether2-TRUNK:
-
-| Interface | VLAN ID | IP | Purpose |
-|-----------|---------|----|---------|
-| vlan10-trusted | 10 | 192.168.10.1/24 | Trusted LAN gateway |
-| vlan20-iot | 20 | 192.168.20.1/24 | IoT gateway |
-| vlan99-mgmt | 99 | 192.168.99.1/24 | Management gateway |
-
-#### Internal Networks
-
-| Network | Subnet |
-|---------|--------|
-| LAN | 192.168.10.0/24 |
-| IoT | 192.168.20.0/24 |
-| Infrastructure | 192.168.99.0/24 |
-
-#### Security / Firewall
-
-**VLAN10 (trusted) can:**
-- Access internet
-- Access other VLAN10 devices
-- SSH to palantir (192.168.99.21 port 22 specifically allowed)
-- Ping MikroTik (ICMP allowed for diagnostics)
-- Reach MikroTik DNS (port 53)
-
-**VLAN10 cannot:**
-- Access MikroTik admin (SSH, Winbox, HTTP blocked)
-- Access VLAN20 devices
-- Access VLAN99 devices directly (except palantir via SSH)
-
-**VLAN20 (iot) can:**
-- Access internet
-- Reach Home Assistant on specific ports (8123 TCP, 8009/8010/5353 UDP)
-
-**VLAN20 cannot:**
-- Access VLAN10 devices
-- Access VLAN99 devices
-- Reach MikroTik admin or DNS
-
-**VLAN99 (mgmt) can:**
-- Full access to MikroTik admin
-- Access Zyxel management (192.168.99.2)
-- Access VLAN10 devices (for RDP and management)
-- Internet access — DISABLED intentionally (re-enable temporarily for apt update)
-
-#### WiFi — Critical Gotcha
-
-**wintermute** must be assigned to the **"Default"** network in UniFi, NOT "Trusted (VLAN10)".
-
-If wintermute is assigned to "Trusted (VLAN10)", the AP explicitly tags frames as VLAN10. But the Zyxel port PVID=10 already handles that for untagged frames — the explicit tag conflicts, and clients connect but get 169.254.x.x addresses with no internet.
-
-Correct setup: wintermute → Default (untagged) → PVID=10 on Zyxel → VLAN10.
-
-neuromancer correctly uses the IoT network with VLAN20 because VLAN20 is Tagged on AP ports.
-
-#### Accessing Router Admin
-
-**From VLAN99 (palantir):** Direct SSH or Winbox to 192.168.99.1.
-
-**From VLAN10 (normal machines):** SSH tunnel through palantir only. MikroTik admin ports are blocked from VLAN10.
-
-**Emergency access:** Connect a machine to ether5 on the MikroTik. It gets an IP on the 192.168.88.0/24 emergency bridge network.
-
----
+Network routing, firewall, VLANs, and hardware configuration are covered in the dedicated **[Network](/books/network)** book.
