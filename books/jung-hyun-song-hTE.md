@@ -81,7 +81,6 @@
 - Lives with Sun Nam Shin
 - Same home access codes as Sun Nam Shin (Key: 4353, WiFi: SONGNET/Pass1004)
 
----
 **Last Updated:** February 20, 2026
 
 ---
@@ -108,7 +107,6 @@
 - **Son-in-law:** Dan Sung (married to Mary)
 - **Grandchildren:** Allison, Noah, Jacob
 
----
 **Last Updated:** February 20, 2026
 
 ---

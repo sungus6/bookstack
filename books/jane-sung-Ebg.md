@@ -16,6 +16,12 @@
 - Care Providers & Support
 - Financial (Simplified)
 - Legal & End-of-Life Wishes
+- Morning (6 AM - 12 PM)
+- Afternoon (12 PM - 6 PM)
+- Evening (6 PM - Bedtime)
+- Morning (6 AM - 12 PM)
+- Afternoon (12 PM - 6 PM)
+- Evening (6 PM - Bedtime)
 
 ---
 
@@ -221,7 +227,6 @@
 - 10/24/2025 - 12/4/2025: Stayed with Haemi & Peter
 - 2005 - 10/24/2025: 124 W. Buckingham Dr, Round Lake, IL
 
----
 **Last Updated:** February 20, 2026
 
 ---
@@ -236,43 +241,6 @@
 - **Building Access Code:** 810803
 
 ## Daily Routine
-
-### Morning (6 AM - 12 PM)
-- **Wake time:** [To be filled]
-- **Medications:** [To be filled - see current medications list]
-- **Breakfast:** [Time & preferences]
-- **Activities:** [To be filled]
-
-### Afternoon (12 PM - 6 PM)
-- **Lunch:** [Time & preferences]
-- **Activities:** [To be filled]
-- **Medications:** [If any]
-
-### Evening (6 PM - Bedtime)
-- **Dinner:** [Time & preferences]
-- **Evening routine:** [To be filled]
-- **Medications:** [List]
-- **Bedtime:** [Time]
-
-## Current Medications
-| Medication | Dosage | Time | Purpose |
-|------------|--------|------|---------|
-| [To be filled] | | | |
-
-## Medical Conditions
-- [To be filled]
-
-## Healthcare Providers
-- **Primary Doctor:** [Name & Phone]
-- **Specialists:** [To be filled]
-- **Pharmacy:** [Name & Phone]
-
-## Previous Phones (Reference)
-- Old mobile: 224.390.8436 (inactive - may show on old accounts)
-- Old Vonage: 847.231.3624 (canceled 9/12/2024)
-
----
-**Last Updated:** February 20, 2026
 
 ---
 
@@ -310,7 +278,6 @@
 - **Email:** ikjanesun@gmail.com
 - **KakaoTalk:** User ID: ikjanesung@gmail.com, Phone: 224.390.8436
 
----
 **Last Updated:** February 20, 2026
 
 ---
@@ -337,7 +304,6 @@
 - **Bank:** [Contact & Phone]
 - **Financial POA:** Dan Sung - 874.208.1833
 
----
 **Last Updated:** February 20, 2026
 
 ---
@@ -368,7 +334,96 @@
 - **Memorial Service:** [Wishes]
 - **Important Items:** [Who gets what]
 
+**Last Updated:** February 20, 2026
+
 ---
+
+### Morning (6 AM - 12 PM)
+
+- **Wake time:** [To be filled]
+- **Medications:** [To be filled - see current medications list]
+- **Breakfast:** [Time & preferences]
+- **Activities:** [To be filled]
+
+---
+
+### Afternoon (12 PM - 6 PM)
+
+- **Lunch:** [Time & preferences]
+- **Activities:** [To be filled]
+- **Medications:** [If any]
+
+---
+
+### Evening (6 PM - Bedtime)
+
+- **Dinner:** [Time & preferences]
+- **Evening routine:** [To be filled]
+- **Medications:** [List]
+- **Bedtime:** [Time]
+
+## Current Medications
+| Medication | Dosage | Time | Purpose |
+|------------|--------|------|---------|
+| [To be filled] | | | |
+
+## Medical Conditions
+- [To be filled]
+
+## Healthcare Providers
+- **Primary Doctor:** [Name & Phone]
+- **Specialists:** [To be filled]
+- **Pharmacy:** [Name & Phone]
+
+## Previous Phones (Reference)
+- Old mobile: 224.390.8436 (inactive - may show on old accounts)
+- Old Vonage: 847.231.3624 (canceled 9/12/2024)
+
+**Last Updated:** February 20, 2026
+
+---
+
+### Morning (6 AM - 12 PM)
+
+- **Wake time:** [To be filled]
+- **Medications:** [To be filled - see current medications list]
+- **Breakfast:** [Time & preferences]
+- **Activities:** [To be filled]
+
+---
+
+### Afternoon (12 PM - 6 PM)
+
+- **Lunch:** [Time & preferences]
+- **Activities:** [To be filled]
+- **Medications:** [If any]
+
+---
+
+### Evening (6 PM - Bedtime)
+
+- **Dinner:** [Time & preferences]
+- **Evening routine:** [To be filled]
+- **Medications:** [List]
+- **Bedtime:** [Time]
+
+## Current Medications
+| Medication | Dosage | Time | Purpose |
+|------------|--------|------|---------|
+| [To be filled] | | | |
+
+## Medical Conditions
+- [To be filled]
+
+## Healthcare Providers
+- **Primary Doctor:** [Name & Phone]
+- **Specialists:** [To be filled]
+- **Pharmacy:** [Name & Phone]
+
+## Previous Phones (Reference)
+- Old mobile: 224.390.8436 (inactive - may show on old accounts)
+- Old Vonage: 847.231.3624 (canceled 9/12/2024)
+
 **Last Updated:** February 20, 2026
 
 ---

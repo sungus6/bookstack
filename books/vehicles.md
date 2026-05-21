@@ -18,6 +18,28 @@
 - Lexus RX300
 - Mazda 3 Touring
 - Mercedes E350 (Donated)
+- Regular Maintenance
+- Service History
+- Regular Maintenance
+- Service History
+- Regular Maintenance
+- Service History
+- Regular Maintenance
+- Service History
+- Regular Maintenance
+- Service History
+- Regular Maintenance
+- Service History
+- Regular Maintenance
+- Service History
+- Regular Maintenance
+- Service History
+- Regular Maintenance
+- Service History
+- Regular Maintenance
+- Service History
+- Regular Maintenance
+- Service History
 
 ---
 
@@ -44,7 +66,6 @@
 - **Mercedes E350 (Donated)** () - Donated - VIN: [VIN not found]
 
 
----
 
 ## Quick Reference
 
@@ -54,7 +75,6 @@
 
 **Historical Records:** 6
 
----
 
 ## Navigation
 
@@ -97,39 +117,6 @@
 
 ## Service & Maintenance
 
-### Regular Maintenance
-- **Last Oil Change:** [To be filled]
-- **Next Oil Change Due:** [To be filled]
-- **Preferred Service Center:** [To be filled]
-
-### Service History
-[To be filled - See detailed records in PDF]
-
-## Known Issues
-
-[To be filled - See notes in PDF]
-
-## Important Dates
-
-- **Purchase Date:** [To be filled]
-- **Warranty Expiration:** [To be filled]
-- **Registration Renewal:** [To be filled]
-
-## Documents
-
-- Title: [Location]
-- Registration: [Location]
-- Insurance Card: [Location]
-- Service Records: [Location]
-
-## Notes
-
-*This vehicle has 12 pages of documentation in the source PDF.*
-
----
-
-**Last Updated:** February 2026
-
 ---
 
 ### BMW 328I (Total Loss)
@@ -163,39 +150,6 @@
 - **Agent:** [To be filled]
 
 ## Service & Maintenance
-
-### Regular Maintenance
-- **Last Oil Change:** [To be filled]
-- **Next Oil Change Due:** [To be filled]
-- **Preferred Service Center:** [To be filled]
-
-### Service History
-[To be filled - See detailed records in PDF]
-
-## Known Issues
-
-[To be filled - See notes in PDF]
-
-## Important Dates
-
-- **Purchase Date:** [To be filled]
-- **Warranty Expiration:** [To be filled]
-- **Registration Renewal:** [To be filled]
-
-## Documents
-
-- Title: [Location]
-- Registration: [Location]
-- Insurance Card: [Location]
-- Service Records: [Location]
-
-## Notes
-
-*This vehicle has 60 pages of documentation in the source PDF.*
-
----
-
-**Last Updated:** February 2026
 
 ---
 
@@ -231,39 +185,6 @@
 
 ## Service & Maintenance
 
-### Regular Maintenance
-- **Last Oil Change:** [To be filled]
-- **Next Oil Change Due:** [To be filled]
-- **Preferred Service Center:** [To be filled]
-
-### Service History
-[To be filled - See detailed records in PDF]
-
-## Known Issues
-
-[To be filled - See notes in PDF]
-
-## Important Dates
-
-- **Purchase Date:** [To be filled]
-- **Warranty Expiration:** [To be filled]
-- **Registration Renewal:** [To be filled]
-
-## Documents
-
-- Title: [Location]
-- Registration: [Location]
-- Insurance Card: [Location]
-- Service Records: [Location]
-
-## Notes
-
-*This vehicle has 42 pages of documentation in the source PDF.*
-
----
-
-**Last Updated:** February 2026
-
 ---
 
 ### BMW 320i
@@ -297,39 +218,6 @@
 - **Agent:** [To be filled]
 
 ## Service & Maintenance
-
-### Regular Maintenance
-- **Last Oil Change:** [To be filled]
-- **Next Oil Change Due:** [To be filled]
-- **Preferred Service Center:** [To be filled]
-
-### Service History
-[To be filled - See detailed records in PDF]
-
-## Known Issues
-
-[To be filled - See notes in PDF]
-
-## Important Dates
-
-- **Purchase Date:** [To be filled]
-- **Warranty Expiration:** [To be filled]
-- **Registration Renewal:** [To be filled]
-
-## Documents
-
-- Title: [Location]
-- Registration: [Location]
-- Insurance Card: [Location]
-- Service Records: [Location]
-
-## Notes
-
-*This vehicle has 8 pages of documentation in the source PDF.*
-
----
-
-**Last Updated:** February 2026
 
 ---
 
@@ -365,39 +253,6 @@
 
 ## Service & Maintenance
 
-### Regular Maintenance
-- **Last Oil Change:** [To be filled]
-- **Next Oil Change Due:** [To be filled]
-- **Preferred Service Center:** [To be filled]
-
-### Service History
-[To be filled - See detailed records in PDF]
-
-## Known Issues
-
-[To be filled - See notes in PDF]
-
-## Important Dates
-
-- **Purchase Date:** [To be filled]
-- **Warranty Expiration:** [To be filled]
-- **Registration Renewal:** [To be filled]
-
-## Documents
-
-- Title: [Location]
-- Registration: [Location]
-- Insurance Card: [Location]
-- Service Records: [Location]
-
-## Notes
-
-*This vehicle has 8 pages of documentation in the source PDF.*
-
----
-
-**Last Updated:** February 2026
-
 ---
 
 ### Hyundai Santa Fe Sport
@@ -431,39 +286,6 @@
 - **Agent:** [To be filled]
 
 ## Service & Maintenance
-
-### Regular Maintenance
-- **Last Oil Change:** [To be filled]
-- **Next Oil Change Due:** [To be filled]
-- **Preferred Service Center:** [To be filled]
-
-### Service History
-[To be filled - See detailed records in PDF]
-
-## Known Issues
-
-[To be filled - See notes in PDF]
-
-## Important Dates
-
-- **Purchase Date:** [To be filled]
-- **Warranty Expiration:** [To be filled]
-- **Registration Renewal:** [To be filled]
-
-## Documents
-
-- Title: [Location]
-- Registration: [Location]
-- Insurance Card: [Location]
-- Service Records: [Location]
-
-## Notes
-
-*This vehicle has 28 pages of documentation in the source PDF.*
-
----
-
-**Last Updated:** February 2026
 
 ---
 
@@ -499,39 +321,6 @@
 
 ## Service & Maintenance
 
-### Regular Maintenance
-- **Last Oil Change:** [To be filled]
-- **Next Oil Change Due:** [To be filled]
-- **Preferred Service Center:** [To be filled]
-
-### Service History
-[To be filled - See detailed records in PDF]
-
-## Known Issues
-
-[To be filled - See notes in PDF]
-
-## Important Dates
-
-- **Purchase Date:** [To be filled]
-- **Warranty Expiration:** [To be filled]
-- **Registration Renewal:** [To be filled]
-
-## Documents
-
-- Title: [Location]
-- Registration: [Location]
-- Insurance Card: [Location]
-- Service Records: [Location]
-
-## Notes
-
-*This vehicle has 38 pages of documentation in the source PDF.*
-
----
-
-**Last Updated:** February 2026
-
 ---
 
 ### Lexus IS300
@@ -565,39 +354,6 @@
 - **Agent:** [To be filled]
 
 ## Service & Maintenance
-
-### Regular Maintenance
-- **Last Oil Change:** [To be filled]
-- **Next Oil Change Due:** [To be filled]
-- **Preferred Service Center:** [To be filled]
-
-### Service History
-[To be filled - See detailed records in PDF]
-
-## Known Issues
-
-[To be filled - See notes in PDF]
-
-## Important Dates
-
-- **Purchase Date:** [To be filled]
-- **Warranty Expiration:** [To be filled]
-- **Registration Renewal:** [To be filled]
-
-## Documents
-
-- Title: [Location]
-- Registration: [Location]
-- Insurance Card: [Location]
-- Service Records: [Location]
-
-## Notes
-
-*This vehicle has 38 pages of documentation in the source PDF.*
-
----
-
-**Last Updated:** February 2026
 
 ---
 
@@ -633,39 +389,6 @@
 
 ## Service & Maintenance
 
-### Regular Maintenance
-- **Last Oil Change:** [To be filled]
-- **Next Oil Change Due:** [To be filled]
-- **Preferred Service Center:** [To be filled]
-
-### Service History
-[To be filled - See detailed records in PDF]
-
-## Known Issues
-
-[To be filled - See notes in PDF]
-
-## Important Dates
-
-- **Purchase Date:** [To be filled]
-- **Warranty Expiration:** [To be filled]
-- **Registration Renewal:** [To be filled]
-
-## Documents
-
-- Title: [Location]
-- Registration: [Location]
-- Insurance Card: [Location]
-- Service Records: [Location]
-
-## Notes
-
-*This vehicle has 15 pages of documentation in the source PDF.*
-
----
-
-**Last Updated:** February 2026
-
 ---
 
 ### Mazda 3 Touring
@@ -699,39 +422,6 @@
 - **Agent:** [To be filled]
 
 ## Service & Maintenance
-
-### Regular Maintenance
-- **Last Oil Change:** [To be filled]
-- **Next Oil Change Due:** [To be filled]
-- **Preferred Service Center:** [To be filled]
-
-### Service History
-[To be filled - See detailed records in PDF]
-
-## Known Issues
-
-[To be filled - See notes in PDF]
-
-## Important Dates
-
-- **Purchase Date:** [To be filled]
-- **Warranty Expiration:** [To be filled]
-- **Registration Renewal:** [To be filled]
-
-## Documents
-
-- Title: [Location]
-- Registration: [Location]
-- Insurance Card: [Location]
-- Service Records: [Location]
-
-## Notes
-
-*This vehicle has 18 pages of documentation in the source PDF.*
-
----
-
-**Last Updated:** February 2026
 
 ---
 
@@ -767,12 +457,398 @@
 
 ## Service & Maintenance
 
+---
+
 ### Regular Maintenance
+
 - **Last Oil Change:** [To be filled]
 - **Next Oil Change Due:** [To be filled]
 - **Preferred Service Center:** [To be filled]
 
+---
+
 ### Service History
+
+[To be filled - See detailed records in PDF]
+
+## Known Issues
+
+[To be filled - See notes in PDF]
+
+## Important Dates
+
+- **Purchase Date:** [To be filled]
+- **Warranty Expiration:** [To be filled]
+- **Registration Renewal:** [To be filled]
+
+## Documents
+
+- Title: [Location]
+- Registration: [Location]
+- Insurance Card: [Location]
+- Service Records: [Location]
+
+## Notes
+
+*This vehicle has 12 pages of documentation in the source PDF.*
+
+
+**Last Updated:** February 2026
+
+---
+
+### Regular Maintenance
+
+- **Last Oil Change:** [To be filled]
+- **Next Oil Change Due:** [To be filled]
+- **Preferred Service Center:** [To be filled]
+
+---
+
+### Service History
+
+[To be filled - See detailed records in PDF]
+
+## Known Issues
+
+[To be filled - See notes in PDF]
+
+## Important Dates
+
+- **Purchase Date:** [To be filled]
+- **Warranty Expiration:** [To be filled]
+- **Registration Renewal:** [To be filled]
+
+## Documents
+
+- Title: [Location]
+- Registration: [Location]
+- Insurance Card: [Location]
+- Service Records: [Location]
+
+## Notes
+
+*This vehicle has 60 pages of documentation in the source PDF.*
+
+
+**Last Updated:** February 2026
+
+---
+
+### Regular Maintenance
+
+- **Last Oil Change:** [To be filled]
+- **Next Oil Change Due:** [To be filled]
+- **Preferred Service Center:** [To be filled]
+
+---
+
+### Service History
+
+[To be filled - See detailed records in PDF]
+
+## Known Issues
+
+[To be filled - See notes in PDF]
+
+## Important Dates
+
+- **Purchase Date:** [To be filled]
+- **Warranty Expiration:** [To be filled]
+- **Registration Renewal:** [To be filled]
+
+## Documents
+
+- Title: [Location]
+- Registration: [Location]
+- Insurance Card: [Location]
+- Service Records: [Location]
+
+## Notes
+
+*This vehicle has 42 pages of documentation in the source PDF.*
+
+
+**Last Updated:** February 2026
+
+---
+
+### Regular Maintenance
+
+- **Last Oil Change:** [To be filled]
+- **Next Oil Change Due:** [To be filled]
+- **Preferred Service Center:** [To be filled]
+
+---
+
+### Service History
+
+[To be filled - See detailed records in PDF]
+
+## Known Issues
+
+[To be filled - See notes in PDF]
+
+## Important Dates
+
+- **Purchase Date:** [To be filled]
+- **Warranty Expiration:** [To be filled]
+- **Registration Renewal:** [To be filled]
+
+## Documents
+
+- Title: [Location]
+- Registration: [Location]
+- Insurance Card: [Location]
+- Service Records: [Location]
+
+## Notes
+
+*This vehicle has 8 pages of documentation in the source PDF.*
+
+
+**Last Updated:** February 2026
+
+---
+
+### Regular Maintenance
+
+- **Last Oil Change:** [To be filled]
+- **Next Oil Change Due:** [To be filled]
+- **Preferred Service Center:** [To be filled]
+
+---
+
+### Service History
+
+[To be filled - See detailed records in PDF]
+
+## Known Issues
+
+[To be filled - See notes in PDF]
+
+## Important Dates
+
+- **Purchase Date:** [To be filled]
+- **Warranty Expiration:** [To be filled]
+- **Registration Renewal:** [To be filled]
+
+## Documents
+
+- Title: [Location]
+- Registration: [Location]
+- Insurance Card: [Location]
+- Service Records: [Location]
+
+## Notes
+
+*This vehicle has 8 pages of documentation in the source PDF.*
+
+
+**Last Updated:** February 2026
+
+---
+
+### Regular Maintenance
+
+- **Last Oil Change:** [To be filled]
+- **Next Oil Change Due:** [To be filled]
+- **Preferred Service Center:** [To be filled]
+
+---
+
+### Service History
+
+[To be filled - See detailed records in PDF]
+
+## Known Issues
+
+[To be filled - See notes in PDF]
+
+## Important Dates
+
+- **Purchase Date:** [To be filled]
+- **Warranty Expiration:** [To be filled]
+- **Registration Renewal:** [To be filled]
+
+## Documents
+
+- Title: [Location]
+- Registration: [Location]
+- Insurance Card: [Location]
+- Service Records: [Location]
+
+## Notes
+
+*This vehicle has 28 pages of documentation in the source PDF.*
+
+
+**Last Updated:** February 2026
+
+---
+
+### Regular Maintenance
+
+- **Last Oil Change:** [To be filled]
+- **Next Oil Change Due:** [To be filled]
+- **Preferred Service Center:** [To be filled]
+
+---
+
+### Service History
+
+[To be filled - See detailed records in PDF]
+
+## Known Issues
+
+[To be filled - See notes in PDF]
+
+## Important Dates
+
+- **Purchase Date:** [To be filled]
+- **Warranty Expiration:** [To be filled]
+- **Registration Renewal:** [To be filled]
+
+## Documents
+
+- Title: [Location]
+- Registration: [Location]
+- Insurance Card: [Location]
+- Service Records: [Location]
+
+## Notes
+
+*This vehicle has 38 pages of documentation in the source PDF.*
+
+
+**Last Updated:** February 2026
+
+---
+
+### Regular Maintenance
+
+- **Last Oil Change:** [To be filled]
+- **Next Oil Change Due:** [To be filled]
+- **Preferred Service Center:** [To be filled]
+
+---
+
+### Service History
+
+[To be filled - See detailed records in PDF]
+
+## Known Issues
+
+[To be filled - See notes in PDF]
+
+## Important Dates
+
+- **Purchase Date:** [To be filled]
+- **Warranty Expiration:** [To be filled]
+- **Registration Renewal:** [To be filled]
+
+## Documents
+
+- Title: [Location]
+- Registration: [Location]
+- Insurance Card: [Location]
+- Service Records: [Location]
+
+## Notes
+
+*This vehicle has 38 pages of documentation in the source PDF.*
+
+
+**Last Updated:** February 2026
+
+---
+
+### Regular Maintenance
+
+- **Last Oil Change:** [To be filled]
+- **Next Oil Change Due:** [To be filled]
+- **Preferred Service Center:** [To be filled]
+
+---
+
+### Service History
+
+[To be filled - See detailed records in PDF]
+
+## Known Issues
+
+[To be filled - See notes in PDF]
+
+## Important Dates
+
+- **Purchase Date:** [To be filled]
+- **Warranty Expiration:** [To be filled]
+- **Registration Renewal:** [To be filled]
+
+## Documents
+
+- Title: [Location]
+- Registration: [Location]
+- Insurance Card: [Location]
+- Service Records: [Location]
+
+## Notes
+
+*This vehicle has 15 pages of documentation in the source PDF.*
+
+
+**Last Updated:** February 2026
+
+---
+
+### Regular Maintenance
+
+- **Last Oil Change:** [To be filled]
+- **Next Oil Change Due:** [To be filled]
+- **Preferred Service Center:** [To be filled]
+
+---
+
+### Service History
+
+[To be filled - See detailed records in PDF]
+
+## Known Issues
+
+[To be filled - See notes in PDF]
+
+## Important Dates
+
+- **Purchase Date:** [To be filled]
+- **Warranty Expiration:** [To be filled]
+- **Registration Renewal:** [To be filled]
+
+## Documents
+
+- Title: [Location]
+- Registration: [Location]
+- Insurance Card: [Location]
+- Service Records: [Location]
+
+## Notes
+
+*This vehicle has 18 pages of documentation in the source PDF.*
+
+
+**Last Updated:** February 2026
+
+---
+
+### Regular Maintenance
+
+- **Last Oil Change:** [To be filled]
+- **Next Oil Change Due:** [To be filled]
+- **Preferred Service Center:** [To be filled]
+
+---
+
+### Service History
+
 [To be filled - See detailed records in PDF]
 
 ## Known Issues
@@ -796,7 +872,6 @@
 
 *This vehicle has 6 pages of documentation in the source PDF.*
 
----
 
 **Last Updated:** February 2026
 

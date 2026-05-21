@@ -51,7 +51,6 @@ Everything in Arda is named after places and characters from Tolkien's world (Th
 Aulë (pronounced "Ow-leh") is our private AI assistant. Think of it like a family
 ChatGPT — but one that runs on our own computer at home, not on someone else's servers.
 
----
 
 ## How to Use It
 
@@ -62,7 +61,6 @@ ChatGPT — but one that runs on our own computer at home, not on someone else's
 
 That's it. Aulë will respond within a few seconds.
 
----
 
 ## What Aulë Can Do
 
@@ -71,7 +69,6 @@ That's it. Aulë will respond within a few seconds.
 - Remember your last several messages so you can refer back to earlier parts of the conversation
 - Keep your conversations completely private from other family members
 
----
 
 ## Good to Know
 
@@ -84,7 +81,6 @@ That's it. Aulë will respond within a few seconds.
   Aulë quietly escalates to a more capable (cloud-based) model. This is automatic
   and transparent to you.
 
----
 
 ## If Aulë Isn't Responding
 

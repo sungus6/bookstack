@@ -40,7 +40,6 @@ Generation 4: Great-grandchildren
 └─ Ruby Roo Rodriguez (Haesu's daughter, born 2/4/2023)
 ```
 
----
 
 ## The 8 Connected Clans
 
@@ -68,7 +67,6 @@ Generation 4: Great-grandchildren
 8. **Rodriguez Clan** - Haesu's husband's family
    - Members: Ben Rodriguez, Haesu, Ruby Roo
 
----
 
 ## Quick Reference by Location
 

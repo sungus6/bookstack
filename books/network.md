@@ -6,7 +6,6 @@
 
 ## Contents
 
-- Architecture & Design
 - Physical Topology
 - VLANs
 - Wi-Fi Networks
@@ -18,20 +17,6 @@
 - SSH Tunnel Access (palantir)
 - Operations & Common Tasks
 - Recovery Procedures
-
----
-
-### Architecture & Design
-
-Arda is a home network built around proper VLAN segmentation, managed switching, and a dedicated management plane. All routing, DHCP, and DNS is handled by a MikroTik RB750GL router. A Zyxel GS1900-24HP managed switch handles VLAN tagging and port assignment. UniFi APs provide wireless coverage across multiple SSIDs mapped to appropriate VLANs.
-
-#### Design Principles
-
-**Separation of trust.** IoT devices are isolated from trusted devices and cannot reach the management plane. Trusted devices cannot reach the management plane except through a controlled SSH tunnel. Only machines on VLAN99 have direct administrative access.
-
-**Resilience during recovery.** A dedicated management VLAN (VLAN99) and a physical emergency bridge on MikroTik ensure that administrative access is always available even when the primary network is misconfigured or broken.
-
-**No open ports to the internet.** External access goes through Cloudflare tunnel only — no ports are opened on the home router. See the Internet & Domain book for details.
 
 ---
 

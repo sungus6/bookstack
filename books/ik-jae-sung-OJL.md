@@ -78,7 +78,6 @@
 - **Phone:** [Historical]
 - **Email:** [Historical]
 
----
 **Last Updated:** February 20, 2026
 
 ---
@@ -102,7 +101,6 @@
 ## Legacy Notes
 - [Important things to remember about Ik Jae]
 
----
 **Last Updated:** February 20, 2026
 
 ---

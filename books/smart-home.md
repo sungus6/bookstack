@@ -1,4 +1,5 @@
 # Smart Home
+> Exported from BookStack on 2026-05-21
 > Slug: smart-home
 
 ---
@@ -7,6 +8,8 @@
 
 - For Everyone — Using the Smart Home
 - For Techies — Architecture & Integrations
+- Device Inventory
+- Automation Reference
 - Operations — Maintenance, Troubleshooting, Configuration
 
 ---
@@ -380,3 +383,5 @@ Backups include: configuration, automations, scenes, scripts, dashboards, and ad
 1. Check the USB stick is connected to the HA host
 2. Restart the Z-Wave/Zigbee integration
 3. If the stick isn't detected, reboot the HA host
+
+---

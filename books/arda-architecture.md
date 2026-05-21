@@ -130,11 +130,11 @@ The MikroTik router and Zyxel switch are on VLAN99 (management). Access from VLA
 
 ### Network at a Glance
 
-The Arda network uses three VLANs (trusted, IoT, management), a MikroTik RB750GL router, a Zyxel GS1900-24HP switch, and UniFi Wi-Fi. For full detail — topology, VLAN config, firewall rules, MikroTik and Zyxel reference, WiFi APs, SSH tunnel access, and operations — see the dedicated **[Network](/books/network)** book.
+![Arda Network Topology](/attachments/24)
+
+A graphical view of the Arda home network topology — from the Internet through the Xfinity modem, MikroTik router, and Zyxel switch, to the machines on VLANs 10, 20, and 99.
 
 #### Quick Reference
-
-**VLANs:**
 
 | VLAN | Name | Subnet |
 |------|------|--------|
@@ -142,14 +142,10 @@ The Arda network uses three VLANs (trusted, IoT, management), a MikroTik RB750GL
 | 20 | iot | 192.168.20.0/24 |
 | 99 | mgmt | 192.168.99.0/24 |
 
-**Wi-Fi:**
-
 | SSID | VLAN | Use |
 |------|------|-----|
 | wintermute | 10 (trusted) | Family devices, phones, laptops |
 | neuromancer | 20 (iot) | Smart home devices, IoT |
-
-**Key IPs:**
 
 | IP | Hostname | What |
 |----|----------|------|
@@ -160,7 +156,7 @@ The Arda network uses three VLANs (trusted, IoT, management), a MikroTik RB750GL
 | 192.168.99.1 | — | MikroTik gateway (VLAN99) |
 | 192.168.99.2 | — | Zyxel switch management |
 
----
+For full detail — topology, VLAN config, firewall rules, MikroTik and Zyxel reference, WiFi APs, SSH tunnel access, and operations — see the dedicated **[Network](/books/network)** book.
 
 ### External Access
 

@@ -95,7 +95,6 @@
 - Camera/Drink device info on file
 - Age: 92 years old (born 1934)
 
----
 **Last Updated:** February 20, 2026
 
 ---
@@ -124,7 +123,6 @@
 - **Son-in-law:** Dan Sung (married to Mary)
 - **Grandchildren:** Allison, Noah, Jacob
 
----
 **Last Updated:** February 20, 2026
 
 ---

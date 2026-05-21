@@ -1,4 +1,5 @@
 # Security & Backup
+> Exported from BookStack on 2026-05-21
 > Slug: security-backup
 
 ---
@@ -173,3 +174,5 @@ Ask Dan, Noah, or Jacob for access to the Sung KeePass DB.
 The MikroTik emergency bridge (192.168.88.0/24) has a fixed admin password. This allows recovery even when the KeePass DB isn't accessible.
 
 This password is **not documented here** — it's on the physical MikroTik unit and in the Sung KeePass DB.
+
+---
