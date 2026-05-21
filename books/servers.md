@@ -5,18 +5,23 @@
 
 ## Contents
 
-- Docker — Rivendell
-- NAS — Moria
-- NAS — Belegost
-- NAS — Erebor
-- Specialized Machines — Home Assistant
-- Specialized Machines — palantir
-- Specialized Machines — minasmorgul
-- Specialized Machines — isengard
+- Docker
+  - Rivendell
+- NAS
+  - Moria
+  - Belegost
+  - Erebor
+- Specialized Machines
+  - Home Assistant
+  - palantir
+  - minasmorgul
+  - isengard
 
 ---
 
-### Docker — Rivendell
+## Chapter: Docker
+
+### Rivendell
 
 Rivendell is the primary server in Arda. It runs all Docker-based workloads including the AI stack, BookStack wiki, monitoring, and external access.
 
@@ -65,7 +70,9 @@ Rivendell is backed up nightly to Moria via automated script.
 
 ---
 
-### NAS — Moria
+## Chapter: NAS
+
+### Moria
 
 Moria (Synology DS1511+) provides storage for the entire Arda network.
 
@@ -96,7 +103,7 @@ Moria (Synology DS1511+) provides storage for the entire Arda network.
 
 ---
 
-### NAS — Belegost
+### Belegost
 
 | Field | Value |
 |-------|-------|
@@ -107,7 +114,7 @@ Older NAS unit still in service for secondary storage and cold backup retention.
 
 ---
 
-### NAS — Erebor
+### Erebor
 
 | Field | Value |
 |-------|-------|
@@ -118,7 +125,9 @@ Older NAS unit used for media archive storage and as a secondary backup location
 
 ---
 
-### Specialized Machines — Home Assistant
+## Chapter: Specialized Machines
+
+### Home Assistant
 
 Home Assistant runs on dedicated hardware and is the central hub for all smart home devices.
 
@@ -133,7 +142,7 @@ Full smart home documentation (device inventory, automations, operations) is in 
 
 ---
 
-### Specialized Machines — palantir
+### palantir
 
 palantir is the management workstation for administering Arda.
 
@@ -149,7 +158,7 @@ palantir has direct access to MikroTik (192.168.99.1) and Zyxel (192.168.99.2) m
 
 ---
 
-### Specialized Machines — minasmorgul
+### minasmorgul
 
 minasmorgul is Manwë's personal Windows machine.
 
@@ -163,7 +172,7 @@ minasmorgul is Manwë's personal Windows machine.
 
 ---
 
-### Specialized Machines — isengard
+### isengard
 
 isengard is a dedicated recovery machine, kept offline except during disaster recovery operations.
 
