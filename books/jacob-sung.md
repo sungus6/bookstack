@@ -1,259 +1,203 @@
 # Jacob Sung
-> Exported from BookStack on 2026-05-14
 > Slug: jacob-sung
 
 ---
 
 ## Contents
 
-- Jacob Sung - Overview
-- Jacob Sung - Contact & Identity
-- Jacob Sung - Emergency Information
-- Jacob Sung - Medical & Health
-- Jacob Sung - Financial Accounts
-- Jacob Sung - Employment & Career
-- Jacob Sung - Education History
-- Jacob Sung - Legal & Estate Planning
-- Jacob Sung - Digital Life & Accounts
-- Jacob Sung - Personal & Preferences
+- Profile & Contact
+- Medical & Health
+- Life & History
 
 ---
 
-### Jacob Sung - Overview
+### Profile & Contact
 
-# Jacob Sung - Overview
+#### At a Glance
+- **📞** 847-220-0915
+- **✉️** jacob.sung@outlook.com
+- **🏠** 10358 Michael Todd Terrace #2E, Glenview, IL 60025
+- **🎂** October 16, 2000
+- **🆔** SSN: [To be filled] • DL: [To be filled]
 
-## At a Glance
-- **Full Name:** Jacob Changhyun Sung
-- **Preferred Name:** Jacob
-- **Date of Birth:** 10/16/2000
-- **Current Age:** 25
-- **Primary Contact:** 847.220.0915
-- **Email:** jacob.sung@outlook.com
-- **Current Address:** 10358 Michael Todd Terrace #2E, Glenview, IL 60025
+#### Names
 
-## Quick Links (Internal Pages)
-- [Emergency Information](#) - **START HERE in emergencies**
-- [Medical & Health](#)
-- [Contact & Identity](#)
-- [Financial Accounts](#)
-- [Legal & Estate](#)
-- [Employment & Career](#)
-- [Digital Life & Accounts](#)
-- [Personal & Preferences](#)
+| Type | Name |
+|------|------|
+| **Common Name** | Jacob Sung |
+| **Legal Name** | Jacob Changhyun Sung |
+| **Birth Name** | Jacob Chang Hyun Sung |
+| **Preferred Name** | Jacob |
 
-## Current Status
-- **Living Situation:** Renting (moved in 5/31/2025)
-- **Employment Status:** Employed
-- **Current Employer:** Ankura
-- **Health Status:** [To be filled]
-- **Primary Emergency Contact:** Dan Sung
+#### Contact
 
-## Important Quick Facts
-- **Blood Type:** [To be filled]
-- **Allergies:** [To be filled]
-- **Critical Medications:** [To be filled]
-- **Primary Doctor:** [To be filled]
+**Phone Numbers**
 
-## Family Relationships
-| Name | Relationship | Contact |
-|------|--------------|---------|
-| Dan Sung | Father | [Link] |
-| Mary Sung | Mother | [Link] |
-| Allison | Sister | [Link] |
-| Noah | Brother | [Link] |
+| Number | Type | Notes |
+|--------|------|-------|
+| 847-220-0915 | Mobile | Primary |
 
-## Last Updated
-- **Date:** February 7, 2026
-- **By:** [Name]
-- **Next Review:** February 2027
+**Email Addresses**
 
----
-**Photo:**  
-![Jacob's Photo](http://192.168.88.51:6875/uploads/images/gallery/2026-02/scaled-1680-/z74image.png)
+| Email | Type | Notes |
+|-------|------|-------|
+| jacob.sung@outlook.com | Personal | Primary |
+| kimchisoba@gmail.com | Personal | |
 
----
+**Physical Addresses**
 
-### Jacob Sung - Contact & Identity
+**Current:** 10358 Michael Todd Terrace #2E, Glenview, IL 60025 *(since May 31, 2025 — renting)*
 
-# Jacob Sung - Contact & Identity
+**Previous:** None recorded.
 
-## Basic Information
-- **Full Legal Name:** Jacob Changhyun Sung
-- **Preferred Name/Nickname:** Jacob
-- **Date of Birth:** 10/16/2000
-- **Place of Birth:** Lakeforest Hospital, Lake Forest, IL
-- **Current Age:** 25
-- **Citizenship:** USA
+**Social & Online Handles**
 
-### Name Variations
-| Name | Type | Used For | Notes |
-|------|------|----------|-------|
-| Jacob Changhyun Sung | Legal Name | Official documents | |
-| Jacob Chang Hyun Sung | Birth Name | | With space in middle name |
-| Jacob | Preferred Name | Daily use | |
+| Platform | Handle | Notes |
+|----------|--------|-------|
+| Discord | | To be filled |
 
-## Contact Information
+#### Vehicle
 
-### Phone Numbers
-| Number | Type | Primary Use | Notes |
-|--------|------|-------------|-------|
-| 847.220.0915 | Mobile | Primary contact | |
+| Make/Model | Year | VIN | Plate |
+|------------|------|-----|-------|
+| *(To be filled)* | | | |
 
-### Email Addresses
-| Email | Type | Used For | Notes |
-|-------|------|----------|-------|
-| jacob.sung@outlook.com | Personal | |  |
-| kimchisoba@gmail.com | Personal | |  |
+*See Vehicles book for full specs, maintenance, and service records.*
 
-### Physical Addresses
+#### Identification & Documents
 
-#### Current Address
-- **Street Address:** 10358 Michael Todd Terrace #2E, Glenview, IL 60025
-- **City, State ZIP:** Glenview, IL 60025
-- **Country:** USA
-- **Residence Type:** Rent
-- **Move-in Date:** 5/31/2025
-
-## Official Identification
-
-### Social Security Number
+**Social Security Number**
 - **SSN:** [To be filled]
-- **Physical Card Location:** [To be filled]
+- **Card Location:** [To be filled]
 
-### Driver's License / State ID
-- **License Number:** [To be filled]
+**Driver's License / State ID**
+- **Number:** [To be filled]
 - **State:** Illinois
+- **Expires:** [To be filled]
+- **Physical Location:** [To be filled]
 
-### Passport
-- **Passport Number:** [To be filled]
-- **Type:** Regular
-- **Issuing Country:** USA
+**Passport**
+- **Number:** [To be filled]
+- **Expiration:** [To be filled]
+- **Physical Location:** [To be filled]
 
-## Key Dates
-| Date | Event | How to Celebrate/Remember |
-|------|-------|--------------------------|
-| 10/16/2000 | Birthday | [To be filled] |
+**Other**
+- **Birth Certificate:** [Location — to be filled]
 
----
-**Last Updated:** February 7, 2026 by [Name]
+**Digital Scans:** 📎 Upload PDFs of DL, passport, SSN card as page attachments.
 
----
+#### ICE & Emergency
 
-### Jacob Sung - Emergency Information
+**Primary Contact:** Dan Sung (Father) — 874-208-1833
 
-# Jacob Sung - Emergency Information
+**Medical Quick-Reference:**
+| Item | Detail |
+|------|--------|
+| Blood Type | [To be filled] |
+| Allergies | [To be filled] |
+| Critical Medications | [To be filled] |
+| Primary Doctor | [To be filled] |
 
-⚠️ **CRITICAL INFORMATION - KEEP CURRENT** ⚠️
+#### Family Relationships
 
-## Primary Emergency Contacts
-### Contact 1
-- **Name:** Dan Sung
-- **Relationship:** Father
-
-### Contact 2
-- **Name:** Mary Sung
-- **Relationship:** Mother
-
----
-
-### Jacob Sung - Medical & Health
-
-# Jacob Sung - Medical & Health
-
-## Health Insurance Coverage
-[To be filled]
+| Name | Relationship |
+|------|--------------|
+| Dan Sung | Father |
+| Mary Sung | Mother |
+| Allison Sung | Sister |
+| Noah Sung | Brother |
 
 ---
 
-### Jacob Sung - Financial Accounts
+### Medical & Health
 
-# Jacob Sung - Financial Accounts
+#### Insurance
 
-⚠️ **CONFIDENTIAL** ⚠️
+| Type | Company | Policy ID | Notes |
+|------|---------|-----------|-------|
+| Medical | [To be filled] | | Likely through Ankura |
+| Dental | [To be filled] | | |
+| Vision | [To be filled] | | |
 
-[To be filled]
+#### Providers
 
----
+| Type | Name | Practice | Phone |
+|------|------|----------|-------|
+| Primary Care | [To be filled] | | |
+| Dentist | [To be filled] | | |
+| Eye Doctor | [To be filled] | | |
+| Pharmacy | [To be filled] | | |
 
-### Jacob Sung - Employment & Career
+#### Conditions & Medications
 
-# Jacob Sung - Employment & Career
+**Active Conditions:** *(none recorded)*
 
-## Current Employment
-- **Company Name:** Ankura
-- **Start Date:** 7/2024
+**Current Medications:** *(none recorded)*
 
-## Previous Experience
-- **Internship:** Country Company, Bloomington, IL (during college)
+**Allergies:** *(none recorded)*
 
----
+#### Preventive Care
 
-### Jacob Sung - Education History
+| Screening | Last Done | Next Due |
+|-----------|-----------|----------|
+| Annual Physical | [To be filled] | |
+| Dental Cleaning | [To be filled] | |
+| Eye Exam | [To be filled] | |
 
-# Jacob Sung - Education History
-
-## Schools Attended
-
-### University of Illinois
-- **Type:** University
-- **Graduated:** 2023 (approx)
-- **Notable:** Jazz guitar passion, college essays about perseverance and jazz
-
-### Lake Zurich High School
-- **Type:** High School
-- **Graduated:** 2019
-- **Teacher Note:** Mr. Daniel Ellis (dan.ellis@lz95.org) wrote a touching senior letter
-
-### Spencer Loomis Elementary School
-- **Type:** Elementary School
-- **3rd Grade Teacher:** Mr. Spicer
-
-## Notable Achievements
-- Passionate jazz guitarist
-- Self-taught guitar after being told "no" by parents
-- Studied multiple guitar styles: classical, fingerstyle, rock/metal, jazz
+**Immunizations:**
+| Vaccine | Last Dose | Notes |
+|---------|-----------|-------|
+| Flu | [To be filled] | Annual |
+| Tetanus | [To be filled] | Every 10 yrs |
+| COVID-19 | [To be filled] | |
 
 ---
 
-### Jacob Sung - Legal & Estate Planning
+### Life & History
 
-# Jacob Sung - Legal & Estate Planning
+#### Birth
 
-⚠️ **CONFIDENTIAL** ⚠️
+- **Date:** October 16, 2000
+- **Place:** Lake Forest, IL
+- **Hospital:** Lakeforest Hospital
+- **Parents:** Dan Sung (father), Mary Sung (mother)
 
-[To be filled]
+#### Education
+
+| School | Location | Years | Notes |
+|--------|----------|-------|-------|
+| Spencer Loomis Elementary | | | 3rd grade teacher: Mr. Spicer |
+| Lake Zurich High School | Lake Zurich, IL | ~2019 | |
+| University of Illinois | Urbana-Champaign, IL | ~2023 | |
+
+#### Employment
+
+| Company | Title | Dates |
+|---------|-------|-------|
+| Country Company (internship) | | During college |
+| Ankura | | Jul 2024 – present |
+
+#### Life Timeline
+
+| Date | Event | Details |
+|------|-------|---------|
+| Oct 16, 2000 | Born | Lakeforest Hospital, Lake Forest, IL |
+| ~2019 | Graduated high school | Lake Zurich High School |
+| ~2023 | Graduated college | University of Illinois |
+| May 31, 2025 | Moved in | 10358 Michael Todd Terrace #2E, Glenview |
+
+#### Personal & Preferences
+
+**Passions & Interests:**
+- 🎸 Jazz guitar (self-taught)
+- Influences: Wes Montgomery, Louis Armstrong
+- Philosophy: "You blows who you is" — Louis Armstrong
+
+**Personal Story:** Jacob taught himself guitar after his parents initially refused lessons (they thought he'd lose interest like his siblings). This drove him to prove them wrong and develop a deep passion for the instrument, particularly jazz guitar.
+
+**Important Dates:**
+- **Birthday:** October 16
 
 ---
 
-### Jacob Sung - Digital Life & Accounts
-
-# Jacob Sung - Digital Life & Accounts
-
-## Email Accounts
-- **jacob.sung@outlook.com** (Personal)
-- **kimchisoba@gmail.com** (Personal)
-
-[To be filled]
-
----
-
-### Jacob Sung - Personal & Preferences
-
-# Jacob Sung - Personal & Preferences
-
-## Passions & Interests
-- **Music:** Jazz guitar (self-taught)
-- **Influences:** Wes Montgomery, Louis Armstrong
-- **Philosophy:** "You blows who you is" (Louis Armstrong)
-
-## Personal Story
-Jacob taught himself guitar after his parents initially refused lessons (they thought he'd lose interest like his siblings). This drove him to prove them wrong and develop a deep passion for the instrument, particularly jazz guitar.
-
-## Important Dates
-- **Birthday:** 10/16/2000
-
----
-**Last Updated:** February 7, 2026 by [Name]
-
----
+*Updated: May 21, 2026*

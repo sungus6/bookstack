@@ -1,401 +1,220 @@
 # Allison Sung
-> Exported from BookStack on 2026-05-14
 > Slug: allison-sung
 
 ---
 
 ## Contents
 
-- Allison Sung - Overview
-- Allison Sung - Contact & Identity
-- Allison Sung - Emergency Information
-- Allison Sung - Medical & Health
-- Allison Sung - Financial Accounts
-- Allison Sung - Employment & Career
-- Allison Sung - Education History
-- Allison Sung - Legal & Estate Planning
-- Allison Sung - Digital Life & Accounts
-- Allison Sung - Personal & Preferences
+- Profile & Contact
+- Medical & Health
+- Life & History
 
 ---
 
-### Allison Sung - Overview
+### Profile & Contact
 
-# Allison Sung - Overview
+#### At a Glance
+- **📞** 847-431-0397
+- **✉️** allisonsung@outlook.com
+- **🏠** 3271 Coral Ln, Glenview, IL 60026
+- **🎂** March 21, 1997
+- **🆔** SSN: 319-94-3927 • DL: S520-0109-7683
 
-## At a Glance
-- **Full Name:** Allison Jison Sung
-- **Preferred Name:** Allison
-- **Date of Birth:** 3/21/1997
-- **Current Age:** 28
-- **Primary Contact:** 847.431.0397
-- **Email:** allisonsung@outlook.com
-- **Current Address:** 3271 Coral Ln, Glenview, 60026
+#### Names
 
-## Quick Links (Internal Pages)
-- [Emergency Information](#) - **START HERE in emergencies**
-- [Medical & Health](#)
-- [Contact & Identity](#)
-- [Financial Accounts](#)
-- [Legal & Estate](#)
-- [Employment & Career](#)
-- [Digital Life & Accounts](#)
-- [Personal & Preferences](#)
+| Type | Name |
+|------|------|
+| **Common Name** | Allison Sung |
+| **Legal Name** | Allison Jison Sung |
+| **Preferred Name** | Allison |
 
-## Current Status
-- **Living Situation:** [To be filled]
-- **Employment Status:** Employed
-- **Current Employer:** Allstate
-- **Health Status:** [To be filled]
-- **Primary Emergency Contact:** Dan Sung
+#### Contact
 
-## Important Quick Facts
-- **Blood Type:** [To be filled]
-- **Allergies:** [To be filled]
-- **Critical Medications:** [To be filled]
-- **Primary Doctor:** [To be filled]
+**Phone Numbers**
 
-## Family Relationships
-| Name | Relationship | Contact |
-|------|--------------|---------|
-| Dan Sung | Parent | [Link] |
-| Mary Sung | Parent | [Link] |
-| Noah | Sibling | [Link] |
-| Jacob | Sibling | [Link] |
+| Number | Type | Notes |
+|--------|------|-------|
+| 847-431-0397 | Mobile | Primary |
 
-## Last Updated
-- **Date:** February 7, 2026
-- **By:** [Name]
-- **Next Review:** February 2027
+**Email Addresses**
 
----
-**Photo:**  
-![Allison's Photo](http://192.168.88.51:6875/uploads/images/gallery/2026-02/scaled-1680-/BV2image.png)
-![Allison's Photo](http://192.168.88.51:6875/uploads/images/gallery/2026-02/scaled-1680-/YTSimage.png)
+| Email | Type | Notes |
+|-------|------|-------|
+| allisonsung@outlook.com | Personal | Primary |
+| allisonsung@gmail.com | Personal | |
 
----
+**Physical Addresses**
 
-### Allison Sung - Contact & Identity
+**Current:** 3271 Coral Ln, Glenview, IL 60026 *(since July 12, 2025 — roommate: Jeneva)*
 
-# Allison Sung - Contact & Identity
+**Previous:**
+| Address | Dates | Notes |
+|---------|-------|-------|
+| 17 N. Bishop St Apt 3, Chicago, IL | 2023 – Jul 2025 | Roommates: Amy Choi, Lindsey Kim |
+| 1215 N. Wolcott Ave Apt 3F, Chicago, IL | Jul 2022 – Jul 2023 | Roommates: Amy Choi, Lindsey Kim |
+| 6 James Dr., Hawthorn Woods, IL | Jul 2020 – Jul 2022 | |
+| 4200 Horizon N. Pkwy #1133, Carrollton, TX | Jul 2020 – Jul 2021 | Roommate: Tiffany Jeong |
+| 6 James Dr., Hawthorn Woods, IL | Jun 2018 – Jul 2020 | Roommate: Tiffany Jeong |
+| 133 N Overhill Dr., Bloomington, IN | 2017 – 2018 | Roommates: Maddy Skirvin, Sarah Olsen |
+| Tulip Tree Apts, 2451 E 10th St, Bloomington, IN | | Roommates: Stephanie, Ru |
+| Eigenmann #559, 1900 E. 10th St., Bloomington, IN | 2015 – 2016 | |
 
-## Basic Information
-- **Full Legal Name:** Allison Jison Sung
-- **Preferred Name/Nickname:** Allison
-- **Date of Birth:** 3/21/1997
-- **Place of Birth:** Lutheran General Hospital, Park Ridge, IL
-- **Citizenship:** USA
+**Social & Online Handles**
 
-### Name Variations
-| Name | Type | Used For | Notes |
-|------|------|----------|-------|
-| Allison Jison Sung | Legal Name | Official documents | |
-| Allison | Preferred Name | Daily use | |
+| Platform | Handle | Notes |
+|----------|--------|-------|
+| Discord | | To be filled |
 
-## Contact Information
+#### Vehicle
 
-### Phone Numbers
-| Number | Type | Primary Use | Notes |
-|--------|------|-------------|-------|
-| 847.431.0397 | Mobile | Primary contact | |
+| Make/Model | Year | VIN | Plate |
+|------------|------|-----|-------|
+| *(To be filled)* | | | |
 
-### Email Addresses
-| Email | Type | Used For | Notes |
-|-------|------|----------|-------|
-| allisonsung@outlook.com | Personal | |  |
-| allisonsung@gmail.com | Personal | |  |
+*See Vehicles book for full specs, maintenance, and service records.*
 
-### Physical Addresses
+#### Identification & Documents
 
-#### Current Address
-- **Street Address:** 3271 Coral Ln, Glenview, 60026
-- **Unit/Apt:** 
-- **City, State ZIP:** [Parsed from address]
-- **Country:** USA
-- **Residence Type:** [To be filled]
-- **Move-in Date:** 7/12/2025
-- **Roommate(s):** Jeneva
-
-#### Previous Addresses
-| Address | City, State | Dates     | Notes |
-|---------|-------------|-----------|-------|
-| 17 N. Bishop St Apt 3 | Chicago, IL 60607| 2023- July 2025 | Roommates: Amy Choi, Lindsey Kim |
-| 1215 N. Wolcott Ave Apt 3F | , Chicago, IL  60622| July 2022- July 2023  | Roommates: Amy Choi, Lindsey Kim |
-| 6 James Dr. | Hawthorn Woods, IL 60047 | July 2020- July 2022 | Roommates: Tiffany Jeong |
-| The Essence Apartments 4200 Horizon N. Pkwy #1133 |  Carrolton, TX 75287 | July 2020 - July2021 | Roommates: Tiffany Jeong |
-| 6 James Dr. | Hawthorn Woods, IL 60047 | June 2018- July 2020 | Roommates: Tiffany Jeong |
-| 133 N Overhill Dr| Bloomington, IN 47408 | 2017-2018 | Roommates: Maddy Skirvin Parents: Liz and Tat Skirvin Sarah Olsen |
-| Tulip Tree Apartment, 2451 E 10th St | Bloomington, IN 47408 |  | Roommates: Stephanie, Ru |
-| Eigenmann #559, 1900 E. 10th St. | Bloomington, IN 40406 | 2015-2016|  Roommates: |
-
-### Social Media & Online Presence
-| Platform | Username/Handle | URL | Privacy Setting |
-|----------|----------------|-----|-----------------|
-| [To be filled] | | | |
-
-## Official Identification
-
-### Social Security Number
+**Social Security Number**
 - **SSN:** 319-94-3927
-- **Physical Card Location:** [To be filled]
-- **Digital Copy Location:** [To be filled]
-- **When Last Verified:** [To be filled]
-
-### Driver's License / State ID
-- **License Number:** S520-0109-7683
-- **State:** Illinois
-- **Type/Class:** [To be filled]
-- **Issue Date:** [To be filled]
-- **Expiration Date:** [To be filled]
-- **Restrictions/Endorsements:** [To be filled]
-- **Organ Donor:** [To be filled]
-- **Physical Location:** [To be filled]
-- **Renewal Reminder Set:** [To be filled]
-
-### Passport
-- **Passport Number:** 576988561
-- **Type:** Regular
-- **Issuing Country:** USA
-- **Issue Date:** [To be filled]
-- **Expiration Date:** 6/8/2027
-- **Place of Issue:** [To be filled]
-- **Physical Location:** [To be filled]
-- **Digital Copy Location:** [To be filled]
-- **Renewal Reminder Set:** [To be filled]
-- **Passport Card:** [To be filled]
-
-### Other ID Documents
-- **Birth Certificate:** 
-  - Location: [To be filled]
-  - Type: [Original / Certified Copy]
-- **Marriage Certificate:** [To be filled]
-- **Professional Licenses:** [To be filled]
-
-## Key Dates
-| Date | Event | How to Celebrate/Remember |
-|------|-------|--------------------------|
-| 3/21/1997 | Birthday | [To be filled] |
-
----
-**Last Updated:** February 7, 2026 by [Name]
-
----
-
-### Allison Sung - Emergency Information
-
-# Allison Sung - Emergency Information
-
-⚠️ **CRITICAL INFORMATION - KEEP CURRENT** ⚠️
-
-## Primary Emergency Contacts (In Order)
-
-### Contact 1
-- **Name:** Dan Sung
-- **Relationship:** Parent
-- **Primary Phone:** [To be filled]
-- **Alternate Phone:** [To be filled]
-- **Email:** [To be filled]
-- **Address:** [To be filled]
-- **When to Contact:** Always first
-
-### Contact 2
-- **Name:** [To be filled]
-- **Relationship:** [To be filled]
-- **Primary Phone:** [To be filled]
-- **Alternate Phone:** [To be filled]
-
-## Medical Emergency Quick Reference
-
-### Critical Medical Info
-- **Blood Type:** [To be filled]
-- **Known Allergies:** 
-  - [To be filled]
-- **Current Medications:** 
-  - [See Medical & Health page]
-- **Medical Conditions:** 
-  - [See Medical & Health page]
-- **Medical Device:** [To be filled if applicable]
-
-### Healthcare Providers
-- **Primary Care Physician:** 
-  - Name: [To be filled]
-  - Phone: [To be filled]
-  - After Hours: [To be filled]
-- **Preferred Hospital:** 
-  - Name: [To be filled]
-  - Address: [To be filled]
-
-### Health Insurance
-- **Insurance Company:** [To be filled]
-- **Policy/Member ID:** [To be filled]
-- **Group Number:** [To be filled]
 - **Card Location:** [To be filled]
 
----
-**REVIEW THIS PAGE EVERY 3 MONTHS**
+**Driver's License / State ID**
+- **Number:** S520-0109-7683
+- **State:** Illinois
+- **Expires:** [To be filled]
+- **Physical Location:** [To be filled]
 
-**Last Updated:** February 7, 2026 by [Name]  
-**Next Review:** May 7, 2026
+**Passport**
+- **Number:** 576988561
+- **Expiration:** June 8, 2027
+- **Physical Location:** [To be filled]
 
----
+**Other**
+- **Birth Certificate:** [Location — to be filled]
 
-### Allison Sung - Medical & Health
+**Digital Scans:** 📎 Upload PDFs of DL, passport, SSN card as page attachments.
 
-# Allison Sung - Medical & Health
+#### ICE & Emergency
 
-## Health Insurance Coverage
+**Primary Contact:** Dan Sung (Parent) — 874-208-1833
 
-### Medical Insurance
-- **Insurance Company:** [To be filled]
-- **Policy/Member ID:** [To be filled]
+**Medical Quick-Reference:**
+| Item | Detail |
+|------|--------|
+| Blood Type | [To be filled] |
+| Allergies | [To be filled] |
+| Critical Medications | [To be filled] |
+| Primary Doctor | [To be filled] |
 
-### Dental Insurance
-- **Insurance Company:** [To be filled]
+#### Family Relationships
 
-### Vision Insurance  
-- **Insurance Company:** [To be filled]
-
-## Healthcare Providers
-
-### Primary Care Physician
-- **Name:** [To be filled]
-
-### Specialists
-| Specialty | Doctor Name | Practice | Phone | Condition Treated | Last Visit |
-|-----------|-------------|----------|-------|-------------------|------------|
-| [To be filled] | | | | | |
-
-### Pharmacy
-- **Primary Pharmacy:** [To be filled]
-
-## Current Medications
-| Medication | Dosage | Frequency | Prescribing Doctor | Purpose |
-|------------|--------|-----------|-------------------|---------|
-| [To be filled] | | | | |
-
----
-**Last Updated:** February 7, 2026 by [Name]
+| Name | Relationship |
+|------|--------------|
+| Dan Sung | Parent |
+| Mary Sung | Parent |
+| Noah Sung | Brother |
+| Jacob Sung | Brother |
 
 ---
 
-### Allison Sung - Financial Accounts
+### Medical & Health
 
-# Allison Sung - Financial Accounts
+#### Insurance
 
-⚠️ **CONFIDENTIAL - SECURE ACCESS ONLY** ⚠️
+| Type | Company | Policy ID | Notes |
+|------|---------|-----------|-------|
+| Medical | [To be filled] | | Likely through Allstate |
+| Dental | [To be filled] | | |
+| Vision | [To be filled] | | |
 
-## Banking
-[To be filled]
+#### Providers
 
-## Investment & Retirement Accounts
-[To be filled]
+| Type | Name | Practice | Phone |
+|------|------|----------|-------|
+| Primary Care | [To be filled] | | |
+| Dentist | [To be filled] | | |
+| Eye Doctor | [To be filled] | | |
+| Pharmacy | [To be filled] | | |
 
-## Credit Cards
-[To be filled]
+#### Conditions & Medications
 
-## Income Sources
-- **Employment:** Allstate
+**Active Conditions:** *(none recorded)*
 
----
-**HIGHLY CONFIDENTIAL**  
-**Last Updated:** February 7, 2026 by [Name]
+**Current Medications:** *(none recorded)*
 
----
+**Allergies:** *(none recorded)*
 
-### Allison Sung - Employment & Career
+#### Preventive Care
 
-# Allison Sung - Employment & Career
+| Screening | Last Done | Next Due |
+|-----------|-----------|----------|
+| Annual Physical | [To be filled] | |
+| Dental Cleaning | [To be filled] | |
+| Eye Exam | [To be filled] | |
 
-## Current Employment
-
-### Employer Information
-- **Company Name:** Allstate
-- **Start Date:** [To be filled]
-
-## Benefits & Perks
-[To be filled]
-
----
-**Last Updated:** February 7, 2026 by [Name]
-
----
-
-### Allison Sung - Education History
-
-# Allison Sung - Education History
-
-## Schools Attended
-
-### Indiana University
-- **Type:** University
-- **Dates Attended:** [To be filled]
-
-### Lake Zurich High School
-- **Type:** High School
-- **Dates Attended:** [To be filled]
-
-### Middle School North
-- **Type:** Middle School
-
-### May Whitney
-- **Type:** Elementary School
-
-
----
-**Last Updated:** February 7, 2026 by [Name]
+**Immunizations:**
+| Vaccine | Last Dose | Notes |
+|---------|-----------|-------|
+| Flu | [To be filled] | Annual |
+| Tetanus | [To be filled] | Every 10 yrs |
+| COVID-19 | [To be filled] | |
 
 ---
 
-### Allison Sung - Legal & Estate Planning
+### Life & History
 
-# Allison Sung - Legal & Estate Planning
+#### Birth
 
-⚠️ **CONFIDENTIAL - ESTATE PLANNING INFORMATION** ⚠️
+- **Date:** March 21, 1997
+- **Place:** Park Ridge, IL
+- **Hospital:** Lutheran General Hospital
+- **Parents:** Dan Sung (father), Mary Sung (mother)
 
-## Legal Documents
-[To be filled]
+#### Education
 
-## End-of-Life Wishes
-[To be filled]
+| School | Location | Years | Notes |
+|--------|----------|-------|-------|
+| May Whitney Elementary | | | |
+| Middle School North | | | |
+| Lake Zurich High School | Lake Zurich, IL | | |
+| Indiana University | Bloomington, IN | | |
+
+#### Employment
+
+| Company | Title | Dates |
+|---------|-------|-------|
+| Allstate | | Present |
+
+#### Residence Timeline
+
+| Address | City | Dates | Notes |
+|---------|------|-------|-------|
+| Eigenmann #559, 1900 E 10th St | Bloomington, IN | 2015 – 2016 | |
+| Tulip Tree Apts, 2451 E 10th St | Bloomington, IN | | Roommates: Stephanie, Ru |
+| 133 N Overhill Dr. | Bloomington, IN | 2017 – 2018 | Roommates: Maddy, Sarah |
+| 6 James Dr. | Hawthorn Woods, IL | Jun 2018 – Jul 2020 | Tiffany Jeong |
+| The Essence #1133, 4200 Horizon N Pkwy | Carrollton, TX | Jul 2020 – Jul 2021 | Tiffany Jeong |
+| 6 James Dr. | Hawthorn Woods, IL | Jul 2020 – Jul 2022 | |
+| 1215 N Wolcott Ave Apt 3F | Chicago, IL | Jul 2022 – Jul 2023 | Amy Choi, Lindsey Kim |
+| 17 N Bishop St Apt 3 | Chicago, IL | 2023 – Jul 2025 | Amy Choi, Lindsey Kim |
+| 3271 Coral Ln | Glenview, IL | Jul 2025 – present | Jeneva |
+
+#### Life Timeline
+
+| Date | Event | Details |
+|------|-------|---------|
+| Mar 21, 1997 | Born | Lutheran General Hospital, Park Ridge, IL |
+| | Graduated high school | Lake Zurich High School |
+| | Graduated college | Indiana University |
+
+#### Personal & Preferences
+
+**Favorites *(to be filled)*:** colors, foods, music, hobbies
+
+**Important Dates:**
+- **Birthday:** March 21
 
 ---
-**Last Updated:** February 7, 2026 by [Name]
 
----
-
-### Allison Sung - Digital Life & Accounts
-
-# Allison Sung - Digital Life & Accounts
-
-## Email Accounts
-- **allisonsung@outlook.com** (Personal): 
-- **allisonsung@gmail.com** (Personal): 
-
-## Password Manager
-[To be filled]
-
-## Cloud Storage
-[To be filled]
-
----
-**Last Updated:** February 7, 2026 by [Name]
-
----
-
-### Allison Sung - Personal & Preferences
-
-# Allison Sung - Personal & Preferences
-
-## Personal Details
-[To be filled]
-
-## Favorites
-[To be filled]
-
-## Important Dates
-- **Birthday:** 3/21/1997
-
----
-**Last Updated:** February 7, 2026 by [Name]
-
----
+*Updated: May 21, 2026*

@@ -1,397 +1,208 @@
 # Noah Sung
-> Exported from BookStack on 2026-05-14
 > Slug: noah-sung
 
 ---
 
 ## Contents
 
-- Noah Sung - Overview
-- Noah Sung - Contact & Identity
-- Noah Sung - Emergency Information
-- Noah Sung - Medical & Health
-- Noah Sung - Financial Accounts
-- Noah Sung - Employment & Career
-- Noah Sung - Education History
-- Noah Sung - Legal & Estate Planning
-- Noah Sung - Digital Life & Accounts
-- Noah Sung - Personal & Preferences
+- Profile & Contact
+- Medical & Health
+- Life & History
 
 ---
 
-### Noah Sung - Overview
+### Profile & Contact
 
-# Noah Sung - Overview
+#### At a Glance
+- **📞** 847-207-0038
+- **✉️** noahsung99@outlook.com
+- **🏠** 180 Telford St, Unit 609, Brighton, MA 02135
+- **🎂** February 10, 1999
+- **🆔** SSN: 324-96-9936 • DL: 324-96-9936
 
-## At a Glance
-- **Full Name:** Noah Changwon Sung
-- **Preferred Name:** Noah
-- **Date of Birth:** 2/10/1999
-- **Current Age:** 27
-- **Primary Contact:** 847.207.0038
-- **Email:** noahsung99@outlook.com
-- **Current Address:** 180 Telford St, Unit 609, Brighton MA 02135
+#### Names
 
-## Quick Links (Internal Pages)
-- [Emergency Information](#) - **START HERE in emergencies**
-- [Medical & Health](#)
-- [Contact & Identity](#)
-- [Financial Accounts](#)
-- [Legal & Estate](#)
-- [Employment & Career](#)
-- [Digital Life & Accounts](#)
-- [Personal & Preferences](#)
+| Type | Name |
+|------|------|
+| **Common Name** | Noah Sung |
+| **Legal Name** | Noah Changwon Sung |
+| **Preferred Name** | Noah |
 
-## Current Status
-- **Living Situation:** [To be filled]
-- **Employment Status:** Employed
-- **Current Employer:** Mathworks
-- **Health Status:** [To be filled]
-- **Primary Emergency Contact:** Dan Sung
+#### Contact
 
-## Important Quick Facts
-- **Blood Type:** [To be filled]
-- **Allergies:** [To be filled]
-- **Critical Medications:** [To be filled]
-- **Primary Doctor:** [To be filled]
+**Phone Numbers**
 
-## Family Relationships
-| Name | Relationship | Contact |
-|------|--------------|---------|
-| Dan Sung | Parent | [Link] |
-| Mary Sung | Parent | [Link] |
-| Allison | Sibling | [Link] |
-| Jacob | Sibling | [Link] |
+| Number | Type | Notes |
+|--------|------|-------|
+| 847-207-0038 | Mobile | Primary |
 
-## Last Updated
-- **Date:** February 7, 2026
-- **By:** [Name]
-- **Next Review:** February 2027
+**Email Addresses**
 
----
-**Photo:**  
-![Noah's Photo](http://192.168.88.51:6875/uploads/images/gallery/2026-02/scaled-1680-/Zq3image.png)
-![Noah's Photo](http://192.168.88.51:6875/uploads/images/gallery/2026-02/scaled-1680-/vi3image.png)
+| Email | Type | Notes |
+|-------|------|-------|
+| noahsung99@outlook.com | Personal | Primary |
+| noahsung99@gmail.com | Personal | |
 
----
+**Physical Addresses**
 
-### Noah Sung - Contact & Identity
+**Current:** 180 Telford St, Unit 609, Brighton, MA 02135
 
-# Noah Sung - Contact & Identity
+**Previous:**
+| Address | Dates | Notes |
+|---------|-------|-------|
+| 70 Regent Cir., Brookline, MA 02445 | May 2020 – Jun 2025 | Roommates: Andy, Ajay, Vikram |
 
-## Basic Information
-- **Full Legal Name:** Noah Changwon Sung
-- **Preferred Name/Nickname:** Noah
-- **Date of Birth:** 2/10/1999
-- **Place of Birth:** Lutheran General Hospital, Park Ridge, IL
-- **Current Age:** 27
-- **Citizenship:** USA
+**Social & Online Handles**
 
-### Name Variations
-| Name | Type | Used For | Notes |
-|------|------|----------|-------|
-| Noah Changwon Sung | Legal Name | Official documents | |
-| Noah | Preferred Name | Daily use | |
+| Platform | Handle | Notes |
+|----------|--------|-------|
+| Discord | meh996200 | |
 
-## Contact Information
+#### Vehicle
 
-### Phone Numbers
-| Number | Type | Primary Use | Notes |
-|--------|------|-------------|-------|
-| 847.207.0038 | Mobile | Primary contact | |
+| Make/Model | Year | VIN | Plate |
+|------------|------|-----|-------|
+| *(To be filled)* | | | |
 
-### Email Addresses
-| Email | Type | Used For | Notes |
-|-------|------|----------|-------|
-| noahsung99@outlook.com | Personal | |  |
-| noahsung99@gmail.com | Personal | |  |
+*See Vehicles book for full specs, maintenance, and service records.*
 
-### Physical Addresses
+#### Identification & Documents
 
-#### Current Address
-- **Street Address:** 180 Telford St, Unit 609, Brighton MA 02135
-- **Unit/Apt:** 
-- **City, State ZIP:** [Parsed from address]
-- **Country:** USA
-- **Residence Type:** [To be filled]
-- **Move-in Date:** [To be filled]
-- **Roommate(s):** [To be filled]
-
-#### Previous Addresses
-| Address | City, State | Dates | Notes |
-|---------|-------------|-------|-------|
-| 70 Regent Cir., Brookline, MA 02445 | | 5/2020 - 6/2025 | Roommates: Andy, Ajay, Vikram |
-
-### Social Media & Online Presence
-| Platform | Username/Handle | URL | Privacy Setting |
-|----------|----------------|-----|-----------------|
-| [To be filled] | | | |
-
-## Official Identification
-
-### Social Security Number
+**Social Security Number**
 - **SSN:** 324-96-9936
-- **Physical Card Location:** [To be filled]
-- **Digital Copy Location:** [To be filled]
-- **When Last Verified:** [To be filled]
-
-### Driver's License / State ID
-- **License Number:** 324-96-9936
-- **State:** Illinois
-- **Type/Class:** [To be filled]
-- **Issue Date:** [To be filled]
-- **Expiration Date:** [To be filled]
-- **Restrictions/Endorsements:** [To be filled]
-- **Organ Donor:** [To be filled]
-- **Physical Location:** [To be filled]
-- **Renewal Reminder Set:** [To be filled]
-
-### Passport
-- **Passport Number:** 575446065
-- **Type:** Regular
-- **Issuing Country:** USA
-- **Issue Date:** [To be filled]
-- **Expiration Date:** 6/4/2027
-- **Place of Issue:** [To be filled]
-- **Physical Location:** [To be filled]
-- **Digital Copy Location:** [To be filled]
-- **Renewal Reminder Set:** [To be filled]
-- **Passport Card:** [To be filled]
-
-### Other ID Documents
-- **Birth Certificate:** 
-  - Location: [To be filled]
-  - Type: [Original / Certified Copy]
-- **Marriage Certificate:** [To be filled]
-- **Professional Licenses:** [To be filled]
-
-## Key Dates
-| Date | Event | How to Celebrate/Remember |
-|------|-------|--------------------------|
-| 2/10/1999 | Birthday | [To be filled] |
-
----
-**Last Updated:** February 7, 2026 by [Name]
-
----
-
-### Noah Sung - Emergency Information
-
-# Noah Sung - Emergency Information
-
-⚠️ **CRITICAL INFORMATION - KEEP CURRENT** ⚠️
-
-## Primary Emergency Contacts (In Order)
-
-### Contact 1
-- **Name:** Dan Sung
-- **Relationship:** Parent
-- **Primary Phone:** [To be filled]
-- **Alternate Phone:** [To be filled]
-- **Email:** [To be filled]
-- **Address:** [To be filled]
-- **When to Contact:** Always first
-
-### Contact 2
-- **Name:** [To be filled]
-- **Relationship:** [To be filled]
-- **Primary Phone:** [To be filled]
-- **Alternate Phone:** [To be filled]
-
-## Medical Emergency Quick Reference
-
-### Critical Medical Info
-- **Blood Type:** [To be filled]
-- **Known Allergies:** 
-  - [To be filled]
-- **Current Medications:** 
-  - [See Medical & Health page]
-- **Medical Conditions:** 
-  - [See Medical & Health page]
-- **Medical Device:** [To be filled if applicable]
-
-### Healthcare Providers
-- **Primary Care Physician:** 
-  - Name: [To be filled]
-  - Phone: [To be filled]
-  - After Hours: [To be filled]
-- **Preferred Hospital:** 
-  - Name: [To be filled]
-  - Address: [To be filled]
-
-### Health Insurance
-- **Insurance Company:** [To be filled]
-- **Policy/Member ID:** [To be filled]
-- **Group Number:** [To be filled]
 - **Card Location:** [To be filled]
 
----
-**REVIEW THIS PAGE EVERY 3 MONTHS**
+**Driver's License / State ID**
+- **Number:** 324-96-9936
+- **State:** Illinois
+- **Expires:** [To be filled]
+- **Physical Location:** [To be filled]
 
-**Last Updated:** February 7, 2026 by [Name]  
-**Next Review:** May 7, 2026
+**Passport**
+- **Number:** 575446065
+- **Expiration:** June 4, 2027
+- **Physical Location:** [To be filled]
 
----
+**Other**
+- **Birth Certificate:** [Location — to be filled]
 
-### Noah Sung - Medical & Health
+**Digital Scans:** 📎 Upload PDFs of DL, passport, SSN card as page attachments.
 
-# Noah Sung - Medical & Health
+#### ICE & Emergency
 
-## Health Insurance Coverage
+**Primary Contact:** Dan Sung (Parent) — 874-208-1833
 
-### Medical Insurance
-- **Insurance Company:** [To be filled]
-- **Policy/Member ID:** [To be filled]
+**Medical Quick-Reference:**
+| Item | Detail |
+|------|--------|
+| Blood Type | [To be filled] |
+| Allergies | [To be filled] |
+| Critical Medications | [To be filled] |
+| Primary Doctor | [To be filled] |
 
-### Dental Insurance
-- **Insurance Company:** [To be filled]
+#### Family Relationships
 
-### Vision Insurance  
-- **Insurance Company:** [To be filled]
-
-## Healthcare Providers
-
-### Primary Care Physician
-- **Name:** [To be filled]
-
-### Specialists
-| Specialty | Doctor Name | Practice | Phone | Condition Treated | Last Visit |
-|-----------|-------------|----------|-------|-------------------|------------|
-| [To be filled] | | | | | |
-
-### Pharmacy
-- **Primary Pharmacy:** [To be filled]
-
-## Current Medications
-| Medication | Dosage | Frequency | Prescribing Doctor | Purpose |
-|------------|--------|-----------|-------------------|---------|
-| [To be filled] | | | | |
-
----
-**Last Updated:** February 7, 2026 by [Name]
+| Name | Relationship |
+|------|--------------|
+| Dan Sung | Parent |
+| Mary Sung | Parent |
+| Allison Sung | Sister |
+| Jacob Sung | Brother |
 
 ---
 
-### Noah Sung - Financial Accounts
+### Medical & Health
 
-# Noah Sung - Financial Accounts
+#### Insurance
 
-⚠️ **CONFIDENTIAL - SECURE ACCESS ONLY** ⚠️
+| Type | Company | Policy ID | Notes |
+|------|---------|-----------|-------|
+| Medical | [To be filled] | | Likely through Mathworks |
+| Dental | [To be filled] | | |
+| Vision | [To be filled] | | |
 
-## Banking
-[To be filled]
+#### Providers
 
-## Investment & Retirement Accounts
-[To be filled]
+| Type | Name | Practice | Phone |
+|------|------|----------|-------|
+| Primary Care | [To be filled] | | |
+| Dentist | [To be filled] | | |
+| Eye Doctor | [To be filled] | | |
+| Pharmacy | [To be filled] | | |
 
-## Credit Cards
-[To be filled]
+#### Conditions & Medications
 
-## Income Sources
-- **Employment:** Mathworks
+**Active Conditions:** *(none recorded)*
 
----
-**HIGHLY CONFIDENTIAL**  
-**Last Updated:** February 7, 2026 by [Name]
+**Current Medications:** *(none recorded)*
 
----
+**Allergies:** *(none recorded)*
 
-### Noah Sung - Employment & Career
+#### Preventive Care
 
-# Noah Sung - Employment & Career
+| Screening | Last Done | Next Due |
+|-----------|-----------|----------|
+| Annual Physical | [To be filled] | |
+| Dental Cleaning | [To be filled] | |
+| Eye Exam | [To be filled] | |
 
-## Current Employment
-
-### Employer Information
-- **Company Name:** Mathworks
-- **Start Date:** 6/2021
-- **Office Address:** 1 Lakeside Campus Drive, Natick, MA 01760
-- **Previous Internship:** 2020
-
-## Benefits & Perks
-[To be filled]
-
----
-**Last Updated:** February 7, 2026 by [Name]
-
----
-
-### Noah Sung - Education History
-
-# Noah Sung - Education History
-
-## Schools Attended
-
-### University of Illinois
-- **Type:** University
-- **Dates Attended:** [To be filled]
-
-### Lake Zurich High School
-- **Type:** High School
-- **Dates Attended:** [To be filled]
-
-### Middle School North
-- **Type:** Middle School
-
-### May Whitney
-- **Type:** Elementary School
-
-
----
-**Last Updated:** February 7, 2026 by [Name]
+**Immunizations:**
+| Vaccine | Last Dose | Notes |
+|---------|-----------|-------|
+| Flu | [To be filled] | Annual |
+| Tetanus | [To be filled] | Every 10 yrs |
+| COVID-19 | [To be filled] | |
 
 ---
 
-### Noah Sung - Legal & Estate Planning
+### Life & History
 
-# Noah Sung - Legal & Estate Planning
+#### Birth
 
-⚠️ **CONFIDENTIAL - ESTATE PLANNING INFORMATION** ⚠️
+- **Date:** February 10, 1999
+- **Place:** Park Ridge, IL
+- **Hospital:** Lutheran General Hospital
+- **Parents:** Dan Sung (father), Mary Sung (mother)
 
-## Legal Documents
-[To be filled]
+#### Education
 
-## End-of-Life Wishes
-[To be filled]
+| School | Location | Years | Notes |
+|--------|----------|-------|-------|
+| May Whitney Elementary | | | |
+| Middle School North | | | |
+| Lake Zurich High School | Lake Zurich, IL | | |
+| University of Illinois | Urbana-Champaign, IL | | |
 
----
-**Last Updated:** February 7, 2026 by [Name]
+#### Employment
 
----
+| Company | Title | Dates |
+|---------|-------|-------|
+| Mathworks (internship) | | 2020 |
+| Mathworks | | Jun 2021 – present |
+| *Location:* | | 1 Lakeside Campus Dr, Natick, MA 01760 |
 
-### Noah Sung - Digital Life & Accounts
+#### Residence Timeline
 
-# Noah Sung - Digital Life & Accounts
+| Address | City | Dates | Notes |
+|---------|------|-------|-------|
+| 70 Regent Cir. | Brookline, MA | May 2020 – Jun 2025 | Roommates: Andy, Ajay, Vikram |
+| 180 Telford St, Unit 609 | Brighton, MA | present | |
 
-## Email Accounts
-- **noahsung99@outlook.com** (Personal): 
-- **noahsung99@gmail.com** (Personal): 
+#### Life Timeline
 
-## Password Manager
-[To be filled]
+| Date | Event | Details |
+|------|-------|---------|
+| Feb 10, 1999 | Born | Lutheran General Hospital, Park Ridge, IL |
+| | Graduated high school | Lake Zurich High School |
+| | Graduated college | University of Illinois |
 
-## Cloud Storage
-[To be filled]
+#### Personal & Preferences
 
----
-**Last Updated:** February 7, 2026 by [Name]
+**Favorites *(to be filled)*:** colors, foods, music, hobbies
 
----
-
-### Noah Sung - Personal & Preferences
-
-# Noah Sung - Personal & Preferences
-
-## Personal Details
-[To be filled]
-
-## Favorites
-[To be filled]
-
-## Important Dates
-- **Birthday:** 2/10/1999
-
----
-**Last Updated:** February 7, 2026 by [Name]
+**Important Dates:**
+- **Birthday:** February 10
 
 ---
+
+*Updated: May 21, 2026*

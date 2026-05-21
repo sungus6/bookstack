@@ -10,6 +10,9 @@
 - Internet Overview
 - Router Configuration
 - Domain
+- Account
+- Modem
+- Xfinity Old Accounts
 - Cloudflare
 **Security**
 - Firewall Design
@@ -30,7 +33,39 @@ This document describes the internet connectivity architecture for the Arda home
 | -------- | ----- |
 | Xfinity  | Cable |
 
+---
+
+### Router Configuration
+
+# Router Configuration
+
+The MikroTik router manages routing and firewall policies.
+
+## Responsibilities
+
+* VLAN routing
+* Firewall filtering
+* Network segmentation
+* Internet gateway
+
+## Internal Networks
+
+| Network        | Subnet          |
+| -------------- | --------------- |
+| LAN            | 192.168.10.0/24 |
+| IoT            | 192.168.20.0/24 |
+| Infrastructure | 192.168.99.0/24 |
+
+---
+
+### Domain
+
+_No markdown content. This page was edited in WYSIWYG mode._
+
+---
+
 ### Account
+
 Account number: 8771 1010 0033 0130
 Account Holder: Dan Sung
 Address: 6 James Dr, Hawthorn woods, IL 60047
@@ -40,7 +75,10 @@ User ID: See Keepass
 
 PWD: See Keepass
 
+---
+
 ### Modem
+
 Activation
 
 5/30/2025 
@@ -48,7 +86,11 @@ Admin account
 ID: admin
 Password: See keepass
 Bridge Mode: enabled
+
+---
+
 ### Xfinity Old Accounts
+
 Account number: 8771 1005 1038 7234?
 Round Lake account. Should be inactiveX. Still linked to 0130 account.
 
@@ -81,35 +123,6 @@ Key responsibilities:
 * WAN connectivity
 * NAT translation
 * Connection to internal router
-
----
-
-### Router Configuration
-
-# Router Configuration
-
-The MikroTik router manages routing and firewall policies.
-
-## Responsibilities
-
-* VLAN routing
-* Firewall filtering
-* Network segmentation
-* Internet gateway
-
-## Internal Networks
-
-| Network        | Subnet          |
-| -------------- | --------------- |
-| LAN            | 192.168.10.0/24 |
-| IoT            | 192.168.20.0/24 |
-| Infrastructure | 192.168.99.0/24 |
-
----
-
-### Domain
-
-_No markdown content. This page was edited in WYSIWYG mode._
 
 ---
 

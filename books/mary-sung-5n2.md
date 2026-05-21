@@ -1,369 +1,208 @@
 # Mary Sung
-> Exported from BookStack on 2026-05-14
 > Slug: mary-sung-5n2
 
 ---
 
 ## Contents
 
-- Overview
-- Contact & Identity
-- Emergency Information
+- Profile & Contact
 - Medical & Health
-- Financial Accounts
-- Employment & Career
-- Education History
-- Legal & Estate Planning
-- Digital Life & Accounts
-- Personal & Preferences
+- Life & History
 
 ---
 
-### Overview
+### Profile & Contact
 
-## At a Glance
-- **Full Name:** Mary Sugyeong Sung
-- **Preferred Name:** Mary
-- **Date of Birth:** 3/16/1968
-- **Current Age:** 57
-- **Primary Contact:** 847.208.1834
-- **Email:** mary.sung@outlook.com
-- **Current Address:** 6 James Dr., Hawthorn Woods, IL 60047
+#### At a Glance
+- **📞** 847-208-1834
+- **✉️** mary.sung@outlook.com
+- **🏠** 6 James Dr., Hawthorn Woods, IL 60047
+- **🎂** March 16, 1968
+- **🆔** SSN: 241-13-1053 • DL: S520-5976-8678
 
-## Quick Links (Internal Pages)
-- [Emergency Information](#) - **START HERE in emergencies**
-- [Medical & Health](#)
-- [Contact & Identity](#)
-- [Financial Accounts](#)
-- [Legal & Estate](#)
-- [Employment & Career](#)
-- [Digital Life & Accounts](#)
-- [Personal & Preferences](#)
+#### Names
 
-## Current Status
-- **Living Situation:** [To be filled]
-- **Employment Status:** [To be filled]
-- **Current Employer:** [To be filled]
-- **Health Status:** [To be filled]
-- **Primary Emergency Contact:** Dan Sung
+| Type | Name |
+|------|------|
+| **Common Name** | Mary Sung |
+| **Legal Name** | Mary Sugyeong Sung |
+| **Birth Name** | Mary Sugyeong Song (maiden) |
+| **Preferred Name** | Mary |
 
-## Important Quick Facts
-- **Blood Type:** [To be filled]
-- **Allergies:** [To be filled]
-- **Critical Medications:** [To be filled]
-- **Primary Doctor:** [To be filled]
+#### Contact
 
-## Family Relationships
-| Name | Relationship | Contact |
-|------|--------------|---------|
-| Dan Sung | Spouse | [Link] |
-| Allison | Child | [Link] |
-| Noah | Child | [Link] |
-| Jacob | Child | [Link] |
-| Jung Hyun Song | Father | [Link] |
-| Sun Nam Shin | Mother | [Link] |
+**Phone Numbers**
 
-## Last Updated
-- **Date:** February 7, 2026
-- **By:** [Name]
-- **Next Review:** February 2027
+| Number | Type | Notes |
+|--------|------|-------|
+| 847-208-1834 | Mobile | Primary |
+| 847-540-9962 | Home | |
 
----
-**Photo:**  
-![Mary's Photo](http://192.168.88.51:6875/uploads/images/gallery/2026-02/scaled-1680-/J7Pimage.png)
-![Mary's Photo](http://192.168.88.51:6875/uploads/images/gallery/2026-02/scaled-1680-/Rnsimage.png)
+**Email Addresses**
 
----
+| Email | Type | Notes |
+|-------|------|-------|
+| mary.sung@outlook.com | Personal | Primary |
+| allynomajac@gmail.com | Personal | Work use |
+| allynoma@msn.com | Personal | Old, used for online accounts |
 
-### Contact & Identity
+**Physical Addresses**
 
-## Basic Information
-- **Full Legal Name:** Mary Sugyeong Sung
-- **Preferred Name/Nickname:** Mary
-- **Date of Birth:** 3/16/1968
-- **Place of Birth:** [Location information]
-- **Current Age:** 57
-- **Citizenship:** USA
+**Current:** 6 James Dr., Hawthorn Woods, IL 60047
 
-### Name Variations
-| Name | Type | Used For | Notes |
-|------|------|----------|-------|
-| Mary Sugyeong Sung | Legal Name | Official documents | |
-| Mary Sugyeong Song | Birth Name | | Maiden name
-| Mary | Preferred Name | Daily use | |
+**Previous:** None recorded.
 
-## Contact Information
+**Social & Online Handles**
 
-### Phone Numbers
-| Number | Type | Primary Use | Notes |
-|--------|------|-------------|-------|
-| 847.208.1834 | Mobile | Primary contact | |
-| 847.540.9962 | Home | | |
+| Platform | Handle | Notes |
+|----------|--------|-------|
+| Discord | | To be filled |
 
-### Email Addresses
-| Email | Type | Used For | Notes |
-|-------|------|----------|-------|
-| mary.sung@outlook.com | Personal | | Main personal email |
-| allynomajac@gmail.com | Personal | | Mostly for work use |
-| allynoma@msn.com | Personal | | Old personal email. Too many spams, but still used for online purpose |
+#### Vehicle
 
-### Physical Addresses
+| Make/Model | Year | VIN | Plate |
+|------------|------|-----|-------|
+| *(To be filled)* | | | |
 
-#### Current Address
-- **Street Address:** 6 James Dr., Hawthorn Woods, IL 60047
-- **Unit/Apt:** 
-- **City, State ZIP:** [Parsed from address]
-- **Country:** USA
-- **Residence Type:** [To be filled]
-- **Move-in Date:** [To be filled]
-- **Roommate(s):** [To be filled]
+*See Vehicles book for full specs, maintenance, and service records.*
 
-#### Previous Addresses
-| Address | City, State | Dates | Notes |
-|---------|-------------|-------|-------|
+#### Identification & Documents
 
-### Social Media & Online Presence
-| Platform | Username/Handle | URL | Privacy Setting |
-|----------|----------------|-----|-----------------|
-| [To be filled] | | | |
-
-## Official Identification
-
-### Social Security Number
+**Social Security Number**
 - **SSN:** 241-13-1053
-- **Physical Card Location:** [To be filled]
-- **Digital Copy Location:** [To be filled]
-- **When Last Verified:** [To be filled]
-
-### Driver's License / State ID
-- **License Number:** S520-5976-8678
-- **State:** Illinois
-- **Type/Class:** [To be filled]
-- **Issue Date:** [To be filled]
-- **Expiration Date:** [To be filled]
-- **Restrictions/Endorsements:** [To be filled]
-- **Organ Donor:** [To be filled]
-- **Physical Location:** [To be filled]
-- **Renewal Reminder Set:** [To be filled]
-
-### Passport
-- **Passport Number:** 469184848
-- **Type:** Regular
-- **Issuing Country:** USA
-- **Issue Date:** [To be filled]
-- **Expiration Date:** [To be filled]
-- **Place of Issue:** [To be filled]
-- **Physical Location:** [To be filled]
-- **Digital Copy Location:** [To be filled]
-- **Renewal Reminder Set:** [To be filled]
-- **Passport Card:** [To be filled]
-
-### Other ID Documents
-- **Birth Certificate:** 
-  - Location: [To be filled]
-  - Type: [Original / Certified Copy]
-- **Marriage Certificate:** [To be filled]
-- **Professional Licenses:** [To be filled]
-- **State Tax ID (IL-PIN):** 18442087 (Illinois Individual Income Tax PIN)
-
-## Key Dates
-| Date | Event | How to Celebrate/Remember |
-|------|-------|--------------------------|
-| 3/16/1968 | Birthday | [To be filled] |
-| 3/19/1994 | Anniversary | [To be filled] |
-
----
-**Last Updated:** February 7, 2026 by [Name]
-
----
-
-### Emergency Information
-
-⚠️ **CRITICAL INFORMATION - KEEP CURRENT** ⚠️
-
-## Primary Emergency Contacts (In Order)
-
-### Contact 1
-- **Name:** Dan Sung
-- **Relationship:** Spouse
-- **Primary Phone:** [To be filled]
-- **Alternate Phone:** [To be filled]
-- **Email:** [To be filled]
-- **Address:** [To be filled]
-- **When to Contact:** Always first
-
-### Contact 2
-- **Name:** [To be filled]
-- **Relationship:** [To be filled]
-- **Primary Phone:** [To be filled]
-- **Alternate Phone:** [To be filled]
-
-## Medical Emergency Quick Reference
-
-### Critical Medical Info
-- **Blood Type:** [To be filled]
-- **Known Allergies:** 
-  - [To be filled]
-- **Current Medications:** 
-  - [See Medical & Health page]
-- **Medical Conditions:** 
-  - [See Medical & Health page]
-- **Medical Device:** [To be filled if applicable]
-
-### Healthcare Providers
-- **Primary Care Physician:** 
-  - Name: [To be filled]
-  - Phone: [To be filled]
-  - After Hours: [To be filled]
-- **Preferred Hospital:** 
-  - Name: [To be filled]
-  - Address: [To be filled]
-
-### Health Insurance
-- **Insurance Company:** [To be filled]
-- **Policy/Member ID:** [To be filled]
-- **Group Number:** [To be filled]
 - **Card Location:** [To be filled]
 
----
-**REVIEW THIS PAGE EVERY 3 MONTHS**
+**Driver's License / State ID**
+- **Number:** S520-5976-8678
+- **State:** Illinois
+- **Expires:** [To be filled]
+- **Physical Location:** [To be filled]
 
-**Last Updated:** February 7, 2026 by [Name]  
-**Next Review:** May 7, 2026
+**Passport**
+- **Number:** 469184848
+- **Expiration:** [To be filled]
+- **Physical Location:** [To be filled]
+
+**Other**
+- **Birth Certificate:** [Location — to be filled]
+- **IL Tax PIN:** 18442087
+
+**Digital Scans:** 📎 Upload PDFs of DL, passport, SSN card as page attachments.
+
+#### ICE & Emergency
+
+**Primary Contact:** Dan Sung (Spouse) — 874-208-1833
+
+**Medical Quick-Reference:**
+| Item | Detail |
+|------|--------|
+| Blood Type | [To be filled] |
+| Allergies | [To be filled] |
+| Critical Medications | [To be filled] |
+| Primary Doctor | [To be filled] |
+
+#### Family Relationships
+
+| Name | Relationship |
+|------|--------------|
+| Dan Sung | Spouse |
+| Allison Sung | Daughter |
+| Noah Sung | Son |
+| Jacob Sung | Son |
+| Jung Hyun Song | Father |
+| Sun Nam Shin | Mother |
 
 ---
 
 ### Medical & Health
 
-## Health Insurance Coverage
+#### Insurance
 
-### Medical Insurance
-- **Insurance Company:** [To be filled]
-- **Policy/Member ID:** [To be filled]
+| Type | Company | Policy ID | Notes |
+|------|---------|-----------|-------|
+| Medical | [To be filled] | | |
+| Dental | [To be filled] | | |
+| Vision | [To be filled] | | |
 
-### Dental Insurance
-- **Insurance Company:** [To be filled]
+#### Providers
 
-### Vision Insurance  
-- **Insurance Company:** [To be filled]
+| Type | Name | Practice | Phone |
+|------|------|----------|-------|
+| Primary Care | [To be filled] | | |
+| Dentist | [To be filled] | | |
+| Eye Doctor | [To be filled] | | |
+| Pharmacy | [To be filled] | | |
 
-## Healthcare Providers
+#### Conditions & Medications
 
-### Primary Care Physician
-- **Name:** [To be filled]
+**Active Conditions:** *(none recorded)*
 
-### Specialists
-| Specialty | Doctor Name | Practice | Phone | Condition Treated | Last Visit |
-|-----------|-------------|----------|-------|-------------------|------------|
-| [To be filled] | | | | | |
+**Current Medications:** *(none recorded)*
 
-### Pharmacy
-- **Primary Pharmacy:** [To be filled]
+**Allergies:** *(none recorded)*
 
-## Current Medications
-| Medication | Dosage | Frequency | Prescribing Doctor | Purpose |
-|------------|--------|-----------|-------------------|---------|
-| [To be filled] | | | | |
+#### Preventive Care
 
----
-**Last Updated:** February 7, 2026 by [Name]
+| Screening | Last Done | Next Due |
+|-----------|-----------|----------|
+| Annual Physical | [To be filled] | |
+| Mammogram | [To be filled] | |
+| Dental Cleaning | [To be filled] | |
+| Eye Exam | [To be filled] | |
 
----
-
-### Financial Accounts
-
-⚠️ **CONFIDENTIAL - SECURE ACCESS ONLY** ⚠️
-
-## Banking
-[To be filled]
-
-## Investment & Retirement Accounts
-[To be filled]
-
-## Credit Cards
-[To be filled]
-
-## Income Sources
-- **Employment:** [To be filled]
-
----
-**HIGHLY CONFIDENTIAL**  
-**Last Updated:** February 7, 2026 by [Name]
+**Immunizations:**
+| Vaccine | Last Dose | Notes |
+|---------|-----------|-------|
+| Flu | [To be filled] | Annual |
+| Tetanus | [To be filled] | Every 10 yrs |
+| COVID-19 | [To be filled] | |
 
 ---
 
-### Employment & Career
+### Life & History
 
-## Current Employment
+#### Birth
 
-### Employer Information
-- **Company Name:** [To be filled]
-- **Start Date:** [To be filled]
+- **Date:** March 16, 1968
+- **Place:** [To be filled]
+- **Hospital:** [To be filled]
+- **Parents:** Jung Hyun Song (father), Sun Nam Shin (mother)
 
-## Benefits & Perks
-[To be filled]
+#### Cultural Background
 
----
-**Last Updated:** February 7, 2026 by [Name]
+- **Heritage:** Korean
+- **Maiden Name:** Song
 
----
+#### Education
 
-### Education History
+| School | Location | Years | Notes |
+|--------|----------|-------|-------|
+| [To be filled] | | | |
 
-## Schools Attended
+#### Employment
 
+| Company | Title | Dates |
+|---------|-------|-------|
+| [To be filled] | | |
 
----
-**Last Updated:** February 7, 2026 by [Name]
+#### Life Timeline
 
----
+| Date | Event | Details |
+|------|-------|---------|
+| Mar 16, 1968 | Born | |
+| | Married Dan Sung | |
+| Mar 21, 1997 | Allison born | |
+| Feb 10, 1999 | Noah born | |
+| Oct 16, 2000 | Jacob born | |
 
-### Legal & Estate Planning
+#### Personal & Preferences
 
-⚠️ **CONFIDENTIAL - ESTATE PLANNING INFORMATION** ⚠️
+**Favorites *(to be filled)*:** colors, foods, restaurants, music, hobbies
 
-## Legal Documents
-[To be filled]
-
-## End-of-Life Wishes
-[To be filled]
-
----
-**Last Updated:** February 7, 2026 by [Name]
-
----
-
-### Digital Life & Accounts
-
-## Email Accounts
-- **mary.sung@outlook.com** (Personal): Main personal email
-- **allynomajac@gmail.com** (Personal): Mostly for work use
-- **allynoma@msn.com** (Personal): Old personal email. Too many spams, but still used for online purpose
-
-## Password Manager
-[To be filled]
-
-## Cloud Storage
-[To be filled]
-
----
-**Last Updated:** February 7, 2026 by [Name]
+**Important Dates:**
+- **Birthday:** March 16
+- **Anniversary:** March 19
 
 ---
 
-### Personal & Preferences
-
-## Personal Details
-[To be filled]
-
-## Favorites
-[To be filled]
-
-## Important Dates
-- **Birthday:** 3/16/1968
-- **Anniversary:** 3/19/1994
-
----
-**Last Updated:** February 7, 2026 by [Name]
-
----
+*Updated: May 21, 2026*
