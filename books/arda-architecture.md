@@ -160,25 +160,25 @@ For full detail — topology, VLAN config, firewall rules, MikroTik and Zyxel re
 
 ### External Access
 
-How to reach Arda services from outside the house.
+There are two ways to reach Arda from outside the house.
 
-#### How It Works
+#### Cloudflare Tunnel (for web services)
 
-Arda uses a **Cloudflare tunnel** for external access. A small agent (cloudflared) runs on Rivendell and maintains an outbound connection to Cloudflare. When you visit an Arda service externally, the request flows through Cloudflare to that tunnel — the house IP address is never exposed.
+Arda uses a **Cloudflare tunnel** for external web access. A small agent (cloudflared) runs on Rivendell and maintains an outbound connection to Cloudflare. When you visit an Arda service externally, the request flows through Cloudflare to that tunnel — the house IP address is never exposed.
 
 This means:
 - No ports need to be opened on the home router
 - The public internet cannot directly reach any home server
 - All traffic passes through Cloudflare's edge before arriving at Arda
 
-#### Available External Services
+##### Available External Services
 
 | Service | URL | Who can access |
 |---------|-----|----------------|
 | BookStack wiki | https://library.sung.us | Family (with login) |
 | Additional services | Check Portainer for tunnel routes | Varies |
 
-#### Authentication
+##### Authentication
 
 External services use **Cloudflare Access** for authentication. You may be prompted to verify your identity (email OTP) before reaching the service's own login page.
 
@@ -186,7 +186,22 @@ If you see a Cloudflare authentication screen, that's normal — enter the email
 
 Credentials for each service are in the Sung KeePass DB.
 
-#### If External Access Isn't Working
+#### Cloudflare WARP (for SSH access)
+
+For **SSH access** to Rivendell or other internal machines, use **Cloudflare WARP** — it acts as a VPN that puts your device on the Arda network. Once connected:
+
+1. Install Cloudflare WARP on your device
+2. Connect to your Cloudflare account (same account that manages the tunnel)
+3. Once WARP is connected, SSH directly to internal IPs:
+
+```bash
+ssh aule@192.168.10.4   # Rivendell
+ssh aule@192.168.10.6   # Moria
+```
+
+No SSH services are exposed through the public tunnel — WARP is the only way to get a shell from outside.
+
+##### If External Access Isn't Working
 
 1. Check if the service works internally (on home Wi-Fi)
    - Works internally but not externally → likely a Cloudflare tunnel issue
@@ -213,7 +228,7 @@ Aulë is accessible via Telegram (@NavatarBot) and Discord (#aule channel). See 
 
 **Network segmentation.** IoT devices cannot reach trusted devices. Trusted devices cannot reach management. Each VLAN has only the access it needs.
 
-**No open ports.** External access goes through Cloudflare tunnel only. No ports are opened on the home router.
+**No open ports.** External web access goes through Cloudflare tunnel only. External SSH uses Cloudflare WARP as a VPN layer. No ports are opened on the home router.
 
 **Management plane isolation.** MikroTik and Zyxel admin is only accessible from VLAN99 or the physical emergency bridge. Even trusted VLAN10 machines cannot directly reach network admin interfaces — only via SSH tunnel through palantir.
 
