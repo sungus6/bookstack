@@ -16,35 +16,6 @@
 
 ### The Big Picture
 
-Arda is a home lab — a small private infrastructure that runs on hardware in the house. This page covers how all the pieces fit together.
-
-#### The Three Layers
-
-**Network layer** — controls how devices talk to each other and to the internet.
-A MikroTik router handles routing and firewalling. A Zyxel managed switch handles physical port assignment and VLAN tagging. UniFi access points handle Wi-Fi. Traffic is segmented into three VLANs: trusted devices, IoT, and management.
-
-**Compute layer** — the machines that run services.
-Rivendell is the primary server, running all Docker-based workloads. Moria is the NAS, providing storage and hosting the UniFi controller. Home Assistant runs the smart home stack.
-
-**Application layer** — the software people actually use.
-Aulë (via Telegram and Discord), the BookStack wiki (library.sung.us), Home Assistant, Grafana dashboards, and anything exposed externally via Cloudflare tunnel.
-
-#### How Traffic Flows
-
-Internal traffic stays on the local network. External access (from outside the house) goes through a Cloudflare tunnel running on Rivendell — no ports are opened on the home router. This means the house IP address is never exposed directly.
-
-#### Key Design Principles
-
-**Private by default.** Data stays on home hardware unless explicitly sent elsewhere.
-
-**Segmented by trust.** IoT devices cannot reach trusted devices or the management plane. Trusted devices cannot reach management directly — only through a controlled SSH tunnel.
-
-**Resilient access.** A dedicated management VLAN (VLAN99) and a physical emergency port on the router ensure administrative access even when the main network is broken.
-
-**Documented.** This wiki exists so the system can be understood, maintained, and eventually handed off without Dan being in the room.
-
-#### The Stack at a Glance
-
 | Component | Hardware | Software | Role |
 |-----------|----------|----------|------|
 | Router | MikroTik RB750GL | RouterOS 7.x | Routing, DHCP, DNS, firewall |
