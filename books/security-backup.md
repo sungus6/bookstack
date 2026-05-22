@@ -1,112 +1,115 @@
 # Security & Backup
-> Exported from BookStack on 2026-05-21
+> Exported from BookStack on 2026-05-22
 > Slug: security-backup
 
 ---
 
 ## Contents
 
-- Backup Strategy & Schedule
-- Machine-Level Backups
+- Backup Architecture Overview
+- Backup Schedule
+- Backup Locations on Moria
+- Recovery Procedures
 - SSH Keys & Access
 - Credentials
 
 ---
 
-### Backup Strategy & Schedule
+### Backup Architecture Overview
 
-Arda uses a layered backup approach: local storage on Moria, with machines backing up to their own local targets and a central anchor on palantir.
+Arda uses a **palantir-orchestrated, Moria-stored** backup system.
 
-#### Three-Layer Strategy
+**palantir** (Debian, 192.168.99.21) is the orchestrator. It runs `/home/aule/scripts/backup-arda.sh` daily at 3 AM CDT, which collects from every machine and pushes to Moria.
 
-1. **Local snapshots** — each machine keeps its own recent data
-2. **Network backups** — machines back up critical data to Moria nightly
-3. **Palantir anchor** — palantir aggregates and validates backups
+**Moria** (Synology, 192.168.10.6) is the central backup target at `/volume1/backups/`. It uses SHR (Synology Hybrid RAID) for redundancy.
 
-#### Backup Schedule
+#### What Gets Backed Up
 
-| Machine | What's Backed Up | Target | Frequency |
-|---------|-----------------|--------|-----------|
-| Rivendell | Docker compose files, configs, databases | Moria `/volume1/backups/` | Nightly |
-| Moria | Critical shared folders | Cross-volume sync | Weekly manual |
-| Palantir | Home dir, MikroTik config | Local + Moria | Nightly |
-| Home Assistant | Full config | Built-in backup | On config change |
-| MikroTik | RouterOS config | Palantir | On config change |
+| Component | Method | Size | Target on Moria |
+|-----------|--------|------|----------------|
+| **MikroTik** | SSH export → .rsc | ~16 KB | /volume1/backups/network/mikrotik/ |
+| **Zyxel GS1900** | HTTP download → .cfg | ~4 KB | /volume1/backups/network/zyxel/ |
+| **Rivendell configs** | rsync → tar.gz (excludes .git, ollama models, grafana plugins, unifi logs) | ~960 MB | /volume1/backups/servers/rivendell/ |
+| **BookStack DB** | docker exec mysqldump | ~2.7 MB | /volume1/backups/servers/rivendell/ |
+| **UniFi** | rsync autobackup .unf files | ~15 MB | /volume1/backups/network/unifi/ |
+| **Palantir home** | tar archive | ~240 MB | /volume1/backups/servers/palantir/ |
 
-#### Backup Locations on Moria
+#### What Is NOT Backed Up (By Design)
+
+- Ollama models (~21 GB) — redownloadable
+- Docker images — pulled fresh on `docker compose up -d`
+- Prometheus metrics history — expendable, low priority
+- arda-voice Python deps + Whisper — rebuildable from Dockerfile
+
+#### Retention
+
+- **Local (palantir):** 30 days — archives older than 30 days are deleted
+- **Moria:** indefinite — NAS disk management handles space
+
+---
+
+### Backup Schedule
+
+| Time (CDT) | Machine | Script | Trigger |
+|------------|---------|--------|---------|
+| 3:00 AM daily | MikroTik → Moria | backup-arda.sh | cron on palantir |
+| 3:00 AM daily | Zyxel → Moria | backup-arda.sh | cron on palantir |
+| 3:00 AM daily | Rivendell configs + DB → Moria | backup-arda.sh | cron on palantir |
+| 3:00 AM daily | UniFi backups → Moria | backup-arda.sh | cron on palantir |
+| 3:00 AM daily | Palantir home → Moria | backup-arda.sh | cron on palantir |
+| 3:00 AM daily | USB essentials | backup-arda.sh | cron on palantir |
+| 8:00 AM daily | Health check report | Hermes cron (b4aead877c10) | Aulë → Telegram + Discord |
+
+---
+
+### Backup Locations on Moria
 
 ```
 /volume1/backups/
-├── rivendell/        # Docker configs, DB dumps, compose files
-├── palantir/         # Palantir home dir backups
-└── network/          # Router configs, VLAN configs
+├── network/
+│   ├── mikrotik/mikrotik-YYYYMMDD.rsc
+│   ├── zyxel/zyxel-YYYYMMDD.cfg
+│   └── unifi/
+│       └── autobackup/    (UniFi .unf files)
+└── servers/
+    ├── rivendell/
+    │   ├── rivendell-configs-YYYYMMDD.tar.gz
+    │   └── rivendell-bookstack-db-YYYYMMDD.sql.gz
+    └── palantir/
+        └── palantir-YYYYMMDD.tar.gz
 ```
 
 ---
 
-### Machine-Level Backups
+### Recovery Procedures
 
-#### Rivendell Backup
+#### Restore Rivendell (SSD Failure — Full Rebuild)
 
-Rivendell's backup script runs nightly via cron. It covers:
-- Docker compose files and config
-- BookStack database dump
-- Key application configs
-- Container volume data (where practical)
+1. Install Debian, configure Docker. Images pull fresh.
+2. Copy `/volume1/backups/servers/rivendell/rivendell-configs-latest.tar.gz` to the new machine.
+3. Extract:
+   ```bash
+   tar -xzf rivendell-configs-latest.tar.gz
+   ```
+4. This gives you all compose files, .env files, configs, and config files.
+5. Run `docker compose up -d` in each stack directory.
+6. Restore BookStack DB:
+   ```bash
+   gunzip < rivendell-bookstack-db-latest.sql.gz | docker exec -i bookstack_db mysql bookstackapp
+   ```
 
-Manual backup:
+#### Restore MikroTik
+
+Copy `.rsc` from Moria or palantir, upload to MikroTik, and import:
 ```bash
-# SSH to Rivendell
-ssh aule@rivendell.lan
-
-# Backup is managed via cron — check status
-ls -la /mnt/work/ai-stack/backups/
+/file import mikrotik-YYYYMMDD.rsc
 ```
 
-#### Moria (NAS) Backup
+#### Restore UniFi
 
-Moria stores the backups of other machines. Moria itself should have its critical shared folders periodically synced for redundancy.
-
-| Shared Folder | Location | Redundancy |
-|--------------|----------|------------|
-| Backups | /volume1/backups/ | SHR (Synology Hybrid RAID) |
-| Homes | /volume1/homes/ | SHR |
-
-#### Palantir Backup
-
-Palantir is the management anchor. It holds:
-- Local copies of backups
-- MikroTik and Zyxel config exports
-- SSH keys for VLAN99 access
-
-Backups from palantir go to Moria nightly via rsync.
-
-```bash
-# Manual rsync to Moria
-rsync -av -e "ssh -i ~/.ssh/id_moria" \
-  /home/aule/backups/ \
-  aule@192.168.10.6:/volume1/backups/palantir/ \
-  --rsync-path=/usr/bin/rsync
-```
-
-#### Home Assistant Backup
-
-Create a full backup through the UI:
-```
-Settings → System → Backups → Create Backup
-```
-
-Backups include configuration, automations, scenes, scripts, dashboards, and add-on data.
-
-#### MikroTik Backup
-
-RouterOS config backup is done through Winbox or CLI:
-```
-/system backup save name=arda-config-YYMMDD
-```
-
-The `.backup` file can be uploaded to palantir. For recovery, upload back to the MikroTik and use Restore.
-For password-less restore, `/export` the config to a `.rsc` file — this is human-readable and can be edited.
+Use the controller UI at `https://192.168.10.6:8443`:
+- System Settings → Backup → Restore
+- Upload the .unf file from `/volume1/backups/network/unifi/`
 
 ---
 
@@ -116,41 +119,56 @@ For password-less restore, `/export` the config to a `.rsc` file — this is hum
 
 | Key | Used For | Location |
 |-----|----------|----------|
-| `id_ed25519_hermes` | Aulë (Hermes) → Rivendell SSH | Hermes container |
-| `id_moria` | Palantir → Moria rsync | Palantir |
-| `id_ed25519` (personal) | User → Rivendell | Authorized keys on Rivendell |
-
-Authorized keys on each machine define who can SSH in.
+| `id_ed25519_hermes` | Aulë (Hermes container) → Rivendell host SSH | /opt/data/.ssh/ on Hermes |
+| `id_moria` | Palantir → Moria SSH (backup push) | /home/aule/.ssh/ on palantir |
+| `id_mikrotik` | Palantir → MikroTik SSH (config export) | /home/aule/.ssh/ on palantir |
+| `id_rivendell` | Palantir → Rivendell SSH (config rsync) | /home/aule/.ssh/ on palantir |
+| `id_ed25519` (personal) | User → Rivendell direct SSH | Users' ~/.ssh/ |
 
 #### Access Paths
 
-**VLAN10 → Rivendell:**
+**From the internet (Noah, Jacob):**
 ```bash
-ssh aule@rivendell.lan          # Direct from VLAN10
-ssh aule@192.168.10.4           # IP also works
+# Connect via Cloudflare WARP, then SSH to internal IPs
+ssh aule@192.168.10.4    # Rivendell
+ssh aule@192.168.99.21   # Palantir (via jump host if needed)
 ```
 
-**VLAN10 → Moria:**
+No direct SSH is exposed via Cloudflare Tunnel.
+
+**From Aulë (Hermes container):**
 ```bash
-ssh aule@moria.lan              # Direct from VLAN10
+# Hermes → Rivendell host
+ssh -i /opt/data/.ssh/id_ed25519_hermes aule@172.18.0.1
+
+# Hermes → Rivendell → Palantir
+ssh -i /opt/data/.ssh/id_ed25519_hermes aule@172.18.0.1 \
+  "ssh aule@192.168.99.21 <command>"
+
+# Hermes → Rivendell → Palantir → Moria
+ssh -i /opt/data/.ssh/id_ed25519_hermes aule@172.18.0.1 \
+  "ssh aule@192.168.99.21 'ssh -i ~/.ssh/id_moria aule@192.168.10.6 <command>'"
 ```
 
-**VLAN10 → VLAN99 (palantir):**
-```bash
-ssh aule@192.168.99.21          # Specially allowed through firewall
-```
+#### Automated Backup Scripts
 
-From palantir, you can reach MikroTik and Zyxel directly on VLAN99.
+All backup scripts live on **palantir** at `/home/aule/scripts/`:
+
+| Script | Purpose | Last Updated |
+|--------|---------|-------------|
+| `backup-arda.sh` | **Master orchestrator** — runs all phases | May 22, 2026 |
+| `backup-mikrotik.sh` | MikroTik export (legacy sub-script) | May 2026 |
+| `backup-rivendell.sh` | Rivendell backup (legacy sub-script) | May 2026 |
+| `backup-palantir.sh` | Palantir self-backup (legacy sub-script) | May 2026 |
+
+The scripts are version-controlled in a git repo at `/mnt/work/backups/scripts/` on Rivendell.
 
 ---
 
 ### Credentials
 
-#### Password Architecture
-
 All Arda credentials follow one rule: **the Sung KeePass DB is the single source of truth.**
 
-What this means:
 - **Every password, API key, and token** is stored in the KeePass DB
 - **No passwords** are in this wiki, in chat logs, or in plain config files
 - If you need a credential, it's in KeePass
