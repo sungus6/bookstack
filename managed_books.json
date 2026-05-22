@@ -16,7 +16,6 @@
         "mary-sung-5n2",
         "network",
         "noah-sung",
-        "security-backup",
         "servers",
         "services",
         "shinn-clan",
@@ -31,5 +30,5 @@
         "what-is-arda"
     ],
     "updated_at": "2026-05-22",
-    "note": "Updated by Aule. Added backup-recovery book."
+    "note": "Removed security-backup book (merged into network)."
 }
