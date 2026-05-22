@@ -4,6 +4,7 @@
         "ai",
         "allison-sung",
         "arda-architecture",
+        "backup-recovery",
         "dan-sung",
         "home-maintenance",
         "house-inventory",
@@ -29,6 +30,6 @@
         "vehicles",
         "what-is-arda"
     ],
-    "updated_at": "2026-05-21",
-    "note": "Auto-updated by export.py. Books with markdown content only. Upload only processes these."
+    "updated_at": "2026-05-22",
+    "note": "Updated by Aule. Added backup-recovery book."
 }

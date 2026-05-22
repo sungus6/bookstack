@@ -343,7 +343,7 @@ Maintenance → Configuration → Source: Running Configuration → Destination:
 
 Maintenance → Configuration → Source: Running Configuration → Method: HTTP → Apply
 
-Downloads a .cfg file. Push the backup to Moria.
+Downloads a .cfg file. This is also done automatically every night by the backup system (see **Backup & Recovery** book).
 
 ---
 
@@ -373,10 +373,13 @@ Verify tunnel: `netstat -an | findstr 8080` should show LISTENING.
 
 #### palantir SSH Keys
 
+These keys are used both for admin access AND for the daily backup system. The nightly backup script on palantir connects to each machine using these same keys to export configs and push archives to Moria. See **Backup & Recovery** book for the full backup architecture.
+
 | Key | Path | Purpose |
 |-----|------|---------|
 | id_moria | ~/.ssh/id_moria | Passwordless SSH/rsync to moria |
 | id_mikrotik | ~/.ssh/id_mikrotik | Passwordless SSH to MikroTik as aule |
+| id_rivendell | ~/.ssh/id_rivendell | Passwordless SSH to Rivendell for config rsync |
 
 palantir SSH config (`~/.ssh/config`):
 
