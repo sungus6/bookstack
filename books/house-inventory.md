@@ -3,18 +3,6 @@
 
 ---
 
-## Contents
-
-— Appliances (42 items) — Dishwasher, Refrigerator, Stove/Range, Washer & Dryer, Air Quality, Kitchen Appliances, Misc
-— Electronics & Media (57 items) — TV, AV, Audio, Cameras, Games, Phones, Misc
-— Kitchen (6 items) — Cookware, Flatware
-— Furniture & Furnishings (21 items) — Furniture, Furnishing, Fixtures
-— Tools & Equipment (15 items) — Tools, Garage
-— Outdoor & Yard (10 items) — Lawn
-— Personal (33 items) — Travel, Watches, Clothing, Health, Sports
-
----
-
 ## Chapter: Appliances
 
 ### Midea Dehumidifier
@@ -68,7 +56,6 @@ User Manual
 >
 Specification
 >
-| | | |
 | | Model No: MAD50S1QWT Product Description The Midea Cube dehumidifier has a unique lift-and-twist design that offers unparalleled flexibility and capacity: when operating in extended form, it has up to 3 times more water tank capacity than traditional dehumidifiers and can run longer without the hassle of frequently emptying the tank; when in nested or drain form, the unit is half the size allowing compact storage or flexible draining. It can fit into most rooms and maintain the desired humidity level in your home. The patented sensor and wi-fi enabled app allow you to monitor the humidity and water level, all at your fingertips. With multi-directional air intake and up to three different fan speeds, it is powerful enough to dehumidify your room, and quiet enough that you'll forget it's even there. Product information Brand | Midea
 | Floor Area | 4500 Square Feet
 | Color | Dehumidifier
@@ -92,11 +79,11 @@ Specification
 📎 *Attachment: D1-CUVsknhS.pdf*
 📎 *Attachment: 51+nOJQVt3L.pdf*
 
-### Purchase
+#### Purchase
 *Thursday, October 20, 2022*
 Order placed: 10/17/2022
 Delivered: 10/19/22
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Blueair Airpurifier
 *Monday, October 24, 2022*
@@ -104,12 +91,12 @@ Model: Blueair DustMagnet 5415i Smart HEPASilent Air Purifier
 10000/.15=66666.6667
 66666 * 15%=9999.9
 
-### Purchase
+#### Purchase
 *Monday, October 24, 2022*
 From: Costco
 Date:
 1105826000000110110014697
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Blueair Protect 7470i
 *Thursday, January 23, 2025*
@@ -132,54 +119,33 @@ Price
 Specification
 >
 | Qty | Price
-| |
 | 1 |
 📎 *Attachment: DW_NA0_MFL69261722_13_200311_00_WEB.pdf*
 
-### CL Code
+#### CL Code
 *Sunday, May 21, 2023*
 Child Lock
 To unlock: Press Half Load and Energy Saver buttons simultaneously for 1/2 sec.
 How to take/ turn off child lock on LG dishwasher CL CODE direct drive remove locked setting.? reset
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Bosch 800 Dishwasher
 *Tuesday, November 28, 2023*
 Model: SHX78B75UC
 11/28/2023 Ordered
 12/6/2023 Installed
-echo "GEMINI_API_KEY=AIzaSyC0r38s7snocGfO3mn_Rau7B2-As5gQOwoe" >> ~/.openclaw/.env
-cd ~/openclaw
-docker compose restart
-cat > ~/.openclaw/.env << 'EOF'
-GEMINI_API_KEY=AIzaSyC0r38s7snocGfO3mn_Rau7B2-As5gQOwoe
-CLOUDFLARE_AI_GATEWAY_API_KEY=-Uk0PG0f0ar5w4ZQficndZJcl1Cy4EtS_mn5no13
 EOF
-NEW_KEY="AIzaSyB2uNgk7hZa5PbKcSG0t3iJmHcd_hw1UPk"
-# Update .env (replace all old GEMINI entries with one clean entry)
-grep -v GEMINI_API_KEY ~/.openclaw/.env > /tmp/env_clean
-echo "GEMINI_API_KEY=$NEW_KEY" >> /tmp/env_clean
-cp /tmp/env_clean ~/.openclaw/.env
-# Update auth-profiles.json
 python3 << EOF
-import json
-path = '/home/aule/.openclaw/agents/main/agent/auth-profiles.json'
-with open(path) as f:
 ??? config = json.load(f)
-config['profiles']['google:default']['key'] = '$NEW_KEY'
-config['usageStats'] = {}
 with open(path, 'w') as f:
 ??? json.dump(config, f, indent=2)
 print("Done!")
 EOF
-cd ~/openclaw && docker compose down && docker compose up -d
-| | | |
 | | Model: SHX78B75UC 11/28/2023 Ordered 12/6/2023 Installed | |
 | | | >
-| | |
 📎 *Attachment: Bosch SHX78B75UC Manual.pdf*
 
-### Purchase
+#### Purchase
 *Tuesday, November 28, 2023*
 Online Order Number 1076593118
 Order Number
@@ -195,21 +161,21 @@ Delivery and Set Up
 Scheduled Delivery
 Wednesday, December 06
 From https://www.costco.com/myaccount/#/app/4900eb1f-0c10-4bd9-99c3-c59e6c1ecebf/ordersandpurchases>
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
-### Installation
+#### Installation
 *Wednesday, December 6, 2023*
 Transmotion (Contractor to Costco)
 Customer Support:
 425.749.7979
 cosdelivery@transmotion.com
 
-### Energy Guide
+#### Energy Guide
 *Wednesday, December 6, 2023*
 
 ### KitchenAid Mixer
 *Friday, February 28, 2014*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Cuckoo Rice Cooker
 *Saturday, March 2, 2019*
@@ -224,9 +190,9 @@ Receipt
 >
 📎 *Attachment: Cuckoo Rice
 Cooker00003.pdf*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
-### Manual
+#### Manual
 *Thursday, May 8, 2025*
 >
 📎 *Attachment: P1009S_FRENCH.pdf*
@@ -260,11 +226,11 @@ $42.49
 | Subtotal: | $39.99
 | Tax: | $2.50
 | Total: | $42.49
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Aria Air Fryer
 *Sunday, June 14, 2020*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Panasonic Microwave NN-SA651
 *Thursday, May 8, 2025*
@@ -281,13 +247,9 @@ Purchased: 1/6/2009
 Warranty: 5 yrs.
 Noahsung99@gmail.com
 nomasark
-| | | | | |
 | | | | Purchased: 1/6/2009 Warranty: 5 yrs. | |
-| | | | |
-| | | | |
 | | | | | Noahsung99@gmail.com nomasark
-| | | | |
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Dyna-glo Grill
 *Sunday, June 10, 2018*
@@ -325,7 +287,6 @@ Check Order Status
 | Hi Sheewon, Thanks for picking up your order at your Lake Zurich store today! We'd love to hear how your pickup experience went so we can know what we're doing well and what we can improve. Please take a few moments to answer some questions about how the process met your expectations.
 | TAKE SURVEY
 | Your Order |
-| |
 | Item | Unit Price | Qty | Item Total
 | | 6-Burner Open Cart Propane Gas Grill in Stainless Steel with Side Burner
 | Store SKU # | 1002226043
@@ -334,13 +295,10 @@ Check Order Status
 | | 1.0
 | | $199.00
 | Subtotal | $199.00
-| |
-| |
 | Shipping | $0.00
-| |
 | Sales Tax | $14.93
 | Order Total | $213.93
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Electrolux
 *Tuesday, August 1, 2017*
@@ -354,11 +312,11 @@ Order from Amazon 8/1/017
 ### Dyson Vacuum (Allison's)Mi
 *Friday, July 24, 2020*
 Customer ID: sheewon@msn.com Account Number: 8149791 Dear Sheewon Sung, Thank you for shopping at Newegg Marketplace. This is the invoice and receipt for your recent order. Please keep a COPY for your records. Invoice Summary: your sales order Number: 493006033 order Date: 07/11/2020 order Total: $184.01 Billing Sheewon Sung 6 James Dr. Hawthorn Woods, IL 60047 States 847_431 _0397 Shipping Allison Sung 4200 Horizon North pkwy 1133 Dallas, -rx 75287 United States 847431-0397 Invoice Number: 181062899 Invoice Da ">
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Refrigerator LG
 *Friday, November 27, 2009*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### KitchenAid Refrigerator
 *Saturday, April 17, 2021*
@@ -368,12 +326,12 @@ Customer ID: sheewon@msn.com Account Number: 8149791 Dear Sheewon Sung, Thank yo
 ### Black Refrigerator - Frigidaire (ABT)
 *Friday, November 27, 2009*
 Disposed 11/13/2020
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Samsung Refrigerator
 *Sunday, November 8, 2020*
 
-### Purchase
+#### Purchase
 *Sunday, November 8, 2020*
 Purchase From: Home Depot
 Purchase Date: 11/9/2020
@@ -382,23 +340,21 @@ Order Total: $1546.43
 From https://www.homedepot.com/mycheckout/thankyou?cartId=HD100007015304&orderId=WM23026411&inStore=false&fromReact=true>
 📎 *Attachment: The
 Home Depot - Order Confirmation.pdf*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
-### Delivery Documents
+#### Delivery Documents
 *Saturday, November 14, 2020*
 >
 >
 Installation Tips
 >
 Energy Guide
-| | | |
 | | > Installation Tips | |
 | | | > Energy Guide
-| | |
 📎 *Attachment: Scanned BW 2020-11-14_175056.pdf*
 📎 *Attachment: Scanned BW 2020-11-14_175142.pdf*
 📎 *Attachment: Scanned BW 2020-11-14_175221.pdf*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Frigidaire Refrigerator (Garage)
 *Friday, September 22, 2023*
@@ -421,38 +377,35 @@ Return confirmation no.: Prp1012532681
 *Friday, September 22, 2023*
 Mon 8/28/2023 12:48 PM esheewon@msn.com? Walmart Order date: sat, Aug 26, 2023 Your order has been delivered Hi Dan, Order 2000112-19485695 was delivered. We hope everything went smoothly and welcome your feedback! Thanks for shopping with us, Team Walmart How was your experience? Your feedback is valuable! We'd love to hear your thoughts. I item Sold and shipped by Walmart Frigidaire 7.5 Cu. ft. Refrigerator, Platinum Series, Stainless Look (EFR780-6COM) S 198.00/CFT Qty: 1 Give feedback $198.00 ">
 shipping on any order size & free grocery delivery. ?Compared against 2 deliveries\wk at non-member S7.9S fee ? 2 Walmart.com orders under at non-member S6_99 shipping fee. Terms apply. Shop anywhere with the Walrnart app GET ON Google Play App Store Questions? Visit our Walmart protects your security and privacy. We will never ask for personal information (such as passwords or credit card numbers) in an email. If you receive such a request, please do not respond. about online safety and see our ELjyagy_EQljgy. Please do not reply to this email. This mailbox is not monitored. @ 2023 Walmart. All rights reserved. ">
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Samsung Gas Range NX58J7750SS
 *Saturday, July 30, 2016*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
-### Manual
+#### Manual
 *Thursday, May 8, 2025*
 >
 >
 📎 *Attachment: Install_NX58J7750SS_AA_AC_DG68-00624A-06_EN-MES-CFR.pdf*
 📎 *Attachment: NX58J7750S_AA_AC_DG68-00623A-02_EN_CFR.pdf*
 
-### Spec
+#### Spec
 *Friday, August 5, 2016*
 From http://www.samsung.com/us/home-appliances/ranges/freestanding/nx58j7750sg-gas-flex-duo-range-with-griddle-and-wok-grate-black-stainless-steel-nx58j7750sg-aa/>
 
-### Invoice
+#### Invoice
 *Tuesday, August 30, 2016*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Washer & Dryer
 *Thursday, September 03, 2009*
 Dryer Model: WGC9400VE
 Washer Model: WFW9400VE
-| | | |
-| | | |
 | | | Dryer Model: WGC9400VE Washer Model: WFW9400VE
-| | |
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
-### Service
+#### Service
 *Wednesday, August 17, 2016*
 Call Samsung Service 8/15
 Referred to AAA
@@ -487,7 +440,7 @@ From https://www.amazon.com/ask/questions/Tx1GWAE6R1BQ0GA/ref=ask_dp_dpmw_al_hza
 
 ### FoodSaver
 *Tuesday, July 18, 2017*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Filter Change
 *Thursday, July 5, 2018*
@@ -528,9 +481,8 @@ Replacement Filters
 | Frequency (based on family of 4) | Every 6 Months | Every 6 Months | Every 6 Months | Every 12 Months | Every 24 Months | 6-12 Months
 | 6/1/2017 | Installed | Installed | Installed | Installed | Installed | Not installed
 | 6/22/2018 | Replaced | Replaced | Replaced | | |
-| | | | | | |
 📎 *Attachment: ScannedDoc00002.pdf*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Water Softener
 *Saturday, July 15, 2017*
@@ -600,27 +552,24 @@ Copyright 2019 Amazon, Inc, or its affiliates. All rights reserved. Amazon.com, 
 For Your Information: To help protect the trust and safety of our marketplace, and to help arbitrate potential disputes, we retain all messages buyers and sellers send through Amazon.com for two years. This includes your response to the message above. Amazon.com uses filtering technology to protect buyers and sellers from possible fraud. Messages that fail this filtering will not be transmitted.
 We want you to buy with confidence anytime you purchase products on Amazon.com. Learn more about Safe Online Shopping and our safe buying guarantee.
 [commMgrTok:A0594319301E14WHJZWAR]
-| |
 | Order ID: 111-6443253-6249052: # | ASIN | Product Name
 | 1 | B075XTWHK6 | DuraWater 64k-56SXT-10 10% 64k softener, 64,000, Black
 | Hi Dan Sung: Seller Aplus Water LLC has a message for you. Message from seller Aplus Water LLC: Dear valued customer, Please call us toll free at 877 477 5452 with any questions. We love to help our customers. Tracking for the second package: http://wwwapps.ups.com/etracking/tracking.cgi?tracknum=1Z6549310358721697 To better serve our customers we have provided additional illustrated installation instructions Click on the link below: https://youtu.be/oYK02ZCIgyY Fleck 5600SXT Metered Softener Installation Video Specials youtu.be In conclusion enjoy your brand new water softener and do not hesitate to contact us with any questions regarding your brand new water softener. Thanks Aplus Water LLC 1-877-477-5452 You can send a message to the seller Aplus Water LLC by replying to this email. If you were contacted inappropriately by the seller, please report this message. We hope to see you again soon.
 | Was this message helpful? | | |
 | Yes | No | | Report suspicious activity
-| |
-| | | | | | | |
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ## Chapter: Electronics & Media
 
 ### Chromecast
 *Monday, August 26, 2013*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Cable Modem - Motorola SB6121
 *Monday, December 30, 2013*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
-### Manual
+#### Manual
 *Thursday, May 8, 2025*
 >
 >
@@ -646,7 +595,7 @@ From Bestbuy
 Hqg86q
 📎 *Attachment: Sony BVD-E300.pdf*
 
-### Spec
+#### Spec
 *Friday, December 4, 2020*
 
 ### Yamaha HTR-5560
@@ -660,17 +609,16 @@ Manual
 
 ### Sony BDP-BX37
 *Sunday, October 22, 2023*
+>
 Blu-ray Disc
 1080p
-| | | |
 | | | | >
 | | Blu-ray Disc 1080p |
-| | |
 📎 *Attachment: Sony BDP-BX37.pdf*
 
 ### Pioneer VSX-70
 *Tuesday, October 17, 2023*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### U9 eARC
 *Thursday, November 9, 2023*
@@ -684,37 +632,34 @@ Model: U9-EAMN
 ### Visio Soundbar
 *Tuesday, June 26, 2012*
 Visio Soundbar VSB200
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Speakers - JBL G500
 *Sunday, December 6, 2020*
 
 ### Proximus Bluetooth FM Transmitter
 *Thursday, June 28, 2012*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Audio Technica ATHT400
 *Monday, November 18, 2013*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### FiiO X3 Music Player
 *Monday, December 01, 2014*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### FiiO E6 Headphone Amplifier
 *Monday, March 30, 2015*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Samson Microphone
 *Thursday, August 11, 2016*
 $80,37.19 + $6,639.30 =
 80397.19+6639.30=87036.4900
 161979.48+87036.49=249015.97
-| | | |
-| | | |
 | | | $80,37.19 + $6,639.30 = 80397.19+6639.30=87036.4900 161979.48+87036.49=249015.97
-| | |
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Yamaha NS A835 Speakers
 *Monday, October 25, 2021*
@@ -730,10 +675,10 @@ Purchased from Goodwill 4/3/2022
 *Monday, October 25, 2021*
 Purchased 2021
 
-### Quick Start
+#### Quick Start
 *Friday, May 20, 2022*
 📎 *Attachment: AKG_Y400_WIRELESS_QSG_Multilingual.pdf*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Vizio Sound Bar - SB2920-D6
 *Thursday, December 21, 2023*
@@ -762,7 +707,7 @@ From https://www.google.com/search?q=vizio+sb2920-d6+automatic+power+off&sca_esv
 
 ### Dolica Tripod
 *Sunday, December 08, 2013*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Canon EF-S 24MM F2.8 STM
 *Saturday, April 17, 2021*
@@ -774,7 +719,7 @@ Delivered: 4/8/2021
 
 ### Sony Camcorder
 *Wednesday, April 01, 2015*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Vado HD
 *Tuesday, March 17, 2009*
@@ -789,25 +734,22 @@ Pasted from http://www.nintendo.com/consumer/repair/confirmation.jsp>
 If you do not receive these e-mails, please contact our Customer Service department:
 Click here to e-mail us, or call 1-800-255-3700
 Pasted from http://www.nintendo.com/consumer/repair/confirmation.jsp>
-| | | |
 | | | | Repair RO Number: 6130876 Pasted from http://www.nintendo.com/consumer/repair/confirmation.jsp> If you do not receive these e-mails, please contact our Customer Service department: Click here to e-mail us, or call 1-800-255-3700 Pasted from http://www.nintendo.com/consumer/repair/confirmation.jsp>
-| | |
-| | |
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Nintendo DS (Crimson)
 *Wednesday, August 29, 2007*
 Purchase Date: 8/29.2007
 Purchased 2 yr. replacement plan - Expires 8/29/2009
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### R4i for DSi
 *Friday, July 24, 2009*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Garmin 265T (For Grandpa)
 *Saturday, September 05, 2009*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Kindle (Allison)
 *Tuesday, July 23, 2019*
@@ -845,9 +787,8 @@ $37.18
 | | Quantity: 1 | Subtotal | $34.99
 | | | Shipping | $0.00
 | Tax | $2.19
-| |
 | Total | $37.18
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Lenovo Smart Clock 2
 *Monday, October 24, 2022*
@@ -867,10 +808,9 @@ PWD: wy3329h
 Rebate request
 >
 >
-| | | |
+>
 | | Rebate request > > | |
 | | | >
-| | |
 📎 *Attachment: AT&T RAZR Order Confirmation -
   mom.JPG*
 📎 *Attachment: AT&T RAZR Order Confirmation - mom
@@ -879,7 +819,7 @@ Rebate request
 
 ### Blueant Z9i
 *Saturday, September 06, 2008*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Sony Ericsson Cellphone
 *Monday, December 22, 2008*
@@ -891,22 +831,22 @@ Angela Jackson DT# 67109 Assurion
 
 ### iPhone USB Cables
 *Friday, August 14, 2009*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### LG Tone+ Wireless Bluetooth Headset
 *Thursday, October 09, 2014*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Moto X
 *Friday, May 13, 2016*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Plantronic Savi 740
 *Friday, September 20, 2019*
 
 ### OOMA
 *Tuesday, September 08, 2009*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### AT&T Wireless CL82307
 *Wednesday, July 24, 2024*
@@ -923,11 +863,11 @@ Product Page: http://www.samsung.com/us/support/owners/product/2011-55-led-smart
 
 ### ChangHong 40" from eBay
 *Tuesday, May 20, 2014*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### BenQ Projector
 *Friday, July 26, 2019*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### LG UP8770
 *Sunday, November 14, 2021*
@@ -943,19 +883,16 @@ Quantity 1
 | Item # ?9908786?
 | $ 1,499.99
 | Quantity 1
-| | | |
-| | | |
 | | | 76+76+44+44=240 240/12=20 76/12=6.3333 44/12=3.6667
-| | |
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
-### Order
+#### Order
 *Sunday, November 14, 2021*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
-### Invoice
+#### Invoice
 *Tuesday, November 16, 2021*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### LG NANO80 AQA
 *Tuesday, April 29, 2025*
@@ -963,7 +900,7 @@ Product Description LG 75" Class - NANO80 Series - 4K UHD LED LCD TV
 Item 75NANO80AQA
 https://www.lg.com/us/tvs/lg-75nano80aqa-4k-uhd-tv
 
-### Purchase
+#### Purchase
 *Tuesday, April 29, 2025*
 From Costco
 Order Placed
@@ -983,21 +920,21 @@ $699.97
 This item was purchased over 100 days ago and is not eligible to return. Costco's Return Policy.
 LG 75" Class - NANO80 Series - 4K UHD LED LCD TV
 From https://www.costco.com/myaccount/#/app/4900eb1f-0c10-4bd9-99c3-c59e6c1ecebf/orderdetails/1051187550>
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ## Chapter: Kitchen
 
 ### Drinking Glasses
 *Sunday, June 09, 2013*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Electric Salt & Pepper Grinders (Home Depot)
 *Saturday, February 16, 2019*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### All-Clad D5 Pans
 *Monday, January 18, 2021*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Baratza Encore Coffee Grinder
 *Wednesday, August 21, 2024*
@@ -1009,7 +946,7 @@ Bought from Susan Bender on FB Market place
 ### Lenox
 *Monday, May 19, 2025*
 
-### Order
+#### Order
 *Monday, May 19, 2025*
 Order summary
 4
@@ -1033,7 +970,7 @@ From https://www.lenox.com/8047591521/orders/cae21836eaa1ca9d5b3763ebdc2778dc>
 | Shipping | Free
 | estimated taxes | $9.63
 | Total | $163.63
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ## Chapter: Furniture & Furnishings
 
@@ -1043,27 +980,27 @@ Purchased: 9/22/2019 from Costco
 
 ### Blinds - SelectBlinds.com
 *Wednesday, August 19, 2009*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Blinds
 *Tuesday, November 29, 2011*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Potterybarn Doormat
 *Saturday, January 5, 2019*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Bonton Comforters
 *Wednesday, December 10, 2014*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Bathroom Vanity
 *Sunday, March 15, 2020*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Stylewell Wood Wall Organizer w/ 3 Metal Wire Baskets
 *Saturday, March 11, 2023*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Macy's Leather Sectional
 *Thursday, January 10, 2008*
@@ -1076,53 +1013,49 @@ Macy's sales person
 Roshan Disouza
 847.781.6219
 847.781.6293
-| | | |
 | | Thursday, January 10, 2008 5:13 PM | |
 | | | Delivered on : 1/10/2008
-| | |
-| | | |
 | | Worrynomore Great Give Back Protection Plan 22.worry-no-more.com Registraton No. 021273003820620 7 yr coverage | | Macy's sales person Roshan Disouza 847.781.6219 847.781.6293
-| | |
 
 ### Ethan Allen Dining Set
 *Thursday, September 03, 2009*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Beufort Bookcase
 *Friday, November 27, 2009*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Sideboard and dining chairs
 *Friday, August 28, 2009*
 Dining room sideboard
 Leather dining chairs
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Crate & Barrel Lamps
 *Wednesday, May 22, 2019*
 >
 📎 *Attachment: receipt00026.pdf*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Gorilla Rack
 *Wednesday, January 09, 2013*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Office Chairs
 *Wednesday, January 30, 2013*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Safe
 *Friday, January 11, 2013*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Adirondack Chair
 *Thursday, May 19, 2022*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### West Elm Penn Chairs
 *Wednesday, January 11, 2023*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Delivered
 *Saturday, March 4, 2023*
@@ -1130,11 +1063,11 @@ Leather dining chairs
 
 ### Office Desk (Mary)
 *Wednesday, December 16, 2020*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Fufu&Gaga Cabinet
 *Tuesday, December 3, 2024*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Clarksville 63.6'' 4 Door Kitchen Pantry
 *Tuesday, October 28, 2025*
@@ -1157,7 +1090,7 @@ By Langley Street?
 $163.99
 Qty: 1
 From https://www.wayfair.com/v/checkout/receipt/view?orid=4495558565&cu=9364A61A-FFE7-412A-8BEF-10333A613A41&utm_nooverride=1>
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ## Chapter: Tools & Equipment
 
@@ -1176,13 +1109,11 @@ Model: Chamberlain LiftMaster
 Type: 4
 Learn Button: Purple
 ID: 3
-| | | |
 | | Outside keypad unit Our garage door is Type 4 with purple learning button > | | Garage door opener Model: Chamberlain LiftMaster Type: 4 Learn Button: Purple ID: 3
-| | |
 📎 *Attachment: Clicker KLIK2U.pdf*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
-### Adjusting Garage Door
+#### Adjusting Garage Door
 *Friday, July 21, 2017*
 Chamberlain Liftmaster Professional 1/2 HP
 Helpful Youtubes:
@@ -1190,11 +1121,11 @@ Garage door does not go down all the way and bounces back up. Then the light fla
 Garage door not closing? (EASY FIX)
 The door closes all the way then bounces back up
 Lift Master Garage Door Opener Not Closing?? Force Control Adjustment.
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
-### Garage motion sensor switch
+#### Garage motion sensor switch
 *Sunday, July 31, 2016*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Generator JD4000
 *Sunday, June 14, 2020*
@@ -1205,7 +1136,7 @@ Warranty
 Lifetime Technical Support
 866.460.9436
 
-### Invoice
+#### Invoice
 *Sunday, June 14, 2020*
 Deliver To
 Delivery Details
@@ -1247,11 +1178,11 @@ From https://outlook.live.com/mail/0/search/id/AQQkADAwATM0MDAAMS1hYzNkLWY0YzYtM
 | Shipping | $0.00
 | Sales Tax | $16.81
 | Order Total | $285.81
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
-### Owner's Manual
+#### Owner's Manual
 *Friday, June 28, 2019*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Garage door Opener (Wayne Dalton)
 *Thursday, May 8, 2025*
@@ -1261,7 +1192,7 @@ Wayne Dalton 3222C-Z
 
 ### Dewalt Reciprocating Saw & Battery
 *Thursday, May 18, 2017*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Neiko HVLP Spray Gun
 *Saturday, April 8, 2017*
@@ -1274,12 +1205,11 @@ Your cost could be $31.99: Reload $100, get $5 free. Learn more
 From https://www.amazon.com/gp/product/B000UVR458/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1>
 Common TCP Global Brand G6600 Series HVLP Spray Gun Nozzle Size Applications:
 From http://vi.vipr.ebaydesc.com/ws/eBayISAPI.dll?ViewItemDescV4&item=391377165568&t=1491448657000&tid=10&category=43987&seller=tcpglobal&excSoj=1&excTrk=1&lsite=100&ittenable=false&domain=ebay.com&descgauge=1>
-| | | |
 | | Neiko 31215A HVLP Gravity Feed Air Spray Gun | 1.7mm Nozzle Size | 600cc Aluminum Cup 3.9 out of 5 stars 318 customer reviews | 130 answered questions Price: | $36.99 Free Shipping for Prime Members
 
 ### DeWalt Heated Jacket and Battery Charter
 *Wednesday, November 15, 2017*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Black & Decker hedge Trimmer
 *Thursday, May 16, 2019*
@@ -1294,15 +1224,15 @@ Order #W861785436
 Order Total: $298.02
 Order Date: 6/1/2020
 From https://www.homedepot.com/mycheckout/thankyou?cartId=HR100127885650&orderId=W861785436&inStore=false&fromReact=true#tntcurb>
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Home Depot Product Page
 *Monday, June 1, 2020*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Dewalt Tool Boxes
 *Thursday, October 28, 2021*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ## Chapter: Outdoor & Yard
 
@@ -1311,7 +1241,7 @@ From https://www.homedepot.com/mycheckout/thankyou?cartId=HR100127885650&orderId
 >
 📎 *Attachment: Operator's Manual.pdf*
 
-### Purchase
+#### Purchase
 *Saturday, October 31, 2020*
 Purchase Date: 10/28/2020
 From: Dean Drennan
@@ -1325,9 +1255,9 @@ North Barrington, IL 60010
 *Saturday, October 31, 2020*
 >
 📎 *Attachment: Scanned BW 2020-10-31_121558.pdf*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
-### Oil Change
+#### Oil Change
 *Wednesday, April 19, 2023*
 INSTRUCTIONS
 Step 1: Prepare your riding mower for maintenance. Place your mower on a flat, level surface. Turn the mower off and make sure the engine is cool. Remove the ignition key, disconnect the spark plug ignition wire, and engage the parking brake. This helps ensure the machine doesn't start accidentally and cause you or those around you harm.
@@ -1360,7 +1290,7 @@ SAE 10W30 (Castrol)
 | Date | Mileage | Oil Type | Qty | Notes
 | 5/6/2025 | | SAE 10W30 (Castrol) | 1 Qt |
 
-### Maintenance
+#### Maintenance
 *Tuesday, November 3, 2020*
 MAINTENANCE SCHEDULE
 Before Each Use
@@ -1448,7 +1378,7 @@ From https://usermanual.wiki/Ryobi/RGBV3100.2381238737/help>
 >
 📎 *Attachment: RGBV3100.2381238737.pdf*
 
-### Oil and Fuel
+#### Oil and Fuel
 *Sunday, November 8, 2020*
 1 Gallon (3.8 Liters) + 4.0 FL. OZ. (120 ml)
 Oil: 2 CYCLE OIL
@@ -1512,41 +1442,41 @@ We're here to help!
 CALL US 1-877-203-3246
 CONNECT WITH US
 From https://www.directtoolsoutlet.com/checkout/orderConfirmation/e00d5d95-82a4-48ec-8c38-f87d3777c5b8>
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ## Chapter: Personal
 
 ### Children's Place Order
 *Sunday, September 30, 2007*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### North Face Bootie (Noah)
 *Wednesday, October 08, 2008*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Northface Denali - Allison
 *Sunday, January 11, 2009*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Joseph Abboud Coat
 *Tuesday, January 13, 2009*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### REI Order
 *Friday, August 28, 2009*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Aeropostale
 *Wednesday, September 03, 2014*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Mountain Hardwear Trinity Jacket
 *Friday, June 06, 2014*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### J Crew
 *Monday, July 21, 2014*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Lands End Parkas (Dan & Mary)
 *Tuesday, November 12, 2019*
@@ -1570,11 +1500,11 @@ Model/Catalog No: 37028
 Device No: 316
 Run Hrs at the time of purchase: 14755
 
-### Battery Guide
+#### Battery Guide
 *Friday, July 12, 2024*
 >
 📎 *Attachment: 198103_battery-guide_glo_eng.pdf*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Accuchek Guide
 *Tuesday, March 26, 2024*
@@ -1583,7 +1513,7 @@ Run Hrs at the time of purchase: 14755
 
 ### IRONMAN Evolution Elliptical
 *Sunday, October 28, 2007*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Garmin Vivosport (Jacob)
 *Friday, June 7, 2019*
@@ -1633,11 +1563,11 @@ Pedal: Shimano
 
 ### Pop's Golf Clubs
 *Monday, December 29, 2008*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Allison's Bike
 *Monday, August 10, 2009*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Master Locks (2 Pakc)
 *Wednesday, October 16, 2019*
@@ -1648,7 +1578,7 @@ Pedal: Shimano
 Receipt
 https://www.sunnysports.com/spc/Receipt#
 Screen clipping taken: 1/3/2013 11:22 AM
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Dakine Terminal Spinner
 *Tuesday, March 26, 2019*
@@ -1662,7 +1592,7 @@ Ordered from Swimoutlet.com
 Order No: 16611275
 Ordered Date: 3/24/2019
 WOMEN'S MEN'S KIDS' NEW SALE
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Alps Moutaineering Tent
 *Saturday, August 25, 2007*
@@ -1706,11 +1636,11 @@ If you're looking to reduce the weight of your tent, consider purchasing your te
 You'll also notice that the 3 largest sizes have an ZF option, which stands for bigger Zipper and heavier Floor. The zipper for a ZF model is upgraded from a #8 to a #10. The floor used in the ZF models is a 4 oz. nylon oxford, which is almost twice as heavy as normal nylon taffeta floors. ZF models do not have windows on fly.
 You'll notice that we've listed some of the above features in red. These are the things we have upgraded that you won't find on most other tents in this category. Color: Grey/Coal/Blue
 Pasted from http://www.alpsmountaineering.com/ALPSMountaineeringMeramac.htm>
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Air Bed - Sears
 *Wednesday, July 16, 2008*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Garmin Vivosport GPS Smart Activity Tracker
 *Wednesday, May 22, 2019*
@@ -1719,19 +1649,19 @@ Pasted from http://www.alpsmountaineering.com/ALPSMountaineeringMeramac.htm>
 
 ### Timex Triathlon Watch
 *Tuesday, September 15, 2009*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Aviator Sunglasses
 *Thursday, January 10, 2013*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### SanDisk Sansa MP3 Player
 *Thursday, July 24, 2008*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### MEElectronics M Series Headphone
 *Tuesday, June 26, 2012*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### AKG Y400 Bluetooth Headphone
 *Friday, May 20, 2022*
@@ -1801,11 +1731,11 @@ Update Preferences |Unsubscribe |Terms of Sale |Privacy Policy |View Online
 | Please note that if there are offers and products shown in this email, their discounts, prices, and availability are subject to change. HARMAN, JBL, Harman Kardon, AKG, and Infinity are registered trademarks of Harman International Industries, Incorporated in the US and other countries. All other trademarks are the property of their respective owners. Any references to any third party names, marks, products or services, or hyperlinks to third party sites or material are provided to you solely for convenience, and do not imply any affiliation, sponsorship or endorsement by or of Harman or its products.
 | ? 2023 Harman International Industries, Inc. 400 Atlantic Street, 15th Floor, Stamford, CT 06901
 | Update Preferences |Unsubscribe |Terms of Sale |Privacy Policy |View Online
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Fredericks James Watch
 *Friday, March 22, 2024*
-📷 *Receipt image captured*
+📷 *Receipt screenshot*
 
 ### Jabra BT620s
 *Thursday, May 8, 2025*
