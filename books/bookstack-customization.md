@@ -1,5 +1,5 @@
 # Bookstack Customization
-> Exported from BookStack on 2026-05-21
+> Exported from BookStack on 2026-05-23
 > Slug: bookstack-customization
 
 ---

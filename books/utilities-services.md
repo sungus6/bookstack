@@ -1,14 +1,15 @@
 # Utilities & Services
+> Exported from BookStack on 2026-05-23
 > Slug: utilities-services
 
 ---
 
 ## Contents
 
-- Electric
-- Gas
-- Garbage & Recycling
-- Landline Phone
+- Electric (ComEd)
+- Gas (Nicor)
+- Garbage & Recycling (Waste Management)
+- Landline Phone (OOMA)
 - Water & Sewer
 
 ---
@@ -78,3 +79,5 @@ Set up on Telo device.
 ### Water & Sewer
 
 On private well and septic — no municipal water/sewer payments. See **Home Maintenance** book for well, water softener, and septic system details.
+
+---
