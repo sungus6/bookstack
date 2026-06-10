@@ -1,6 +1,6 @@
 # Servers & Computers
 > Exported from BookStack on 2026-05-14
-> Slug: servers
+> Slug: servers-computers
 
 ---
 
