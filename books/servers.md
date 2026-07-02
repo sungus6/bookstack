@@ -173,7 +173,7 @@ workloads including the AI stack, BookStack wiki, monitoring, and external acces
 | bookstack_db | mariadb:10.11 | - | BookStack database |
 | ollama | ollama/ollama:0.3.12 | 11434 | Local LLM inference |
 | litellm | ghcr.io/berriai/litellm | 4000 | LLM proxy/router |
-| openclaw | python:3.11-slim | 7000 | Aule Telegram bot |
+| hermes | n/a (see AI book) | n/a | Aule (Hermes agent) |
 | prometheus | prom/prometheus | 9090 | Metrics collection |
 | grafana | grafana/grafana | 3001 | Dashboards |
 | cloudflared | cloudflare/cloudflared | - | Cloudflare tunnel |
@@ -190,7 +190,6 @@ workloads including the AI stack, BookStack wiki, monitoring, and external acces
 ??? book-stack/
 ?   ??? docker-compose.yml     (bookstack, bookstack_db)
 ??? /data/compose/
-    ??? openclaw/
         ??? docker-compose.yml
 ```
 
